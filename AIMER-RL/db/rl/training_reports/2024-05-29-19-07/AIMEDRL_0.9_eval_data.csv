@@ -1,0 +1,155 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.99470854,3.6300000000000003,1,14,0,0,[section_rename],VirusShare_631642b3ebcc9970ae58228f8987f0ec.exe
+0.99730396,3.437749789953232,1,19,0,0,[section_rename],VirusShare_b432d41a6396e5c0b18347ccea0e2531.exe
+0.9971398,3.437749789953232,1,27,0,0,[section_rename],VirusShare_c8b8a5528bbbf36abccffbb089a693ac.exe
+0.99704295,3.437749789953232,1,50,0,0,[section_rename],VirusShare_a2208d809a015311e5d9e7a3de4b8f6f.exe
+0.9962388,3.437749789953232,1,58,0,0,[remove_debug],VirusShare_dae87cecdc13f633902e80b46c523c7d.exe
+0.9855489,3.6292917001247407,1,59,0,0,[section_rename],VirusShare_d39ff6af6f6ecb3a8fbb50bda74bdea7.exe
+0.94977367,3.6299645948410038,1,64,0,0,[remove_debug],VirusShare_48fc525c80aea2a073b4e16f4a98646b.exe
+0.9754345,3.6299679386615757,1,68,0,0,[break_optional_header_checksum],VirusShare_54a6d762039fd77d11669ca5ee10f56f.exe
+0.9985898,3.437749789953232,1,82,0,0,[break_optional_header_checksum],VirusShare_c1d7e22dee9d491ae31c05db209ceed2.exe
+0.8999187,3.6300000000000003,1,83,1,0,[overlay_append],VirusShare_acb782c4765cdec003587e4b5de623cd.exe
+0.8999187,6.9274134564399725,1,84,1,0,[section_rename],VirusShare_4839995ba2009a936e1bd39cba4d7528.exe
+0.9762266,3.1256735730171203,1,86,0,0,[overlay_append],VirusShare_762f447ab81f9624ce20310a256f79da.exe
+0.99904436,3.437749789953232,1,110,0,0,[overlay_append],VirusShare_73e55780a356c9d9ccfbd05db8b8f36e.exe
+0.9988042,3.437749789953232,1,114,0,0,[remove_debug],VirusShare_0504a0e2703bc450721fb27b4c56617f.exe
+0.8014614,6.876432584524155,1,119,1,1,[section_rename],VirusShare_cb5e0918cb1bf25aba8a1ef885632f03.exe
+0.97733307,3.629237018823624,1,127,0,0,[overlay_append],VirusShare_aaf64a5bd9446314cbd37b05bef5e84d.exe
+0.9762266,3.1256735730171203,1,143,0,0,[remove_debug],VirusShare_762f447ab81f9624ce20310a256f79da.exe
+0.99745864,3.437749789953232,1,152,0,0,[remove_debug],VirusShare_c0720c62caf1a0e3daa664c239b9d64b.exe
+0.9625985,3.6225222337245944,1,169,0,0,[section_add],VirusShare_4839995ba2009a936e1bd39cba4d7528.exe
+0.8014614,6.876432584524155,1,171,1,1,[break_optional_header_checksum],VirusShare_cb5e0918cb1bf25aba8a1ef885632f03.exe
+0.9917685,3.6300000000000003,1,178,0,0,[section_add],VirusShare_122ddeb6b3879d9857689fcac2734267.exe
+0.9903943,2.771342478990555,1,191,0,0,[section_add],VirusShare_920256744075b2d2cffcfc5f62c7f2a9.exe
+0.9476745,3.582791941165924,1,193,0,0,[overlay_append],VirusShare_cd85c3d61414b656b4c446764826e51a.exe
+0.9973277,3.437749789953232,1,195,0,0,[remove_debug],VirusShare_b432d41a6396e5c0b18347ccea0e2531.exe
+0.99716455,3.437749789953232,1,202,0,0,[overlay_append],VirusShare_28a114ae03303ec9249eaa868c9b7830.exe
+0.9754345,3.6299679386615757,1,203,0,0,[section_rename],VirusShare_54a6d762039fd77d11669ca5ee10f56f.exe
+0.99633765,3.5723727929592135,1,205,0,0,[imports_append],VirusShare_60384034bf8049cf4c2cd3f68550f8d8.exe
+0.8999187,3.6300000000000003,1,220,1,0,[overlay_append],VirusShare_acb782c4765cdec003587e4b5de623cd.exe
+0.8999187,6.737749789953233,1,221,1,0,[remove_debug],VirusShare_a2208d809a015311e5d9e7a3de4b8f6f.exe
+0.9973564,3.437749789953232,1,229,0,0,[overlay_append],VirusShare_b562746a8c97f88032d317fbbbd2ac95.exe
+0.999835,3.6088340091705327,1,235,0,0,[overlay_append],VirusShare_2529b44edd4e5eaac9f70da0a9ccbe90.exe
+0.9855489,3.6292917001247407,1,239,0,0,[remove_debug],VirusShare_d39ff6af6f6ecb3a8fbb50bda74bdea7.exe
+0.89945215,6.878329710960388,1,242,1,1,[break_optional_header_checksum],VirusShare_e858b08060e3eebecdfea32e36fe6983.exe
+0.89945215,6.912632589340211,1,244,1,1,[section_rename],VirusShare_73e55780a356c9d9ccfbd05db8b8f36e.exe
+0.9754345,3.6299679386615757,1,251,0,0,[overlay_append],VirusShare_54a6d762039fd77d11669ca5ee10f56f.exe
+0.89945215,6.878329710960388,1,255,1,1,[remove_debug],VirusShare_e858b08060e3eebecdfea32e36fe6983.exe
+0.97430557,3.622174476385117,1,262,0,0,[overlay_append],VirusShare_4839995ba2009a936e1bd39cba4d7528.exe
+0.9973909,3.6300000000000003,1,266,0,0,[section_add],VirusShare_631642b3ebcc9970ae58228f8987f0ec.exe
+0.9977659,3.4550623226165773,1,273,0,0,[imports_append],VirusShare_73e55780a356c9d9ccfbd05db8b8f36e.exe
+0.99745864,3.437749789953232,1,287,0,0,[remove_debug],VirusShare_c0720c62caf1a0e3daa664c239b9d64b.exe
+0.9988042,3.437749789953232,1,311,0,0,[remove_debug],VirusShare_0504a0e2703bc450721fb27b4c56617f.exe
+0.9476745,3.582791941165924,1,316,0,0,[section_rename],VirusShare_cd85c3d61414b656b4c446764826e51a.exe
+0.94977367,3.6299645948410038,1,317,0,0,[remove_debug],VirusShare_48fc525c80aea2a073b4e16f4a98646b.exe
+0.99712545,3.437749789953232,1,328,0,0,[section_rename],VirusShare_28a114ae03303ec9249eaa868c9b7830.exe
+0.9996649,3.437749789953232,1,349,0,0,[remove_debug],VirusShare_176750894bafe1156b0246ceeb9a6560.exe
+0.9986168,3.437749789953232,1,351,0,0,[remove_debug],VirusShare_c1d7e22dee9d491ae31c05db209ceed2.exe
+0.98819864,2.8592409002780914,1,354,0,0,[overlay_append],VirusShare_97b0a298b70cbb33056e43cd3360a096.exe
+0.9762266,3.1256735730171203,1,358,0,0,[remove_debug],VirusShare_762f447ab81f9624ce20310a256f79da.exe
+0.9962388,3.437749789953232,1,371,0,0,[overlay_append],VirusShare_dae87cecdc13f633902e80b46c523c7d.exe
+0.9954661,2.1509435820579528,1,382,0,1,[overlay_append],VirusShare_aaf64a5bd9446314cbd37b05bef5e84d.exe
+0.97733307,3.959237018823624,2,382,0,0,[overlay_append; section_rename],VirusShare_aaf64a5bd9446314cbd37b05bef5e84d.exe
+0.9754345,3.6299679386615757,1,387,0,0,[section_add],VirusShare_54a6d762039fd77d11669ca5ee10f56f.exe
+0.9971398,3.437749789953232,1,392,0,0,[section_rename],VirusShare_c8b8a5528bbbf36abccffbb089a693ac.exe
+0.85762197,6.877146588563919,1,398,1,0,[section_add],VirusShare_cd7cea2165d14410e6ede0af8a2fc6bf.exe
+0.99633765,3.5723727929592135,1,406,0,0,[imports_append],VirusShare_60384034bf8049cf4c2cd3f68550f8d8.exe
+0.99674016,3.423567663431168,1,407,0,0,[imports_append],VirusShare_e5a5ea85cf37ce281a21862a15633cfb.exe
+0.99964714,3.437749789953232,1,408,0,0,[section_add],VirusShare_176750894bafe1156b0246ceeb9a6560.exe
+0.99458575,3.6300000000000003,1,416,0,0,[remove_debug],VirusShare_631642b3ebcc9970ae58228f8987f0ec.exe
+0.9962388,3.437749789953232,1,429,0,0,[remove_debug],VirusShare_dae87cecdc13f633902e80b46c523c7d.exe
+0.9988042,3.437749789953232,1,436,0,0,[remove_debug],VirusShare_0504a0e2703bc450721fb27b4c56617f.exe
+0.8014614,6.876432584524155,1,444,1,1,[section_rename],VirusShare_cb5e0918cb1bf25aba8a1ef885632f03.exe
+0.9986168,3.437749789953232,1,447,0,0,[remove_debug],VirusShare_c1d7e22dee9d491ae31c05db209ceed2.exe
+0.9762115,2.9136127996444703,1,458,0,0,[section_rename],VirusShare_762f447ab81f9624ce20310a256f79da.exe
+0.9855489,3.6292917001247407,1,460,0,0,[remove_debug],VirusShare_d39ff6af6f6ecb3a8fbb50bda74bdea7.exe
+0.99904436,3.437749789953232,1,466,0,0,[overlay_append],VirusShare_73e55780a356c9d9ccfbd05db8b8f36e.exe
+0.99738604,3.437749789953232,1,484,0,0,[section_rename],VirusShare_c0720c62caf1a0e3daa664c239b9d64b.exe
+0.9536173,3.6299549567699434,1,490,0,0,[section_add],VirusShare_48fc525c80aea2a073b4e16f4a98646b.exe
+0.97130585,3.6293571996688847,1,495,0,0,[remove_debug],VirusShare_59ef3417d45e5f5c01e9618aa5e98d8c.exe
+0.9973564,3.437749789953232,1,499,0,0,[remove_debug],VirusShare_b562746a8c97f88032d317fbbbd2ac95.exe
+0.9973564,3.5028819072246553,1,501,0,1,[section_rename],VirusShare_e858b08060e3eebecdfea32e36fe6983.exe
+0.89945215,7.208329710960388,2,501,1,1,[section_rename; overlay_append],VirusShare_e858b08060e3eebecdfea32e36fe6983.exe
+0.97430557,3.622174476385117,1,518,0,0,[remove_debug],VirusShare_4839995ba2009a936e1bd39cba4d7528.exe
+0.9986168,3.437749789953232,1,522,0,0,[remove_debug],VirusShare_c1d7e22dee9d491ae31c05db209ceed2.exe
+0.9973564,3.437749789953232,1,543,0,0,[remove_debug],VirusShare_b562746a8c97f88032d317fbbbd2ac95.exe
+0.9855489,3.6292917001247407,1,545,0,0,[overlay_append],VirusShare_d39ff6af6f6ecb3a8fbb50bda74bdea7.exe
+0.97130585,3.6293571996688847,1,556,0,0,[overlay_append],VirusShare_59ef3417d45e5f5c01e9618aa5e98d8c.exe
+0.99458575,3.6300000000000003,1,572,0,0,[overlay_append],VirusShare_631642b3ebcc9970ae58228f8987f0ec.exe
+0.9989574,3.437749789953232,1,574,0,0,[remove_debug],VirusShare_fdcbd3fb48ffe4cf3314b03284506d1c.exe
+0.9966799,3.437749789953232,1,597,0,0,[section_add],VirusShare_c8b8a5528bbbf36abccffbb089a693ac.exe
+0.99412245,3.5702077674865724,1,611,0,0,[overlay_append],VirusShare_60384034bf8049cf4c2cd3f68550f8d8.exe
+0.99678683,3.437749789953232,1,615,0,0,[remove_debug],VirusShare_e5a5ea85cf37ce281a21862a15633cfb.exe
+0.9975642,3.437749789953232,1,618,0,0,[break_optional_header_checksum],VirusShare_c0720c62caf1a0e3daa664c239b9d64b.exe
+0.98819864,2.8592409002780914,1,621,0,0,[section_rename],VirusShare_97b0a298b70cbb33056e43cd3360a096.exe
+0.9754345,3.6299679386615757,1,623,0,0,[section_rename],VirusShare_54a6d762039fd77d11669ca5ee10f56f.exe
+0.99738604,3.437749789953232,1,630,0,0,[section_rename],VirusShare_c0720c62caf1a0e3daa664c239b9d64b.exe
+0.99898416,3.437749789953232,1,645,0,0,[section_rename],VirusShare_fdcbd3fb48ffe4cf3314b03284506d1c.exe
+0.99470854,3.6300000000000003,1,650,0,0,[section_rename],VirusShare_631642b3ebcc9970ae58228f8987f0ec.exe
+0.8014614,6.876432584524155,1,652,1,1,[overlay_append],VirusShare_cb5e0918cb1bf25aba8a1ef885632f03.exe
+0.9754345,3.6299679386615757,1,657,0,0,[remove_debug],VirusShare_54a6d762039fd77d11669ca5ee10f56f.exe
+0.99175936,3.6300000000000003,1,662,0,0,[overlay_append],VirusShare_122ddeb6b3879d9857689fcac2734267.exe
+0.9996649,3.437749789953232,1,663,0,0,[remove_debug],VirusShare_176750894bafe1156b0246ceeb9a6560.exe
+0.9898425,2.6551508116722107,1,666,0,0,[section_rename],VirusShare_920256744075b2d2cffcfc5f62c7f2a9.exe
+0.8999187,3.6300000000000003,1,669,1,0,[remove_debug],VirusShare_acb782c4765cdec003587e4b5de623cd.exe
+0.8999187,6.811533747911454,1,671,1,1,[remove_debug],VirusShare_d79fccb1d033bd2cda568814774146ed.exe
+0.99698573,3.437749789953232,1,672,0,0,[section_add],VirusShare_28a114ae03303ec9249eaa868c9b7830.exe
+0.9952129,3.56177307844162,1,678,0,1,[overlay_append],VirusShare_f6ec322450da7ee7f89092d4f7fb370a.exe
+0.9952129,3.89177307844162,2,678,0,1,[overlay_append; remove_debug],VirusShare_f6ec322450da7ee7f89092d4f7fb370a.exe
+0.98776615,4.22177307844162,3,678,0,1,[overlay_append; remove_debug; section_add],VirusShare_f6ec322450da7ee7f89092d4f7fb370a.exe
+0.98776615,4.55177307844162,4,678,0,1,[overlay_append; remove_debug; section_add; overlay_append],VirusShare_f6ec322450da7ee7f89092d4f7fb370a.exe
+0.98776615,4.88177307844162,5,678,0,1,[overlay_append; remove_debug; section_add; overlay_append; remove_debug],VirusShare_f6ec322450da7ee7f89092d4f7fb370a.exe
+0.99167085,1.98,6,678,0,0,[overlay_append; remove_debug; section_add; overlay_append; remove_debug; overlay_append],VirusShare_f6ec322450da7ee7f89092d4f7fb370a.exe
+0.9571858,3.5670901465415956,1,698,0,0,[break_optional_header_checksum],VirusShare_31d820378306ef1c553cb25652842864.exe
+0.99904436,3.437749789953232,1,703,0,0,[remove_debug],VirusShare_73e55780a356c9d9ccfbd05db8b8f36e.exe
+0.97733307,3.629237018823624,1,709,0,0,[section_rename],VirusShare_aaf64a5bd9446314cbd37b05bef5e84d.exe
+0.94977367,3.6299645948410038,1,710,0,0,[section_rename],VirusShare_48fc525c80aea2a073b4e16f4a98646b.exe
+0.9970938,3.437749789953232,1,722,0,0,[remove_debug],VirusShare_a2208d809a015311e5d9e7a3de4b8f6f.exe
+0.99730396,3.437749789953232,1,733,0,0,[section_rename],VirusShare_b432d41a6396e5c0b18347ccea0e2531.exe
+0.99678683,3.437749789953232,1,742,0,0,[overlay_append],VirusShare_e5a5ea85cf37ce281a21862a15633cfb.exe
+0.99382246,3.5702077674865724,1,743,0,0,[section_rename],VirusShare_60384034bf8049cf4c2cd3f68550f8d8.exe
+0.99904436,3.437749789953232,1,754,0,0,[overlay_append],VirusShare_73e55780a356c9d9ccfbd05db8b8f36e.exe
+0.99952924,3.5685718524456025,1,758,0,1,[section_rename],VirusShare_fcd50407390dd01b1d75ddad8cb19f58.exe
+0.99952924,3.8985718524456026,2,758,0,1,[section_rename; overlay_append],VirusShare_fcd50407390dd01b1d75ddad8cb19f58.exe
+0.99952924,4.228571852445603,3,758,0,1,[section_rename; overlay_append; remove_debug],VirusShare_fcd50407390dd01b1d75ddad8cb19f58.exe
+0.9995403,4.558571852445603,4,758,0,1,[section_rename; overlay_append; remove_debug; section_add],VirusShare_fcd50407390dd01b1d75ddad8cb19f58.exe
+0.9995134,4.888571852445603,5,758,0,1,[section_rename; overlay_append; remove_debug; section_add; section_rename],VirusShare_fcd50407390dd01b1d75ddad8cb19f58.exe
+0.9995371,5.218571852445603,6,758,0,1,[section_rename; overlay_append; remove_debug; section_add; section_rename; section_rename],VirusShare_fcd50407390dd01b1d75ddad8cb19f58.exe
+0.9995085,5.548571852445603,7,758,0,1,[section_rename; overlay_append; remove_debug; section_add; section_rename; section_rename; section_rename],VirusShare_fcd50407390dd01b1d75ddad8cb19f58.exe
+0.9995085,5.878571852445603,8,758,0,1,[section_rename; overlay_append; remove_debug; section_add; section_rename; section_rename; section_rename; remove_debug],VirusShare_fcd50407390dd01b1d75ddad8cb19f58.exe
+0.9995085,6.208571852445603,9,758,0,1,[section_rename; overlay_append; remove_debug; section_add; section_rename; section_rename; section_rename; remove_debug; overlay_append],VirusShare_fcd50407390dd01b1d75ddad8cb19f58.exe
+0.9994978,6.538571852445603,10,758,0,1,[section_rename; overlay_append; remove_debug; section_add; section_rename; section_rename; section_rename; remove_debug; overlay_append; section_rename],VirusShare_fcd50407390dd01b1d75ddad8cb19f58.exe
+0.97430557,3.622174476385117,1,769,0,0,[remove_debug],VirusShare_4839995ba2009a936e1bd39cba4d7528.exe
+0.9571858,3.5670901465415956,1,774,0,0,[remove_debug],VirusShare_31d820378306ef1c553cb25652842864.exe
+0.9476745,3.582791941165924,1,780,0,0,[remove_debug],VirusShare_cd85c3d61414b656b4c446764826e51a.exe
+0.98819864,2.8592409002780914,1,781,0,0,[section_rename],VirusShare_97b0a298b70cbb33056e43cd3360a096.exe
+0.94977367,3.6299645948410038,1,799,0,0,[overlay_append],VirusShare_48fc525c80aea2a073b4e16f4a98646b.exe
+0.99678683,3.437749789953232,1,812,0,0,[remove_debug],VirusShare_e5a5ea85cf37ce281a21862a15633cfb.exe
+0.97130585,3.6293571996688847,1,817,0,0,[section_rename],VirusShare_59ef3417d45e5f5c01e9618aa5e98d8c.exe
+0.9762115,2.9136127996444703,1,823,0,0,[section_rename],VirusShare_762f447ab81f9624ce20310a256f79da.exe
+0.8999187,3.6300000000000003,1,826,1,0,[remove_debug],VirusShare_acb782c4765cdec003587e4b5de623cd.exe
+0.8999187,6.868571852445603,1,828,1,1,[remove_debug],VirusShare_20ec847ce1b60777b067648e1b5ef9d4.exe
+0.99470854,3.6300000000000003,1,830,0,0,[section_rename],VirusShare_631642b3ebcc9970ae58228f8987f0ec.exe
+0.99716455,3.437749789953232,1,837,0,0,[remove_debug],VirusShare_28a114ae03303ec9249eaa868c9b7830.exe
+0.99263555,3.3985135960578923,1,841,0,0,[imports_append],VirusShare_c1d7e22dee9d491ae31c05db209ceed2.exe
+0.9754345,3.6299679386615757,1,857,0,0,[section_add],VirusShare_54a6d762039fd77d11669ca5ee10f56f.exe
+0.99175936,3.6300000000000003,1,860,0,0,[remove_debug],VirusShare_122ddeb6b3879d9857689fcac2734267.exe
+0.9988042,3.437749789953232,1,869,0,0,[remove_debug],VirusShare_0504a0e2703bc450721fb27b4c56617f.exe
+0.999835,3.6088340091705327,1,874,0,0,[remove_debug],VirusShare_2529b44edd4e5eaac9f70da0a9ccbe90.exe
+0.9973277,3.437749789953232,1,877,0,0,[remove_debug],VirusShare_b432d41a6396e5c0b18347ccea0e2531.exe
+0.97733307,3.629237018823624,1,887,0,0,[section_rename],VirusShare_aaf64a5bd9446314cbd37b05bef5e84d.exe
+0.99458575,3.6300000000000003,1,892,0,0,[break_optional_header_checksum],VirusShare_631642b3ebcc9970ae58228f8987f0ec.exe
+0.99712545,3.437749789953232,1,900,0,0,[section_rename],VirusShare_28a114ae03303ec9249eaa868c9b7830.exe
+0.97430557,3.622174476385117,1,919,0,0,[overlay_append],VirusShare_4839995ba2009a936e1bd39cba4d7528.exe
+0.8999187,3.6300000000000003,1,922,1,0,[break_optional_header_checksum],VirusShare_acb782c4765cdec003587e4b5de623cd.exe
+0.8999187,6.862088381052018,1,923,1,1,[section_add],VirusShare_22521f4ea1fa1815dc069a81eab66845.exe
+0.99382246,3.5702077674865724,1,938,0,0,[section_rename],VirusShare_60384034bf8049cf4c2cd3f68550f8d8.exe
+0.9754345,3.6299679386615757,1,946,0,0,[remove_debug],VirusShare_54a6d762039fd77d11669ca5ee10f56f.exe
+0.99175936,3.6300000000000003,1,949,0,0,[overlay_append],VirusShare_122ddeb6b3879d9857689fcac2734267.exe
+0.9855489,3.6292917001247407,1,951,0,0,[section_rename],VirusShare_d39ff6af6f6ecb3a8fbb50bda74bdea7.exe
+0.9986461,3.437749789953232,1,952,0,0,[section_rename],VirusShare_c1d7e22dee9d491ae31c05db209ceed2.exe
+0.9989574,3.437749789953232,1,955,0,0,[overlay_append],VirusShare_fdcbd3fb48ffe4cf3314b03284506d1c.exe
+0.9973564,3.437749789953232,1,958,0,0,[remove_debug],VirusShare_b562746a8c97f88032d317fbbbd2ac95.exe
+0.999835,3.6088340091705327,1,966,0,0,[break_optional_header_checksum],VirusShare_2529b44edd4e5eaac9f70da0a9ccbe90.exe
+0.99904436,3.437749789953232,1,968,0,0,[remove_debug],VirusShare_73e55780a356c9d9ccfbd05db8b8f36e.exe
+0.9988042,3.437749789953232,1,972,0,0,[remove_debug],VirusShare_0504a0e2703bc450721fb27b4c56617f.exe

@@ -1,0 +1,56 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9738166291107782,3.6300000000000003,1,1,0,1,[upx_unpack],066208ca477169c3f6da886458ead44fa6f39a8c1b0c38ea2a18917bd1c68aee
+0.9738166291107782,3.9600000000000004,2,1,0,1,[upx_unpack; remove_debug],066208ca477169c3f6da886458ead44fa6f39a8c1b0c38ea2a18917bd1c68aee
+0.9551865484621882,4.29,3,1,0,1,[upx_unpack; remove_debug; imports_append],066208ca477169c3f6da886458ead44fa6f39a8c1b0c38ea2a18917bd1c68aee
+0.9551865484621882,4.62,4,1,0,1,[upx_unpack; remove_debug; imports_append; overlay_append],066208ca477169c3f6da886458ead44fa6f39a8c1b0c38ea2a18917bd1c68aee
+0.9452445523333238,4.95,5,1,0,1,[upx_unpack; remove_debug; imports_append; overlay_append; section_rename],066208ca477169c3f6da886458ead44fa6f39a8c1b0c38ea2a18917bd1c68aee
+0.9452445523333238,5.28,6,1,0,1,[upx_unpack; remove_debug; imports_append; overlay_append; section_rename; overlay_append],066208ca477169c3f6da886458ead44fa6f39a8c1b0c38ea2a18917bd1c68aee
+0.9527794420634581,5.61,7,1,0,1,[upx_unpack; remove_debug; imports_append; overlay_append; section_rename; overlay_append; imports_append],066208ca477169c3f6da886458ead44fa6f39a8c1b0c38ea2a18917bd1c68aee
+0.9527794420634581,5.94,8,1,0,1,[upx_unpack; remove_debug; imports_append; overlay_append; section_rename; overlay_append; imports_append; break_optional_header_checksum],066208ca477169c3f6da886458ead44fa6f39a8c1b0c38ea2a18917bd1c68aee
+0.40486141272264203,9.57,9,1,1,1,[upx_unpack; remove_debug; imports_append; overlay_append; section_rename; overlay_append; imports_append; break_optional_header_checksum; upx_pack],066208ca477169c3f6da886458ead44fa6f39a8c1b0c38ea2a18917bd1c68aee
+0.9907191531483891,3.6300000000000003,1,2,0,1,[upx_pack],80d8f8835e892c893ea28dc91a7999e9bcd873f2faf8bc9b8d957794a15875ea
+0.9907191531483891,3.9600000000000004,2,2,0,1,[upx_pack; remove_signature],80d8f8835e892c893ea28dc91a7999e9bcd873f2faf8bc9b8d957794a15875ea
+0.9895254544939754,4.29,3,2,0,1,[upx_pack; remove_signature; imports_append],80d8f8835e892c893ea28dc91a7999e9bcd873f2faf8bc9b8d957794a15875ea
+0.9935737477167593,4.62,4,2,0,1,[upx_pack; remove_signature; imports_append; section_rename],80d8f8835e892c893ea28dc91a7999e9bcd873f2faf8bc9b8d957794a15875ea
+0.9935737477167593,4.95,5,2,0,1,[upx_pack; remove_signature; imports_append; section_rename; overlay_append],80d8f8835e892c893ea28dc91a7999e9bcd873f2faf8bc9b8d957794a15875ea
+0.9935737477167593,5.28,6,2,0,1,[upx_pack; remove_signature; imports_append; section_rename; overlay_append; section_rename],80d8f8835e892c893ea28dc91a7999e9bcd873f2faf8bc9b8d957794a15875ea
+0.9935737477167593,5.61,7,2,0,1,[upx_pack; remove_signature; imports_append; section_rename; overlay_append; section_rename; section_append],80d8f8835e892c893ea28dc91a7999e9bcd873f2faf8bc9b8d957794a15875ea
+0.9935737477167593,5.94,8,2,0,1,[upx_pack; remove_signature; imports_append; section_rename; overlay_append; section_rename; section_append; section_rename],80d8f8835e892c893ea28dc91a7999e9bcd873f2faf8bc9b8d957794a15875ea
+0.9935737477167593,6.2700000000000005,9,2,0,1,[upx_pack; remove_signature; imports_append; section_rename; overlay_append; section_rename; section_append; section_rename; remove_debug],80d8f8835e892c893ea28dc91a7999e9bcd873f2faf8bc9b8d957794a15875ea
+0.9941028843800317,6.6000000000000005,10,2,0,1,[upx_pack; remove_signature; imports_append; section_rename; overlay_append; section_rename; section_append; section_rename; remove_debug; overlay_append],80d8f8835e892c893ea28dc91a7999e9bcd873f2faf8bc9b8d957794a15875ea
+0.9956511079736567,3.6300000000000003,1,3,0,1,[remove_debug],339c67c2aaa2f7bc23ea77b1320a0dc43519a0561644c5bbc0b698c256cdf138
+0.8755942720116863,7.260000000000001,2,3,1,1,[remove_debug; upx_pack],339c67c2aaa2f7bc23ea77b1320a0dc43519a0561644c5bbc0b698c256cdf138
+0.9851044529122387,3.6300000000000003,1,4,0,1,[overlay_append],0932edb59a0aac276a3afe4507141ac4c0688f18f52bc40c0b267a470b0a4c8b
+0.9933151585681682,3.9600000000000004,2,4,0,1,[overlay_append; remove_debug],0932edb59a0aac276a3afe4507141ac4c0688f18f52bc40c0b267a470b0a4c8b
+0.9729612672473998,4.29,3,4,0,1,[overlay_append; remove_debug; upx_pack],0932edb59a0aac276a3afe4507141ac4c0688f18f52bc40c0b267a470b0a4c8b
+0.9940234953637469,4.62,4,4,0,1,[overlay_append; remove_debug; upx_pack; upx_unpack],0932edb59a0aac276a3afe4507141ac4c0688f18f52bc40c0b267a470b0a4c8b
+0.9795271998901706,1.6500000000000001,5,4,0,0,[overlay_append; remove_debug; upx_pack; upx_unpack; section_add],0932edb59a0aac276a3afe4507141ac4c0688f18f52bc40c0b267a470b0a4c8b
+0.9807763852125794,3.6300000000000003,1,5,0,1,[section_rename],9f8b0cc9fbc18362337e1b47d1c4f9ae4bba02a0093c77849aad4aa2fdb8c05d
+0.9807763852125794,3.9600000000000004,2,5,0,1,[section_rename; section_append],9f8b0cc9fbc18362337e1b47d1c4f9ae4bba02a0093c77849aad4aa2fdb8c05d
+0.9807763852125794,4.29,3,5,0,1,[section_rename; section_append; remove_signature],9f8b0cc9fbc18362337e1b47d1c4f9ae4bba02a0093c77849aad4aa2fdb8c05d
+0.9886754973466645,4.62,4,5,0,1,[section_rename; section_append; remove_signature; upx_pack],9f8b0cc9fbc18362337e1b47d1c4f9ae4bba02a0093c77849aad4aa2fdb8c05d
+0.9886754973466645,4.95,5,5,0,1,[section_rename; section_append; remove_signature; upx_pack; remove_debug],9f8b0cc9fbc18362337e1b47d1c4f9ae4bba02a0093c77849aad4aa2fdb8c05d
+0.9886754973466645,5.28,6,5,0,1,[section_rename; section_append; remove_signature; upx_pack; remove_debug; imports_append],9f8b0cc9fbc18362337e1b47d1c4f9ae4bba02a0093c77849aad4aa2fdb8c05d
+0.9886754973466645,5.61,7,5,0,1,[section_rename; section_append; remove_signature; upx_pack; remove_debug; imports_append; overlay_append],9f8b0cc9fbc18362337e1b47d1c4f9ae4bba02a0093c77849aad4aa2fdb8c05d
+0.9886754973466645,5.94,8,5,0,1,[section_rename; section_append; remove_signature; upx_pack; remove_debug; imports_append; overlay_append; upx_pack],9f8b0cc9fbc18362337e1b47d1c4f9ae4bba02a0093c77849aad4aa2fdb8c05d
+0.9892574407720676,2.97,9,5,0,0,[section_rename; section_append; remove_signature; upx_pack; remove_debug; imports_append; overlay_append; upx_pack; section_add],9f8b0cc9fbc18362337e1b47d1c4f9ae4bba02a0093c77849aad4aa2fdb8c05d
+0.9941276246477508,3.6300000000000003,1,6,0,1,[overlay_append],cd6d1c300d04321a87a0c941a6a9902339f2c81ddbe0042abcc1507ff648a150
+0.9941276246477508,3.9600000000000004,2,6,0,1,[overlay_append; remove_debug],cd6d1c300d04321a87a0c941a6a9902339f2c81ddbe0042abcc1507ff648a150
+0.9913802743360534,4.29,3,6,0,1,[overlay_append; remove_debug; imports_append],cd6d1c300d04321a87a0c941a6a9902339f2c81ddbe0042abcc1507ff648a150
+0.988627844118474,4.62,4,6,0,1,[overlay_append; remove_debug; imports_append; section_rename],cd6d1c300d04321a87a0c941a6a9902339f2c81ddbe0042abcc1507ff648a150
+0.988627844118474,4.95,5,6,0,1,[overlay_append; remove_debug; imports_append; section_rename; upx_unpack],cd6d1c300d04321a87a0c941a6a9902339f2c81ddbe0042abcc1507ff648a150
+0.9902378667555108,5.28,6,6,0,1,[overlay_append; remove_debug; imports_append; section_rename; upx_unpack; section_rename],cd6d1c300d04321a87a0c941a6a9902339f2c81ddbe0042abcc1507ff648a150
+0.9892646180864701,5.61,7,6,0,1,[overlay_append; remove_debug; imports_append; section_rename; upx_unpack; section_rename; imports_append],cd6d1c300d04321a87a0c941a6a9902339f2c81ddbe0042abcc1507ff648a150
+0.9892646180864701,5.94,8,6,0,1,[overlay_append; remove_debug; imports_append; section_rename; upx_unpack; section_rename; imports_append; upx_unpack],cd6d1c300d04321a87a0c941a6a9902339f2c81ddbe0042abcc1507ff648a150
+0.9892646180864701,6.2700000000000005,9,6,0,1,[overlay_append; remove_debug; imports_append; section_rename; upx_unpack; section_rename; imports_append; upx_unpack; overlay_append],cd6d1c300d04321a87a0c941a6a9902339f2c81ddbe0042abcc1507ff648a150
+0.9812670820657318,6.6000000000000005,10,6,0,1,[overlay_append; remove_debug; imports_append; section_rename; upx_unpack; section_rename; imports_append; upx_unpack; overlay_append; imports_append],cd6d1c300d04321a87a0c941a6a9902339f2c81ddbe0042abcc1507ff648a150
+0.987312591323899,3.6300000000000003,1,7,0,1,[section_rename],bb88b070921c0ebf96338418e88b921e34052af1f5b8e4c201c5e696ca9a4880
+0.9864014115052362,3.9600000000000004,2,7,0,1,[section_rename; section_rename],bb88b070921c0ebf96338418e88b921e34052af1f5b8e4c201c5e696ca9a4880
+0.9818670547880203,4.29,3,7,0,1,[section_rename; section_rename; imports_append],bb88b070921c0ebf96338418e88b921e34052af1f5b8e4c201c5e696ca9a4880
+0.9818670547880203,4.62,4,7,0,1,[section_rename; section_rename; imports_append; remove_debug],bb88b070921c0ebf96338418e88b921e34052af1f5b8e4c201c5e696ca9a4880
+0.9818670547880203,4.95,5,7,0,1,[section_rename; section_rename; imports_append; remove_debug; remove_debug],bb88b070921c0ebf96338418e88b921e34052af1f5b8e4c201c5e696ca9a4880
+0.9884460864111232,5.28,6,7,0,1,[section_rename; section_rename; imports_append; remove_debug; remove_debug; upx_pack],bb88b070921c0ebf96338418e88b921e34052af1f5b8e4c201c5e696ca9a4880
+0.9884460864111232,5.61,7,7,0,1,[section_rename; section_rename; imports_append; remove_debug; remove_debug; upx_pack; break_optional_header_checksum],bb88b070921c0ebf96338418e88b921e34052af1f5b8e4c201c5e696ca9a4880
+0.9884460864111232,5.94,8,7,0,1,[section_rename; section_rename; imports_append; remove_debug; remove_debug; upx_pack; break_optional_header_checksum; remove_debug],bb88b070921c0ebf96338418e88b921e34052af1f5b8e4c201c5e696ca9a4880
+0.9884460864111232,6.2700000000000005,9,7,0,1,[section_rename; section_rename; imports_append; remove_debug; remove_debug; upx_pack; break_optional_header_checksum; remove_debug; upx_pack],bb88b070921c0ebf96338418e88b921e34052af1f5b8e4c201c5e696ca9a4880
+0.9887311556468137,6.6000000000000005,10,7,0,1,[section_rename; section_rename; imports_append; remove_debug; remove_debug; upx_pack; break_optional_header_checksum; remove_debug; upx_pack; section_rename],bb88b070921c0ebf96338418e88b921e34052af1f5b8e4c201c5e696ca9a4880

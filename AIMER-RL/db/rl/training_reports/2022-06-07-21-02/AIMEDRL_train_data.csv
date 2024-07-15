@@ -1,0 +1,12 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9976787494419276,0.33,1,1,0,0,[section_add],4615299456e1e3d6ad364a3ccfe30515a91d27d21fb31db52aaafee53c2c41b5
+0.9385151553771913,3.6300000000000003,1,1,0,1,[imports_append],e33cf803322a30bad7df5b94011bab86605fab1b7690a0c5cc0138657559de63
+0.9385151553771913,3.9600000000000004,2,1,0,1,[imports_append; remove_signature],e33cf803322a30bad7df5b94011bab86605fab1b7690a0c5cc0138657559de63
+0.9385151553771913,4.29,3,1,0,1,[imports_append; remove_signature; section_rename],e33cf803322a30bad7df5b94011bab86605fab1b7690a0c5cc0138657559de63
+0.9385151553771913,4.62,4,1,0,1,[imports_append; remove_signature; section_rename; overlay_append],e33cf803322a30bad7df5b94011bab86605fab1b7690a0c5cc0138657559de63
+0.9296159446368901,4.95,5,1,0,1,[imports_append; remove_signature; section_rename; overlay_append; imports_append],e33cf803322a30bad7df5b94011bab86605fab1b7690a0c5cc0138657559de63
+0.9296159446368901,5.28,6,1,0,1,[imports_append; remove_signature; section_rename; overlay_append; imports_append; overlay_append],e33cf803322a30bad7df5b94011bab86605fab1b7690a0c5cc0138657559de63
+0.9296159446368901,5.61,7,1,0,1,[imports_append; remove_signature; section_rename; overlay_append; imports_append; overlay_append; imports_append],e33cf803322a30bad7df5b94011bab86605fab1b7690a0c5cc0138657559de63
+0.9296159446368901,5.94,8,1,0,1,[imports_append; remove_signature; section_rename; overlay_append; imports_append; overlay_append; imports_append; imports_append],e33cf803322a30bad7df5b94011bab86605fab1b7690a0c5cc0138657559de63
+0.9296159446368901,6.2700000000000005,9,1,0,1,[imports_append; remove_signature; section_rename; overlay_append; imports_append; overlay_append; imports_append; imports_append; remove_signature],e33cf803322a30bad7df5b94011bab86605fab1b7690a0c5cc0138657559de63
+0.9296159446368901,6.6000000000000005,10,1,0,1,[imports_append; remove_signature; section_rename; overlay_append; imports_append; overlay_append; imports_append; imports_append; remove_signature; section_rename],e33cf803322a30bad7df5b94011bab86605fab1b7690a0c5cc0138657559de63

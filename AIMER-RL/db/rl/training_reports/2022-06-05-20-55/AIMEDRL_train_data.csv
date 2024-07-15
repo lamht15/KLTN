@@ -1,0 +1,11 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9935982292775561,3.6300000000000003,1,1,0,1,[remove_signature],b7268ad9b8e5ef0b5482371d8f026f7a4a819f09315cd07b0a6325c6a3d42c9c
+0.9810646518012495,3.9600000000000004,2,1,0,1,[remove_signature; upx_pack],b7268ad9b8e5ef0b5482371d8f026f7a4a819f09315cd07b0a6325c6a3d42c9c
+0.9810646518012495,4.29,3,1,0,1,[remove_signature; upx_pack; section_append],b7268ad9b8e5ef0b5482371d8f026f7a4a819f09315cd07b0a6325c6a3d42c9c
+0.9810646518012495,4.62,4,1,0,1,[remove_signature; upx_pack; section_append; break_optional_header_checksum],b7268ad9b8e5ef0b5482371d8f026f7a4a819f09315cd07b0a6325c6a3d42c9c
+0.9810646518012495,4.95,5,1,0,1,[remove_signature; upx_pack; section_append; break_optional_header_checksum; remove_signature],b7268ad9b8e5ef0b5482371d8f026f7a4a819f09315cd07b0a6325c6a3d42c9c
+0.9810646518012495,5.28,6,1,0,1,[remove_signature; upx_pack; section_append; break_optional_header_checksum; remove_signature; section_append],b7268ad9b8e5ef0b5482371d8f026f7a4a819f09315cd07b0a6325c6a3d42c9c
+0.9810646518012495,5.61,7,1,0,1,[remove_signature; upx_pack; section_append; break_optional_header_checksum; remove_signature; section_append; section_append],b7268ad9b8e5ef0b5482371d8f026f7a4a819f09315cd07b0a6325c6a3d42c9c
+0.9810646518012495,5.94,8,1,0,1,[remove_signature; upx_pack; section_append; break_optional_header_checksum; remove_signature; section_append; section_append; remove_signature],b7268ad9b8e5ef0b5482371d8f026f7a4a819f09315cd07b0a6325c6a3d42c9c
+0.9810646518012495,6.2700000000000005,9,1,0,1,[remove_signature; upx_pack; section_append; break_optional_header_checksum; remove_signature; section_append; section_append; remove_signature; section_append],b7268ad9b8e5ef0b5482371d8f026f7a4a819f09315cd07b0a6325c6a3d42c9c
+0.9810646518012495,6.6000000000000005,10,1,0,1,[remove_signature; upx_pack; section_append; break_optional_header_checksum; remove_signature; section_append; section_append; remove_signature; section_append; section_append],b7268ad9b8e5ef0b5482371d8f026f7a4a819f09315cd07b0a6325c6a3d42c9c

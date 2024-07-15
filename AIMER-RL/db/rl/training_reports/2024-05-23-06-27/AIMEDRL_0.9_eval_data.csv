@@ -1,0 +1,2 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.8424491,6.930000000000001,1,1,1,1,[overlay_append],VirusShare_0a8779cf99b23492147a8a52f920eb64.exe

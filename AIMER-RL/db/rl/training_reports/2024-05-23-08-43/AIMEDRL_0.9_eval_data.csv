@@ -1,0 +1,2 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9963486,0.33,1,6,0,0,[section_rename],VirusShare_dae87cecdc13f633902e80b46c523c7d.exe

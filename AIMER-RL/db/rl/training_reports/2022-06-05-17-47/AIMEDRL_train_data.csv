@@ -1,0 +1,13 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9514588133182109,3.6300000000000003,1,1,0,1,[upx_pack],f248ad5a76e34ccb6b7c9a127f22e05e11aadef906274799e4339e6273c8fdb6
+0.9514588133182109,3.9600000000000004,2,1,0,1,[upx_pack; upx_unpack],f248ad5a76e34ccb6b7c9a127f22e05e11aadef906274799e4339e6273c8fdb6
+0.9514588133182109,4.29,3,1,0,1,[upx_pack; upx_unpack; upx_unpack],f248ad5a76e34ccb6b7c9a127f22e05e11aadef906274799e4339e6273c8fdb6
+0.9530272597834797,4.62,4,1,0,1,[upx_pack; upx_unpack; upx_unpack; remove_debug],f248ad5a76e34ccb6b7c9a127f22e05e11aadef906274799e4339e6273c8fdb6
+0.9725945469776002,4.95,5,1,0,1,[upx_pack; upx_unpack; upx_unpack; remove_debug; overlay_append],f248ad5a76e34ccb6b7c9a127f22e05e11aadef906274799e4339e6273c8fdb6
+0.973452592690482,5.28,6,1,0,1,[upx_pack; upx_unpack; upx_unpack; remove_debug; overlay_append; remove_debug],f248ad5a76e34ccb6b7c9a127f22e05e11aadef906274799e4339e6273c8fdb6
+0.9626785332118968,5.61,7,1,0,1,[upx_pack; upx_unpack; upx_unpack; remove_debug; overlay_append; remove_debug; overlay_append],f248ad5a76e34ccb6b7c9a127f22e05e11aadef906274799e4339e6273c8fdb6
+0.9436550634254316,5.94,8,1,0,1,[upx_pack; upx_unpack; upx_unpack; remove_debug; overlay_append; remove_debug; overlay_append; remove_debug],f248ad5a76e34ccb6b7c9a127f22e05e11aadef906274799e4339e6273c8fdb6
+0.9436550634254316,6.2700000000000005,9,1,0,1,[upx_pack; upx_unpack; upx_unpack; remove_debug; overlay_append; remove_debug; overlay_append; remove_debug; remove_debug],f248ad5a76e34ccb6b7c9a127f22e05e11aadef906274799e4339e6273c8fdb6
+0.9690843497339274,6.6000000000000005,10,1,0,1,[upx_pack; upx_unpack; upx_unpack; remove_debug; overlay_append; remove_debug; overlay_append; remove_debug; remove_debug; section_rename],f248ad5a76e34ccb6b7c9a127f22e05e11aadef906274799e4339e6273c8fdb6
+0.9908767149731179,3.6300000000000003,1,2,0,1,[section_append],70f5d24b39f4e212a8423c70e8067d08bd716eae9a61855b3f27fc229085b3de
+0.9908767149731179,0.66,2,2,0,0,[section_append; section_add],70f5d24b39f4e212a8423c70e8067d08bd716eae9a61855b3f27fc229085b3de

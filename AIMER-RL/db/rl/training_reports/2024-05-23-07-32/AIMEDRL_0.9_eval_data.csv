@@ -1,0 +1,5 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.8961305,6.930000000000001,1,14,1,1,[section_rename],Virus1.exe
+0.769844,6.930000000000001,1,26,1,1,[imports_append],Virus1.exe
+0.769844,6.930000000000001,1,31,1,1,[imports_append],Virus1.exe
+0.8424491,6.930000000000001,1,32,1,1,[overlay_append],Virus2.exe

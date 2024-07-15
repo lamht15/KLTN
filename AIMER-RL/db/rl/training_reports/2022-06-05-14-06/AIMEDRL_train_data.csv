@@ -1,0 +1,12 @@
+detection_value,reward,turn,episode,adversarial,actions_taken,malware
+0.5576295914813258,7.013249269005848,1,1,1,[break_optional_header_checksum],d904b2e5ce2c52a92709d6930c14adb9a9aa366f7d44963b145a1b8ba5faac1a
+0.909239396223326,4.922604790419162,1,2,0,[overlay_append],f4d7de6ee20e9a2f13a739a7b1e1542da1553f216cb2234ab4cc27a9b0a31d21
+0.9814367370466852,3.5,2,2,0,[overlay_append; upx_unpack],f4d7de6ee20e9a2f13a739a7b1e1542da1553f216cb2234ab4cc27a9b0a31d21
+0.9814367370466852,3.2,3,2,0,[overlay_append; upx_unpack; upx_unpack],f4d7de6ee20e9a2f13a739a7b1e1542da1553f216cb2234ab4cc27a9b0a31d21
+0.9814367370466852,3.6,4,2,0,[overlay_append; upx_unpack; upx_unpack; overlay_append],f4d7de6ee20e9a2f13a739a7b1e1542da1553f216cb2234ab4cc27a9b0a31d21
+0.909239396223326,5.53808383233533,5,2,0,[overlay_append; upx_unpack; upx_unpack; overlay_append; section_append],f4d7de6ee20e9a2f13a739a7b1e1542da1553f216cb2234ab4cc27a9b0a31d21
+0.9509637846311252,4.923053892215568,6,2,0,[section_rename],f4d7de6ee20e9a2f13a739a7b1e1542da1553f216cb2234ab4cc27a9b0a31d21
+0.9814367370466852,3.5,7,2,0,[section_rename; upx_unpack],f4d7de6ee20e9a2f13a739a7b1e1542da1553f216cb2234ab4cc27a9b0a31d21
+0.9509637846311252,5.923053892215568,8,2,0,[section_rename; upx_unpack; section_append],f4d7de6ee20e9a2f13a739a7b1e1542da1553f216cb2234ab4cc27a9b0a31d21
+0.9509637846311252,6.423053892215568,9,2,0,[section_rename; upx_unpack; section_append; remove_debug],f4d7de6ee20e9a2f13a739a7b1e1542da1553f216cb2234ab4cc27a9b0a31d21
+0.9435245509164297,6.925411676646707,10,2,0,[section_rename; upx_unpack; section_append; remove_debug; imports_append],f4d7de6ee20e9a2f13a739a7b1e1542da1553f216cb2234ab4cc27a9b0a31d21

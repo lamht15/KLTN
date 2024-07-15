@@ -1,0 +1,16 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9409832324997633,3.6300000000000003,1,1,0,1,[upx_unpack],7fff58641a5500fe77d386261d7c25ee1fca261503f667d3f2277a65d54d74af
+0.9955722726535625,3.9600000000000004,2,1,0,1,[upx_unpack; upx_pack],7fff58641a5500fe77d386261d7c25ee1fca261503f667d3f2277a65d54d74af
+0.9955722726535625,4.29,3,1,0,1,[upx_unpack; upx_pack; section_add],7fff58641a5500fe77d386261d7c25ee1fca261503f667d3f2277a65d54d74af
+0.9976301274884837,4.62,4,1,0,1,[upx_unpack; upx_pack; section_add; section_add],7fff58641a5500fe77d386261d7c25ee1fca261503f667d3f2277a65d54d74af
+0.8337153565132737,8.25,5,1,1,1,[upx_unpack; upx_pack; section_add; section_add; section_add],7fff58641a5500fe77d386261d7c25ee1fca261503f667d3f2277a65d54d74af
+0.9871242475130927,3.6300000000000003,1,2,0,1,[section_append],cdc188737e1faf7526afb81bc1fe99d5063604cd750b7c2af93173eebdb2af26
+0.9955722726535625,3.9600000000000004,2,2,0,1,[section_append; upx_pack],cdc188737e1faf7526afb81bc1fe99d5063604cd750b7c2af93173eebdb2af26
+0.9955722726535625,4.29,3,2,0,1,[section_append; upx_pack; imports_append],cdc188737e1faf7526afb81bc1fe99d5063604cd750b7c2af93173eebdb2af26
+0.9976301274884837,4.62,4,2,0,1,[section_append; upx_pack; imports_append; section_append],cdc188737e1faf7526afb81bc1fe99d5063604cd750b7c2af93173eebdb2af26
+0.939685589609545,4.95,5,2,0,1,[section_append; upx_pack; imports_append; section_append; section_add],cdc188737e1faf7526afb81bc1fe99d5063604cd750b7c2af93173eebdb2af26
+0.9144614596337807,5.28,6,2,0,1,[section_append; upx_pack; imports_append; section_append; section_add; imports_append],cdc188737e1faf7526afb81bc1fe99d5063604cd750b7c2af93173eebdb2af26
+0.9144614596337807,5.61,7,2,0,1,[section_append; upx_pack; imports_append; section_append; section_add; imports_append; section_append],cdc188737e1faf7526afb81bc1fe99d5063604cd750b7c2af93173eebdb2af26
+0.9184938998844653,5.94,8,2,0,1,[section_append; upx_pack; imports_append; section_append; section_add; imports_append; section_append; section_add],cdc188737e1faf7526afb81bc1fe99d5063604cd750b7c2af93173eebdb2af26
+0.9184938998844653,6.2700000000000005,9,2,0,1,[section_append; upx_pack; imports_append; section_append; section_add; imports_append; section_append; section_add; remove_signature],cdc188737e1faf7526afb81bc1fe99d5063604cd750b7c2af93173eebdb2af26
+0.9184938998844653,6.6000000000000005,10,2,0,1,[section_append; upx_pack; imports_append; section_append; section_add; imports_append; section_append; section_add; remove_signature; remove_signature],cdc188737e1faf7526afb81bc1fe99d5063604cd750b7c2af93173eebdb2af26

@@ -1,0 +1,4 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9986168,3.437749789953232,1,7,0,0,[overlay_append],VirusShare_c1d7e22dee9d491ae31c05db209ceed2.exe
+0.97365606,3.629237805604935,1,11,0,0,[imports_append],VirusShare_aaf64a5bd9446314cbd37b05bef5e84d.exe
+0.99678683,3.437749789953232,1,17,0,0,[overlay_append],VirusShare_e5a5ea85cf37ce281a21862a15633cfb.exe

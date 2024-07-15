@@ -1,0 +1,17 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9812931200155686,3.9600000000000004,1,1,0,1,[remove_signature],29dd3a9d2824a65bd8f9b1eff865f4ee58969b93fae73d92c643b662eec2e612
+0.9812931200155686,4.62,2,1,0,1,[remove_signature; break_optional_header_checksum],29dd3a9d2824a65bd8f9b1eff865f4ee58969b93fae73d92c643b662eec2e612
+0.9812931200155686,5.28,3,1,0,1,[remove_signature; break_optional_header_checksum; remove_debug],29dd3a9d2824a65bd8f9b1eff865f4ee58969b93fae73d92c643b662eec2e612
+0.9812931200155686,4.752000000000001,4,1,0,1,[remove_signature; break_optional_header_checksum; remove_debug; break_optional_header_checksum],29dd3a9d2824a65bd8f9b1eff865f4ee58969b93fae73d92c643b662eec2e612
+0.9812931200155686,3.96,5,1,0,1,[remove_signature; break_optional_header_checksum; remove_debug; break_optional_header_checksum; break_optional_header_checksum],29dd3a9d2824a65bd8f9b1eff865f4ee58969b93fae73d92c643b662eec2e612
+0.9812931200155686,4.356,6,1,0,1,[remove_signature; break_optional_header_checksum; remove_debug; break_optional_header_checksum; break_optional_header_checksum; remove_debug],29dd3a9d2824a65bd8f9b1eff865f4ee58969b93fae73d92c643b662eec2e612
+0.9812931200155686,2.772,7,1,0,0,[remove_signature; break_optional_header_checksum; remove_debug; break_optional_header_checksum; break_optional_header_checksum; remove_debug; section_add],29dd3a9d2824a65bd8f9b1eff865f4ee58969b93fae73d92c643b662eec2e612
+0.9832933377364592,3.168,8,1,0,0,[remove_signature; break_optional_header_checksum; remove_debug; break_optional_header_checksum; break_optional_header_checksum; remove_debug; section_add; overlay_append],29dd3a9d2824a65bd8f9b1eff865f4ee58969b93fae73d92c643b662eec2e612
+0.982544672084066,3.564,9,1,0,0,[remove_signature; break_optional_header_checksum; remove_debug; break_optional_header_checksum; break_optional_header_checksum; remove_debug; section_add; overlay_append; break_optional_header_checksum],29dd3a9d2824a65bd8f9b1eff865f4ee58969b93fae73d92c643b662eec2e612
+0.982544672084066,3.96,10,1,0,0,[remove_signature; break_optional_header_checksum; remove_debug; break_optional_header_checksum; break_optional_header_checksum; remove_debug; section_add; overlay_append; break_optional_header_checksum; upx_unpack],29dd3a9d2824a65bd8f9b1eff865f4ee58969b93fae73d92c643b662eec2e612
+0.9762599182230184,3.9600000000000004,1,2,0,1,[section_add],4351997cac5515c936f357f7d0954e54774c62ecdb46f959ca6af1245a711f0e
+0.931806628045193,4.62,2,2,0,1,[section_add; section_rename],4351997cac5515c936f357f7d0954e54774c62ecdb46f959ca6af1245a711f0e
+0.971507372878602,4.224,3,2,0,1,[section_add; section_rename; section_rename],4351997cac5515c936f357f7d0954e54774c62ecdb46f959ca6af1245a711f0e
+0.971507372878602,4.752000000000001,4,2,0,1,[section_add; section_rename; section_rename; break_optional_header_checksum],4351997cac5515c936f357f7d0954e54774c62ecdb46f959ca6af1245a711f0e
+0.9784073862024504,2.6400000000000006,5,2,0,0,[section_add; section_rename; section_rename; break_optional_header_checksum; section_add],4351997cac5515c936f357f7d0954e54774c62ecdb46f959ca6af1245a711f0e
+0.8727255153660464,10.56,6,2,1,1,[section_add; section_rename; section_rename; break_optional_header_checksum; section_add; section_rename],4351997cac5515c936f357f7d0954e54774c62ecdb46f959ca6af1245a711f0e

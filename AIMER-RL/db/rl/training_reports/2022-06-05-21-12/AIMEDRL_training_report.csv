@@ -1,0 +1,10 @@
+name,seed,save_report,save_agent,malware_path,episodes,detection_model,threshold,max_turns,strategy_reset,strategy_inject,maximum_reward,weights,reward_penalty,agent,optimizer,adam_epsilon,dqn_gamma,dqn_replay_start_size,replay_buffer,replay_buffer_capacity,dqn_hidden_size,explorer,epsilon_greedy_start_epsilon,epsilon_greedy_end_epsilon,epsilon_greedy_decay_steps,boltzmann_temperature,replay_start_size,minibatch_size,batch_accumulator,update_interval,target_update_interval
+AIMEDRL,1234,db/rl/,db/rl/,samples/malware/,1,GradientBoosting,0.9,10,False,False,10,"[0.33, 0.33, 0.33]",False,ALGO_DISTDQN,ADAM_OPTIMIZER,0.01,0.95,32,PRIORITIZED_REPLAY_BUFFER,1000,"[64, 16]",NOISY_NETS,1.0,0.05,100,1.0,32,32,mean,1,100
+<class 'str'>,<class 'int'>,<class 'str'>,<class 'str'>,<class 'str'>,<class 'int'>,<class 'str'>,<class 'float'>,<class 'int'>,<class 'bool'>,<class 'bool'>,<class 'int'>,<class 'list'>,<class 'bool'>,<class 'str'>,<class 'str'>,<class 'float'>,<class 'float'>,<class 'int'>,<class 'str'>,<class 'int'>,<class 'list'>,<class 'str'>,<class 'float'>,<class 'float'>,<class 'int'>,<class 'float'>,<class 'int'>,<class 'int'>,<class 'str'>,<class 'int'>,<class 'int'>
+
+Average Q: 0.06896965157705719
+Average Loss: 0
+Number Updates Agent: 0
+Preferred Action Vector: []
+Total Time: 00:00:21
+Number adversarial samples: 0

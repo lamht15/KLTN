@@ -1,0 +1,13 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9198683579051508,3.6300000000000003,1,5,0,1,[section_add],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe1_m.exe
+0.8769946654382484,7.260000000000001,2,5,1,1,[section_add; section_rename],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe1_m.exe
+0.950100332648626,3.6300000000000003,1,10,0,1,[overlay_append],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe
+0.9682119203240738,3.9600000000000004,2,10,0,1,[overlay_append; section_rename],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe
+0.9682119203240738,4.29,3,10,0,1,[overlay_append; section_rename; section_rename],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe
+0.9682119203240738,4.62,4,10,0,1,[overlay_append; section_rename; section_rename; overlay_append],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe
+0.9601316169769633,4.95,5,10,0,1,[overlay_append; section_rename; section_rename; overlay_append; imports_append],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe
+0.9601316169769633,5.28,6,10,0,1,[overlay_append; section_rename; section_rename; overlay_append; imports_append; remove_debug],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe
+0.9601316169769633,5.61,7,10,0,1,[overlay_append; section_rename; section_rename; overlay_append; imports_append; remove_debug; overlay_append],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe
+0.9692697860530427,5.94,8,10,0,1,[overlay_append; section_rename; section_rename; overlay_append; imports_append; remove_debug; overlay_append; section_rename],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe
+0.9692697860530427,6.2700000000000005,9,10,0,1,[overlay_append; section_rename; section_rename; overlay_append; imports_append; remove_debug; overlay_append; section_rename; remove_debug],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe
+0.9692697860530427,6.6000000000000005,10,10,0,1,[overlay_append; section_rename; section_rename; overlay_append; imports_append; remove_debug; overlay_append; section_rename; remove_debug; overlay_append],e03bcfe3274ed16fa519697e4fc8cf8c42f1719f.exe

@@ -1,0 +1,35 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.60405767,6.793098478317262,1,31,1,1,[section_add],072a48f9ca76a90b9dcc69d10c237cfb728f48ea.exe
+0.83316934,6.782385663986206,1,79,1,1,[section_add],172ecd45bfe08ac2525e0226dcf31f992ce46389.exe
+0.66710705,6.795062481164933,1,80,1,1,[section_rename],2058d87026a18a66ffe7271d090b7b364694e719.exe
+0.9192339,3.579800401926041,1,110,0,1,[break_optional_header_checksum],06104f9ecfbb302bb6ccff740f1569f43e0974c4.exe
+0.90854245,3.9121402895450594,2,110,0,1,[break_optional_header_checksum; section_add],06104f9ecfbb302bb6ccff740f1569f43e0974c4.exe
+0.8660546,7.532016184329986,3,110,1,1,[break_optional_header_checksum; section_add; section_add],06104f9ecfbb302bb6ccff740f1569f43e0974c4.exe
+0.8980658,6.906944160461427,1,111,1,1,[section_add],22964bc67b184673797c1045d128996aeb5ae518.exe
+0.8300769,6.787450568675995,1,145,1,1,[imports_append],39b4263a385bb07e77c07651b940d7278a5c5e4c.exe
+0.7615556,6.799753861427307,1,212,1,1,[remove_debug],13137a187dcd849d461f7090040e6f44bfb2ce11.exe
+0.83548695,6.672387539148332,1,256,1,1,[section_add],28248f4b3575f990703a6fc40955a725f483af09.exe
+0.76122177,6.69601694226265,1,270,1,1,[imports_append],0127bbc3c73e5daed90890d998e501199f63b56a.exe
+0.7001372,6.704349349737168,1,422,1,1,[imports_append],390db41c7107032d912053d3ececaf0e7b434990.exe
+0.76156217,6.800369517803192,1,446,1,1,[section_add],03187e8c9b6ebc2288c48960426205682dc19f2c.exe
+0.8980658,6.906944160461427,1,491,1,1,[section_add],22964bc67b184673797c1045d128996aeb5ae518.exe
+0.87952125,6.921266137361528,1,541,1,1,[section_rename],1190837cff3a06a693e8b3629ac3002235620924.exe
+0.632812,6.793098478317262,1,562,1,1,[overlay_append],072a48f9ca76a90b9dcc69d10c237cfb728f48ea.exe
+0.07472592,6.432021324634553,1,571,1,1,[section_add],390db41c7107032d912053d3ececaf0e7b434990.exe
+0.872761,6.673610000610353,1,594,1,1,[section_add],3570571cf1fed6d6ae5080c157245ca692ed6f43.exe
+0.76706475,6.926515738964081,1,603,1,1,[section_add],50214ec9c3f1b58f8aa4f621013a5785573665ae.exe
+0.8065181,6.811689727306367,1,634,1,1,[section_add],39b4263a385bb07e77c07651b940d7278a5c5e4c.exe
+0.9900175,3.602722488641739,1,641,0,1,[section_add],VirusShare_36777d52fc72c238d1d0a99ebbd9bed8.exe
+0.9900175,3.932722488641739,2,641,0,1,[section_add; remove_debug],VirusShare_36777d52fc72c238d1d0a99ebbd9bed8.exe
+0.9900175,4.262722488641739,3,641,0,1,[section_add; remove_debug; remove_debug],VirusShare_36777d52fc72c238d1d0a99ebbd9bed8.exe
+0.9900175,4.592722488641739,4,641,0,1,[section_add; remove_debug; remove_debug; section_rename],VirusShare_36777d52fc72c238d1d0a99ebbd9bed8.exe
+0.9900175,4.922722488641739,5,641,0,1,[section_add; remove_debug; remove_debug; section_rename; section_add],VirusShare_36777d52fc72c238d1d0a99ebbd9bed8.exe
+0.9900175,5.252722488641739,6,641,0,1,[section_add; remove_debug; remove_debug; section_rename; section_add; remove_debug],VirusShare_36777d52fc72c238d1d0a99ebbd9bed8.exe
+0.9900175,5.582722488641739,7,641,0,1,[section_add; remove_debug; remove_debug; section_rename; section_add; remove_debug; section_add],VirusShare_36777d52fc72c238d1d0a99ebbd9bed8.exe
+0.9900175,5.912722488641739,8,641,0,1,[section_add; remove_debug; remove_debug; section_rename; section_add; remove_debug; section_add; section_add],VirusShare_36777d52fc72c238d1d0a99ebbd9bed8.exe
+0.9900175,6.242722488641739,9,641,0,1,[section_add; remove_debug; remove_debug; section_rename; section_add; remove_debug; section_add; section_add; break_optional_header_checksum],VirusShare_36777d52fc72c238d1d0a99ebbd9bed8.exe
+0.9900175,6.572722488641739,10,641,0,1,[section_add; remove_debug; remove_debug; section_rename; section_add; remove_debug; section_add; section_add; break_optional_header_checksum; break_optional_header_checksum],VirusShare_36777d52fc72c238d1d0a99ebbd9bed8.exe
+0.66200936,6.795062481164933,1,760,1,1,[section_add],2058d87026a18a66ffe7271d090b7b364694e719.exe
+0.8928969,6.903471504449845,1,814,1,1,[section_add],275205579521866f1fe7a286b26d3396cf92973c.exe
+0.83548695,6.672387539148332,1,816,1,1,[section_add],28248f4b3575f990703a6fc40955a725f483af09.exe
+0.8281006,6.799553822278977,1,863,1,1,[section_add],30157e52977f43b1feb855b2ca731cef274245ba.exe

@@ -1,0 +1,839 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9889466,3.6300000000000003,1,7,0,1,[section_rename],38eddccbf555650a695f8e0da0682519f74a30f7.exe
+0.9889466,3.9600000000000004,2,7,0,1,[section_rename; overlay_append],38eddccbf555650a695f8e0da0682519f74a30f7.exe
+0.9889466,4.29,3,7,0,1,[section_rename; overlay_append; overlay_append],38eddccbf555650a695f8e0da0682519f74a30f7.exe
+0.9889466,4.62,4,7,0,1,[section_rename; overlay_append; overlay_append; overlay_append],38eddccbf555650a695f8e0da0682519f74a30f7.exe
+0.9889466,4.95,5,7,0,1,[section_rename; overlay_append; overlay_append; overlay_append; overlay_append],38eddccbf555650a695f8e0da0682519f74a30f7.exe
+0.9889466,5.28,6,7,0,1,[section_rename; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],38eddccbf555650a695f8e0da0682519f74a30f7.exe
+0.9889466,5.61,7,7,0,1,[section_rename; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],38eddccbf555650a695f8e0da0682519f74a30f7.exe
+0.9889466,5.94,8,7,0,1,[section_rename; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename],38eddccbf555650a695f8e0da0682519f74a30f7.exe
+0.9889466,6.2700000000000005,9,7,0,1,[section_rename; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; section_rename],38eddccbf555650a695f8e0da0682519f74a30f7.exe
+0.9889466,6.6000000000000005,10,7,0,1,[section_rename; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; section_rename; overlay_append],38eddccbf555650a695f8e0da0682519f74a30f7.exe
+0.9956664,3.6300000000000003,1,9,0,1,[overlay_append],a631174b0acd130b0d9e23cd35a6efa9a5ada01e.exe
+0.9838547,3.9600000000000004,2,9,0,1,[overlay_append; imports_append],a631174b0acd130b0d9e23cd35a6efa9a5ada01e.exe
+0.9928019,4.29,3,9,0,1,[overlay_append; imports_append; imports_append],a631174b0acd130b0d9e23cd35a6efa9a5ada01e.exe
+0.9928019,4.62,4,9,0,1,[overlay_append; imports_append; imports_append; section_rename],a631174b0acd130b0d9e23cd35a6efa9a5ada01e.exe
+0.9928019,4.95,5,9,0,1,[overlay_append; imports_append; imports_append; section_rename; break_optional_header_checksum],a631174b0acd130b0d9e23cd35a6efa9a5ada01e.exe
+0.9928019,5.28,6,9,0,1,[overlay_append; imports_append; imports_append; section_rename; break_optional_header_checksum; break_optional_header_checksum],a631174b0acd130b0d9e23cd35a6efa9a5ada01e.exe
+0.9928019,5.61,7,9,0,1,[overlay_append; imports_append; imports_append; section_rename; break_optional_header_checksum; break_optional_header_checksum; section_rename],a631174b0acd130b0d9e23cd35a6efa9a5ada01e.exe
+0.9928019,5.94,8,9,0,1,[overlay_append; imports_append; imports_append; section_rename; break_optional_header_checksum; break_optional_header_checksum; section_rename; section_rename],a631174b0acd130b0d9e23cd35a6efa9a5ada01e.exe
+0.99807847,6.2700000000000005,9,9,0,1,[overlay_append; imports_append; imports_append; section_rename; break_optional_header_checksum; break_optional_header_checksum; section_rename; section_rename; imports_append],a631174b0acd130b0d9e23cd35a6efa9a5ada01e.exe
+0.99807847,6.6000000000000005,10,9,0,1,[overlay_append; imports_append; imports_append; section_rename; break_optional_header_checksum; break_optional_header_checksum; section_rename; section_rename; imports_append; section_rename],a631174b0acd130b0d9e23cd35a6efa9a5ada01e.exe
+0.9993861,3.6300000000000003,1,10,0,1,[overlay_append],7780cac29f5b29d2d3cd8952b8105679e3248939.exe
+0.99921584,3.9600000000000004,2,10,0,1,[overlay_append; imports_append],7780cac29f5b29d2d3cd8952b8105679e3248939.exe
+0.99921584,4.29,3,10,0,1,[overlay_append; imports_append; section_rename],7780cac29f5b29d2d3cd8952b8105679e3248939.exe
+0.99916756,4.62,4,10,0,1,[overlay_append; imports_append; section_rename; section_add],7780cac29f5b29d2d3cd8952b8105679e3248939.exe
+0.99916756,4.95,5,10,0,1,[overlay_append; imports_append; section_rename; section_add; section_rename],7780cac29f5b29d2d3cd8952b8105679e3248939.exe
+0.99916756,5.28,6,10,0,1,[overlay_append; imports_append; section_rename; section_add; section_rename; section_rename],7780cac29f5b29d2d3cd8952b8105679e3248939.exe
+0.99916756,5.61,7,10,0,1,[overlay_append; imports_append; section_rename; section_add; section_rename; section_rename; section_rename],7780cac29f5b29d2d3cd8952b8105679e3248939.exe
+0.99916756,5.94,8,10,0,1,[overlay_append; imports_append; section_rename; section_add; section_rename; section_rename; section_rename; overlay_append],7780cac29f5b29d2d3cd8952b8105679e3248939.exe
+0.99916756,6.2700000000000005,9,10,0,1,[overlay_append; imports_append; section_rename; section_add; section_rename; section_rename; section_rename; overlay_append; overlay_append],7780cac29f5b29d2d3cd8952b8105679e3248939.exe
+0.99916756,6.6000000000000005,10,10,0,1,[overlay_append; imports_append; section_rename; section_add; section_rename; section_rename; section_rename; overlay_append; overlay_append; overlay_append],7780cac29f5b29d2d3cd8952b8105679e3248939.exe
+0.9942872,3.6300000000000003,1,11,0,1,[overlay_append],a6a7a73f7944a0a593e8f143cbbce1d608782998.exe
+0.9942872,3.9600000000000004,2,11,0,1,[overlay_append; section_rename],a6a7a73f7944a0a593e8f143cbbce1d608782998.exe
+0.9942872,4.29,3,11,0,1,[overlay_append; section_rename; overlay_append],a6a7a73f7944a0a593e8f143cbbce1d608782998.exe
+0.9942872,4.62,4,11,0,1,[overlay_append; section_rename; overlay_append; overlay_append],a6a7a73f7944a0a593e8f143cbbce1d608782998.exe
+0.9942872,4.95,5,11,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add],a6a7a73f7944a0a593e8f143cbbce1d608782998.exe
+0.98389304,5.28,6,11,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add; imports_append],a6a7a73f7944a0a593e8f143cbbce1d608782998.exe
+0.98389304,5.61,7,11,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add; imports_append; overlay_append],a6a7a73f7944a0a593e8f143cbbce1d608782998.exe
+0.98389304,5.94,8,11,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add; imports_append; overlay_append; overlay_append],a6a7a73f7944a0a593e8f143cbbce1d608782998.exe
+0.98389304,6.2700000000000005,9,11,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add; imports_append; overlay_append; overlay_append; overlay_append],a6a7a73f7944a0a593e8f143cbbce1d608782998.exe
+0.98389304,6.6000000000000005,10,11,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add; imports_append; overlay_append; overlay_append; overlay_append; overlay_append],a6a7a73f7944a0a593e8f143cbbce1d608782998.exe
+0.7779206,6.930000000000001,1,12,1,1,[overlay_append],95bd6d3a532287aef6e565679e9889db70e83f1e.exe
+0.7955439,6.930000000000001,1,13,1,1,[overlay_append],dd833630e905463769bf40c93d308861e0644398.exe
+0.82331634,6.930000000000001,1,14,1,1,[section_rename],c3360a7e4c359e5f0f82da68aa545e6c435587f7.exe
+0.88602984,6.930000000000001,1,15,1,1,[overlay_append],aae6de8870ea199f9d9789cbb003ba39b02a8550.exe
+0.98835087,3.6300000000000003,1,17,0,1,[section_rename],dd31a68d414dc4e772ef91548133a0f2149eaa6f.exe
+0.98835087,3.9600000000000004,2,17,0,1,[section_rename; section_rename],dd31a68d414dc4e772ef91548133a0f2149eaa6f.exe
+0.98835087,4.29,3,17,0,1,[section_rename; section_rename; break_optional_header_checksum],dd31a68d414dc4e772ef91548133a0f2149eaa6f.exe
+0.9869691,4.62,4,17,0,1,[section_rename; section_rename; break_optional_header_checksum; imports_append],dd31a68d414dc4e772ef91548133a0f2149eaa6f.exe
+0.9869691,4.95,5,17,0,1,[section_rename; section_rename; break_optional_header_checksum; imports_append; overlay_append],dd31a68d414dc4e772ef91548133a0f2149eaa6f.exe
+0.9869691,5.28,6,17,0,1,[section_rename; section_rename; break_optional_header_checksum; imports_append; overlay_append; overlay_append],dd31a68d414dc4e772ef91548133a0f2149eaa6f.exe
+0.9869691,5.61,7,17,0,1,[section_rename; section_rename; break_optional_header_checksum; imports_append; overlay_append; overlay_append; overlay_append],dd31a68d414dc4e772ef91548133a0f2149eaa6f.exe
+0.9869691,5.94,8,17,0,1,[section_rename; section_rename; break_optional_header_checksum; imports_append; overlay_append; overlay_append; overlay_append; section_rename],dd31a68d414dc4e772ef91548133a0f2149eaa6f.exe
+0.9869691,6.2700000000000005,9,17,0,1,[section_rename; section_rename; break_optional_header_checksum; imports_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append],dd31a68d414dc4e772ef91548133a0f2149eaa6f.exe
+0.9869691,6.6000000000000005,10,17,0,1,[section_rename; section_rename; break_optional_header_checksum; imports_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append; overlay_append],dd31a68d414dc4e772ef91548133a0f2149eaa6f.exe
+0.96108395,3.6300000000000003,1,21,0,1,[overlay_append],403e30438dd8e7bf40cf9ffebb69fe02ceec6e7d.exe
+0.9613204,3.9600000000000004,2,21,0,1,[overlay_append; section_rename],403e30438dd8e7bf40cf9ffebb69fe02ceec6e7d.exe
+0.9610821,4.29,3,21,0,1,[overlay_append; section_rename; break_optional_header_checksum],403e30438dd8e7bf40cf9ffebb69fe02ceec6e7d.exe
+0.9610821,4.62,4,21,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename],403e30438dd8e7bf40cf9ffebb69fe02ceec6e7d.exe
+0.9610821,4.95,5,21,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append],403e30438dd8e7bf40cf9ffebb69fe02ceec6e7d.exe
+0.9610821,5.28,6,21,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append],403e30438dd8e7bf40cf9ffebb69fe02ceec6e7d.exe
+0.9610821,5.61,7,21,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append; overlay_append],403e30438dd8e7bf40cf9ffebb69fe02ceec6e7d.exe
+0.9610821,5.94,8,21,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append; overlay_append; break_optional_header_checksum],403e30438dd8e7bf40cf9ffebb69fe02ceec6e7d.exe
+0.9605567,6.2700000000000005,9,21,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; section_rename],403e30438dd8e7bf40cf9ffebb69fe02ceec6e7d.exe
+0.96145076,6.6000000000000005,10,21,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; section_rename; section_rename],403e30438dd8e7bf40cf9ffebb69fe02ceec6e7d.exe
+0.9365972,3.6300000000000003,1,22,0,1,[section_add],31056d8b54c120bfe5d864a2bb0ec40f763e41f3.exe
+0.9367762,3.9600000000000004,2,22,0,1,[section_add; break_optional_header_checksum],31056d8b54c120bfe5d864a2bb0ec40f763e41f3.exe
+0.9372017,4.29,3,22,0,1,[section_add; break_optional_header_checksum; section_rename],31056d8b54c120bfe5d864a2bb0ec40f763e41f3.exe
+0.93991745,4.62,4,22,0,1,[section_add; break_optional_header_checksum; section_rename; section_rename],31056d8b54c120bfe5d864a2bb0ec40f763e41f3.exe
+0.93991745,4.95,5,22,0,1,[section_add; break_optional_header_checksum; section_rename; section_rename; break_optional_header_checksum],31056d8b54c120bfe5d864a2bb0ec40f763e41f3.exe
+0.9388539,5.28,6,22,0,1,[section_add; break_optional_header_checksum; section_rename; section_rename; break_optional_header_checksum; section_rename],31056d8b54c120bfe5d864a2bb0ec40f763e41f3.exe
+0.9388539,5.61,7,22,0,1,[section_add; break_optional_header_checksum; section_rename; section_rename; break_optional_header_checksum; section_rename; overlay_append],31056d8b54c120bfe5d864a2bb0ec40f763e41f3.exe
+0.9396181,5.94,8,22,0,1,[section_add; break_optional_header_checksum; section_rename; section_rename; break_optional_header_checksum; section_rename; overlay_append; section_add],31056d8b54c120bfe5d864a2bb0ec40f763e41f3.exe
+0.9396181,6.2700000000000005,9,22,0,1,[section_add; break_optional_header_checksum; section_rename; section_rename; break_optional_header_checksum; section_rename; overlay_append; section_add; overlay_append],31056d8b54c120bfe5d864a2bb0ec40f763e41f3.exe
+0.9396181,6.6000000000000005,10,22,0,1,[section_add; break_optional_header_checksum; section_rename; section_rename; break_optional_header_checksum; section_rename; overlay_append; section_add; overlay_append; overlay_append],31056d8b54c120bfe5d864a2bb0ec40f763e41f3.exe
+0.9988681,3.6300000000000003,1,26,0,1,[overlay_append],0906a4f3042911804b5a00d51804a508913e335c.exe
+0.9988681,3.9600000000000004,2,26,0,1,[overlay_append; overlay_append],0906a4f3042911804b5a00d51804a508913e335c.exe
+0.9988681,4.29,3,26,0,1,[overlay_append; overlay_append; overlay_append],0906a4f3042911804b5a00d51804a508913e335c.exe
+0.9988262,4.62,4,26,0,1,[overlay_append; overlay_append; overlay_append; overlay_append],0906a4f3042911804b5a00d51804a508913e335c.exe
+0.9988262,4.95,5,26,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],0906a4f3042911804b5a00d51804a508913e335c.exe
+0.9988262,5.28,6,26,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],0906a4f3042911804b5a00d51804a508913e335c.exe
+0.9988262,5.61,7,26,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],0906a4f3042911804b5a00d51804a508913e335c.exe
+0.9988262,5.94,8,26,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],0906a4f3042911804b5a00d51804a508913e335c.exe
+0.9988262,6.2700000000000005,9,26,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename],0906a4f3042911804b5a00d51804a508913e335c.exe
+0.99913305,6.6000000000000005,10,26,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; section_add],0906a4f3042911804b5a00d51804a508913e335c.exe
+0.6308023,6.930000000000001,1,27,1,1,[overlay_append],a42c3537d245ebbde855bb4fca48c98b0ca28012.exe
+0.996781,3.6300000000000003,1,37,0,1,[overlay_append],1419a108389a5372e32906e8b1762da4132aa003.exe
+0.9968395,3.9600000000000004,2,37,0,1,[overlay_append; section_rename],1419a108389a5372e32906e8b1762da4132aa003.exe
+0.9968395,4.29,3,37,0,1,[overlay_append; section_rename; section_rename],1419a108389a5372e32906e8b1762da4132aa003.exe
+0.9966947,4.62,4,37,0,1,[overlay_append; section_rename; section_rename; break_optional_header_checksum],1419a108389a5372e32906e8b1762da4132aa003.exe
+0.9966947,4.95,5,37,0,1,[overlay_append; section_rename; section_rename; break_optional_header_checksum; section_rename],1419a108389a5372e32906e8b1762da4132aa003.exe
+0.9966947,5.28,6,37,0,1,[overlay_append; section_rename; section_rename; break_optional_header_checksum; section_rename; overlay_append],1419a108389a5372e32906e8b1762da4132aa003.exe
+0.9966947,5.61,7,37,0,1,[overlay_append; section_rename; section_rename; break_optional_header_checksum; section_rename; overlay_append; section_rename],1419a108389a5372e32906e8b1762da4132aa003.exe
+0.9966947,5.94,8,37,0,1,[overlay_append; section_rename; section_rename; break_optional_header_checksum; section_rename; overlay_append; section_rename; overlay_append],1419a108389a5372e32906e8b1762da4132aa003.exe
+0.9967399,6.2700000000000005,9,37,0,1,[overlay_append; section_rename; section_rename; break_optional_header_checksum; section_rename; overlay_append; section_rename; overlay_append; section_rename],1419a108389a5372e32906e8b1762da4132aa003.exe
+0.9966106,6.6000000000000005,10,37,0,1,[overlay_append; section_rename; section_rename; break_optional_header_checksum; section_rename; overlay_append; section_rename; overlay_append; section_rename; overlay_append],1419a108389a5372e32906e8b1762da4132aa003.exe
+0.8941376,6.930000000000001,1,40,1,1,[overlay_append],92c65dd02d0bbbde23536d643c10cb2d2eb564a9.exe
+0.8164151,6.930000000000001,1,41,1,1,[overlay_append],639c9bf1461dd9aacecd8bc084c72e2dbfce1e6b.exe
+0.9689334,3.6300000000000003,1,42,0,1,[imports_append],a5b020781a45b88fd91286d91bdbc4cf161071bb.exe
+0.9689334,3.9600000000000004,2,42,0,1,[imports_append; overlay_append],a5b020781a45b88fd91286d91bdbc4cf161071bb.exe
+0.9689334,4.29,3,42,0,1,[imports_append; overlay_append; overlay_append],a5b020781a45b88fd91286d91bdbc4cf161071bb.exe
+0.9689334,4.62,4,42,0,1,[imports_append; overlay_append; overlay_append; overlay_append],a5b020781a45b88fd91286d91bdbc4cf161071bb.exe
+0.9689334,4.95,5,42,0,1,[imports_append; overlay_append; overlay_append; overlay_append; section_rename],a5b020781a45b88fd91286d91bdbc4cf161071bb.exe
+0.9689334,5.28,6,42,0,1,[imports_append; overlay_append; overlay_append; overlay_append; section_rename; break_optional_header_checksum],a5b020781a45b88fd91286d91bdbc4cf161071bb.exe
+0.9689334,5.61,7,42,0,1,[imports_append; overlay_append; overlay_append; overlay_append; section_rename; break_optional_header_checksum; overlay_append],a5b020781a45b88fd91286d91bdbc4cf161071bb.exe
+0.9689334,5.94,8,42,0,1,[imports_append; overlay_append; overlay_append; overlay_append; section_rename; break_optional_header_checksum; overlay_append; overlay_append],a5b020781a45b88fd91286d91bdbc4cf161071bb.exe
+0.9689334,6.2700000000000005,9,42,0,1,[imports_append; overlay_append; overlay_append; overlay_append; section_rename; break_optional_header_checksum; overlay_append; overlay_append; section_rename],a5b020781a45b88fd91286d91bdbc4cf161071bb.exe
+0.9689334,6.6000000000000005,10,42,0,1,[imports_append; overlay_append; overlay_append; overlay_append; section_rename; break_optional_header_checksum; overlay_append; overlay_append; section_rename; section_rename],a5b020781a45b88fd91286d91bdbc4cf161071bb.exe
+0.9384887,3.6300000000000003,1,43,0,1,[overlay_append],78417fb40bbebf09f473dc40f7f9d7976c0bb492.exe
+0.9384887,3.9600000000000004,2,43,0,1,[overlay_append; section_rename],78417fb40bbebf09f473dc40f7f9d7976c0bb492.exe
+0.9384887,4.29,3,43,0,1,[overlay_append; section_rename; overlay_append],78417fb40bbebf09f473dc40f7f9d7976c0bb492.exe
+0.9440777,4.62,4,43,0,1,[overlay_append; section_rename; overlay_append; section_add],78417fb40bbebf09f473dc40f7f9d7976c0bb492.exe
+0.94264656,4.95,5,43,0,1,[overlay_append; section_rename; overlay_append; section_add; section_rename],78417fb40bbebf09f473dc40f7f9d7976c0bb492.exe
+0.94264656,5.28,6,43,0,1,[overlay_append; section_rename; overlay_append; section_add; section_rename; overlay_append],78417fb40bbebf09f473dc40f7f9d7976c0bb492.exe
+0.94264656,5.61,7,43,0,1,[overlay_append; section_rename; overlay_append; section_add; section_rename; overlay_append; overlay_append],78417fb40bbebf09f473dc40f7f9d7976c0bb492.exe
+0.94264656,5.94,8,43,0,1,[overlay_append; section_rename; overlay_append; section_add; section_rename; overlay_append; overlay_append; break_optional_header_checksum],78417fb40bbebf09f473dc40f7f9d7976c0bb492.exe
+0.9383376,6.2700000000000005,9,43,0,1,[overlay_append; section_rename; overlay_append; section_add; section_rename; overlay_append; overlay_append; break_optional_header_checksum; overlay_append],78417fb40bbebf09f473dc40f7f9d7976c0bb492.exe
+0.9383376,6.6000000000000005,10,43,0,1,[overlay_append; section_rename; overlay_append; section_add; section_rename; overlay_append; overlay_append; break_optional_header_checksum; overlay_append; overlay_append],78417fb40bbebf09f473dc40f7f9d7976c0bb492.exe
+0.99906987,3.6300000000000003,1,44,0,1,[section_add],c1946bd7d31629d3d4dde0ab32ff94ac9be19e1b.exe
+0.9988865,3.9600000000000004,2,44,0,1,[section_add; overlay_append],c1946bd7d31629d3d4dde0ab32ff94ac9be19e1b.exe
+0.9988865,4.29,3,44,0,1,[section_add; overlay_append; overlay_append],c1946bd7d31629d3d4dde0ab32ff94ac9be19e1b.exe
+0.9988865,4.62,4,44,0,1,[section_add; overlay_append; overlay_append; overlay_append],c1946bd7d31629d3d4dde0ab32ff94ac9be19e1b.exe
+0.99888426,4.95,5,44,0,1,[section_add; overlay_append; overlay_append; overlay_append; section_rename],c1946bd7d31629d3d4dde0ab32ff94ac9be19e1b.exe
+0.99888915,5.28,6,44,0,1,[section_add; overlay_append; overlay_append; overlay_append; section_rename; section_rename],c1946bd7d31629d3d4dde0ab32ff94ac9be19e1b.exe
+0.99888915,5.61,7,44,0,1,[section_add; overlay_append; overlay_append; overlay_append; section_rename; section_rename; overlay_append],c1946bd7d31629d3d4dde0ab32ff94ac9be19e1b.exe
+0.99888724,5.94,8,44,0,1,[section_add; overlay_append; overlay_append; overlay_append; section_rename; section_rename; overlay_append; break_optional_header_checksum],c1946bd7d31629d3d4dde0ab32ff94ac9be19e1b.exe
+0.9986475,6.2700000000000005,9,44,0,1,[section_add; overlay_append; overlay_append; overlay_append; section_rename; section_rename; overlay_append; break_optional_header_checksum; section_add],c1946bd7d31629d3d4dde0ab32ff94ac9be19e1b.exe
+0.9986475,6.6000000000000005,10,44,0,1,[section_add; overlay_append; overlay_append; overlay_append; section_rename; section_rename; overlay_append; break_optional_header_checksum; section_add; section_rename],c1946bd7d31629d3d4dde0ab32ff94ac9be19e1b.exe
+0.7345601,6.930000000000001,1,45,1,1,[imports_append],c58efd72c67fa506a82b0a374d4aea5fdfd5a315.exe
+0.82069474,6.930000000000001,1,46,1,1,[overlay_append],b9d6ac88263de6ddbf4a1a991c4a665647f2408c.exe
+0.9987909,3.6300000000000003,1,51,0,1,[break_optional_header_checksum],cc64194ad7d845b4ee3f3619f655b901bab9995b.exe
+0.99881434,3.9600000000000004,2,51,0,1,[break_optional_header_checksum; overlay_append],cc64194ad7d845b4ee3f3619f655b901bab9995b.exe
+0.9992099,4.29,3,51,0,1,[break_optional_header_checksum; overlay_append; section_add],cc64194ad7d845b4ee3f3619f655b901bab9995b.exe
+0.9992099,4.62,4,51,0,1,[break_optional_header_checksum; overlay_append; section_add; section_rename],cc64194ad7d845b4ee3f3619f655b901bab9995b.exe
+0.9992099,4.95,5,51,0,1,[break_optional_header_checksum; overlay_append; section_add; section_rename; overlay_append],cc64194ad7d845b4ee3f3619f655b901bab9995b.exe
+0.99921024,5.28,6,51,0,1,[break_optional_header_checksum; overlay_append; section_add; section_rename; overlay_append; section_rename],cc64194ad7d845b4ee3f3619f655b901bab9995b.exe
+0.99921024,5.61,7,51,0,1,[break_optional_header_checksum; overlay_append; section_add; section_rename; overlay_append; section_rename; section_rename],cc64194ad7d845b4ee3f3619f655b901bab9995b.exe
+0.9992099,5.94,8,51,0,1,[break_optional_header_checksum; overlay_append; section_add; section_rename; overlay_append; section_rename; section_rename; section_rename],cc64194ad7d845b4ee3f3619f655b901bab9995b.exe
+0.9992099,6.2700000000000005,9,51,0,1,[break_optional_header_checksum; overlay_append; section_add; section_rename; overlay_append; section_rename; section_rename; section_rename; overlay_append],cc64194ad7d845b4ee3f3619f655b901bab9995b.exe
+0.9992099,6.6000000000000005,10,51,0,1,[break_optional_header_checksum; overlay_append; section_add; section_rename; overlay_append; section_rename; section_rename; section_rename; overlay_append; overlay_append],cc64194ad7d845b4ee3f3619f655b901bab9995b.exe
+0.92277676,3.6300000000000003,1,54,0,1,[break_optional_header_checksum],5897de9cbe64a8d1bb02bf349b6d3d339cece8a7.exe
+0.91157824,3.9600000000000004,2,54,0,1,[break_optional_header_checksum; overlay_append],5897de9cbe64a8d1bb02bf349b6d3d339cece8a7.exe
+0.9130545,4.29,3,54,0,1,[break_optional_header_checksum; overlay_append; section_rename],5897de9cbe64a8d1bb02bf349b6d3d339cece8a7.exe
+0.8951883,7.92,4,54,1,1,[break_optional_header_checksum; overlay_append; section_rename; imports_append],5897de9cbe64a8d1bb02bf349b6d3d339cece8a7.exe
+0.9955391,3.6300000000000003,1,56,0,1,[overlay_append],68fe4712200ddacc08ceef3d204dd48c64e894de.exe
+0.9955391,3.9600000000000004,2,56,0,1,[overlay_append; section_rename],68fe4712200ddacc08ceef3d204dd48c64e894de.exe
+0.9955391,4.29,3,56,0,1,[overlay_append; section_rename; overlay_append],68fe4712200ddacc08ceef3d204dd48c64e894de.exe
+0.9858782,4.62,4,56,0,1,[overlay_append; section_rename; overlay_append; imports_append],68fe4712200ddacc08ceef3d204dd48c64e894de.exe
+0.9858782,4.95,5,56,0,1,[overlay_append; section_rename; overlay_append; imports_append; overlay_append],68fe4712200ddacc08ceef3d204dd48c64e894de.exe
+0.9858782,5.28,6,56,0,1,[overlay_append; section_rename; overlay_append; imports_append; overlay_append; section_rename],68fe4712200ddacc08ceef3d204dd48c64e894de.exe
+0.9858782,5.61,7,56,0,1,[overlay_append; section_rename; overlay_append; imports_append; overlay_append; section_rename; break_optional_header_checksum],68fe4712200ddacc08ceef3d204dd48c64e894de.exe
+0.98797697,5.94,8,56,0,1,[overlay_append; section_rename; overlay_append; imports_append; overlay_append; section_rename; break_optional_header_checksum; imports_append],68fe4712200ddacc08ceef3d204dd48c64e894de.exe
+0.98797697,6.2700000000000005,9,56,0,1,[overlay_append; section_rename; overlay_append; imports_append; overlay_append; section_rename; break_optional_header_checksum; imports_append; overlay_append],68fe4712200ddacc08ceef3d204dd48c64e894de.exe
+0.98018897,6.6000000000000005,10,56,0,1,[overlay_append; section_rename; overlay_append; imports_append; overlay_append; section_rename; break_optional_header_checksum; imports_append; overlay_append; imports_append],68fe4712200ddacc08ceef3d204dd48c64e894de.exe
+0.9937355,3.6300000000000003,1,60,0,1,[overlay_append],d4416af421da310612291fb6373fe57f063083d2.exe
+0.9937355,3.9600000000000004,2,60,0,1,[overlay_append; break_optional_header_checksum],d4416af421da310612291fb6373fe57f063083d2.exe
+0.9937355,4.29,3,60,0,1,[overlay_append; break_optional_header_checksum; overlay_append],d4416af421da310612291fb6373fe57f063083d2.exe
+0.9937355,4.62,4,60,0,1,[overlay_append; break_optional_header_checksum; overlay_append; section_rename],d4416af421da310612291fb6373fe57f063083d2.exe
+0.9937355,4.95,5,60,0,1,[overlay_append; break_optional_header_checksum; overlay_append; section_rename; overlay_append],d4416af421da310612291fb6373fe57f063083d2.exe
+0.9937355,5.28,6,60,0,1,[overlay_append; break_optional_header_checksum; overlay_append; section_rename; overlay_append; section_rename],d4416af421da310612291fb6373fe57f063083d2.exe
+0.9937355,5.61,7,60,0,1,[overlay_append; break_optional_header_checksum; overlay_append; section_rename; overlay_append; section_rename; section_add],d4416af421da310612291fb6373fe57f063083d2.exe
+0.99149394,5.94,8,60,0,1,[overlay_append; break_optional_header_checksum; overlay_append; section_rename; overlay_append; section_rename; section_add; imports_append],d4416af421da310612291fb6373fe57f063083d2.exe
+0.9914261,6.2700000000000005,9,60,0,1,[overlay_append; break_optional_header_checksum; overlay_append; section_rename; overlay_append; section_rename; section_add; imports_append; overlay_append],d4416af421da310612291fb6373fe57f063083d2.exe
+0.9914261,6.6000000000000005,10,60,0,1,[overlay_append; break_optional_header_checksum; overlay_append; section_rename; overlay_append; section_rename; section_add; imports_append; overlay_append; overlay_append],d4416af421da310612291fb6373fe57f063083d2.exe
+0.8609367,6.930000000000001,1,61,1,1,[overlay_append],79676347b13fb890589e26010448fabe6d41cc11.exe
+0.6240118,6.930000000000001,1,62,1,1,[overlay_append],e1f391b2aa2328b8781bec73e91f21c51e934e49.exe
+0.93080825,3.6300000000000003,1,63,0,1,[remove_debug],bb30b40882aad01ad7fd07b60e4bc45761cb8eeb.exe
+0.7977924,7.260000000000001,2,63,1,1,[remove_debug; imports_append],bb30b40882aad01ad7fd07b60e4bc45761cb8eeb.exe
+0.98506933,3.6300000000000003,1,64,0,1,[overlay_append],f402e49f746cf9586157f15e36ae26b1b4001a57.exe
+0.98506933,3.9600000000000004,2,64,0,1,[overlay_append; overlay_append],f402e49f746cf9586157f15e36ae26b1b4001a57.exe
+0.52573395,7.59,3,64,1,1,[overlay_append; overlay_append; imports_append],f402e49f746cf9586157f15e36ae26b1b4001a57.exe
+0.9957451,3.6300000000000003,1,65,0,1,[overlay_append],80d3dfe81b5b1213760ec57426d8a5ce8d534250.exe
+0.9957451,3.9600000000000004,2,65,0,1,[overlay_append; overlay_append],80d3dfe81b5b1213760ec57426d8a5ce8d534250.exe
+0.9970866,4.29,3,65,0,1,[overlay_append; overlay_append; imports_append],80d3dfe81b5b1213760ec57426d8a5ce8d534250.exe
+0.9970866,4.62,4,65,0,1,[overlay_append; overlay_append; imports_append; overlay_append],80d3dfe81b5b1213760ec57426d8a5ce8d534250.exe
+0.9970866,4.95,5,65,0,1,[overlay_append; overlay_append; imports_append; overlay_append; overlay_append],80d3dfe81b5b1213760ec57426d8a5ce8d534250.exe
+0.9946472,5.28,6,65,0,1,[overlay_append; overlay_append; imports_append; overlay_append; overlay_append; overlay_append],80d3dfe81b5b1213760ec57426d8a5ce8d534250.exe
+0.9946472,5.61,7,65,0,1,[overlay_append; overlay_append; imports_append; overlay_append; overlay_append; overlay_append; overlay_append],80d3dfe81b5b1213760ec57426d8a5ce8d534250.exe
+0.9946472,5.94,8,65,0,1,[overlay_append; overlay_append; imports_append; overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum],80d3dfe81b5b1213760ec57426d8a5ce8d534250.exe
+0.9946472,6.2700000000000005,9,65,0,1,[overlay_append; overlay_append; imports_append; overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; break_optional_header_checksum],80d3dfe81b5b1213760ec57426d8a5ce8d534250.exe
+0.9946472,6.6000000000000005,10,65,0,1,[overlay_append; overlay_append; imports_append; overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; break_optional_header_checksum; overlay_append],80d3dfe81b5b1213760ec57426d8a5ce8d534250.exe
+0.9986407,3.6300000000000003,1,66,0,1,[overlay_append],ce43d3e72a00f504611922867d9761d2628505e7.exe
+0.99864393,3.9600000000000004,2,66,0,1,[overlay_append; section_rename],ce43d3e72a00f504611922867d9761d2628505e7.exe
+0.99864393,4.29,3,66,0,1,[overlay_append; section_rename; overlay_append],ce43d3e72a00f504611922867d9761d2628505e7.exe
+0.9983569,4.62,4,66,0,1,[overlay_append; section_rename; overlay_append; imports_append],ce43d3e72a00f504611922867d9761d2628505e7.exe
+0.9983569,4.95,5,66,0,1,[overlay_append; section_rename; overlay_append; imports_append; section_rename],ce43d3e72a00f504611922867d9761d2628505e7.exe
+0.9983569,5.28,6,66,0,1,[overlay_append; section_rename; overlay_append; imports_append; section_rename; overlay_append],ce43d3e72a00f504611922867d9761d2628505e7.exe
+0.99833256,5.61,7,66,0,1,[overlay_append; section_rename; overlay_append; imports_append; section_rename; overlay_append; section_add],ce43d3e72a00f504611922867d9761d2628505e7.exe
+0.99833256,5.94,8,66,0,1,[overlay_append; section_rename; overlay_append; imports_append; section_rename; overlay_append; section_add; section_rename],ce43d3e72a00f504611922867d9761d2628505e7.exe
+0.99835014,6.2700000000000005,9,66,0,1,[overlay_append; section_rename; overlay_append; imports_append; section_rename; overlay_append; section_add; section_rename; section_add],ce43d3e72a00f504611922867d9761d2628505e7.exe
+0.9981116,6.6000000000000005,10,66,0,1,[overlay_append; section_rename; overlay_append; imports_append; section_rename; overlay_append; section_add; section_rename; section_add; overlay_append],ce43d3e72a00f504611922867d9761d2628505e7.exe
+0.96669847,3.6300000000000003,1,67,0,1,[section_rename],970b4f22731a2b182ba22a5b442bd86f681aec83.exe
+0.96669847,3.9600000000000004,2,67,0,1,[section_rename; break_optional_header_checksum],970b4f22731a2b182ba22a5b442bd86f681aec83.exe
+0.96669847,4.29,3,67,0,1,[section_rename; break_optional_header_checksum; overlay_append],970b4f22731a2b182ba22a5b442bd86f681aec83.exe
+0.96669847,4.62,4,67,0,1,[section_rename; break_optional_header_checksum; overlay_append; break_optional_header_checksum],970b4f22731a2b182ba22a5b442bd86f681aec83.exe
+0.96669847,4.95,5,67,0,1,[section_rename; break_optional_header_checksum; overlay_append; break_optional_header_checksum; break_optional_header_checksum],970b4f22731a2b182ba22a5b442bd86f681aec83.exe
+0.96669847,5.28,6,67,0,1,[section_rename; break_optional_header_checksum; overlay_append; break_optional_header_checksum; break_optional_header_checksum; section_rename],970b4f22731a2b182ba22a5b442bd86f681aec83.exe
+0.96669847,5.61,7,67,0,1,[section_rename; break_optional_header_checksum; overlay_append; break_optional_header_checksum; break_optional_header_checksum; section_rename; overlay_append],970b4f22731a2b182ba22a5b442bd86f681aec83.exe
+0.96669847,5.94,8,67,0,1,[section_rename; break_optional_header_checksum; overlay_append; break_optional_header_checksum; break_optional_header_checksum; section_rename; overlay_append; overlay_append],970b4f22731a2b182ba22a5b442bd86f681aec83.exe
+0.96669847,6.2700000000000005,9,67,0,1,[section_rename; break_optional_header_checksum; overlay_append; break_optional_header_checksum; break_optional_header_checksum; section_rename; overlay_append; overlay_append; overlay_append],970b4f22731a2b182ba22a5b442bd86f681aec83.exe
+0.96669847,6.6000000000000005,10,67,0,1,[section_rename; break_optional_header_checksum; overlay_append; break_optional_header_checksum; break_optional_header_checksum; section_rename; overlay_append; overlay_append; overlay_append; break_optional_header_checksum],970b4f22731a2b182ba22a5b442bd86f681aec83.exe
+0.99646914,3.6300000000000003,1,72,0,1,[overlay_append],431001f2705779df896a52e9bf4d387618586c95.exe
+0.99646914,3.9600000000000004,2,72,0,1,[overlay_append; overlay_append],431001f2705779df896a52e9bf4d387618586c95.exe
+0.9956145,4.29,3,72,0,1,[overlay_append; overlay_append; imports_append],431001f2705779df896a52e9bf4d387618586c95.exe
+0.9956781,4.62,4,72,0,1,[overlay_append; overlay_append; imports_append; section_rename],431001f2705779df896a52e9bf4d387618586c95.exe
+0.95138067,4.95,5,72,0,1,[overlay_append; overlay_append; imports_append; section_rename; imports_append],431001f2705779df896a52e9bf4d387618586c95.exe
+0.9743372,5.28,6,72,0,1,[overlay_append; overlay_append; imports_append; section_rename; imports_append; imports_append],431001f2705779df896a52e9bf4d387618586c95.exe
+0.97441804,5.61,7,72,0,1,[overlay_append; overlay_append; imports_append; section_rename; imports_append; imports_append; section_rename],431001f2705779df896a52e9bf4d387618586c95.exe
+0.97441804,5.94,8,72,0,1,[overlay_append; overlay_append; imports_append; section_rename; imports_append; imports_append; section_rename; remove_debug],431001f2705779df896a52e9bf4d387618586c95.exe
+0.97441804,6.2700000000000005,9,72,0,1,[overlay_append; overlay_append; imports_append; section_rename; imports_append; imports_append; section_rename; remove_debug; section_rename],431001f2705779df896a52e9bf4d387618586c95.exe
+0.97441804,6.6000000000000005,10,72,0,1,[overlay_append; overlay_append; imports_append; section_rename; imports_append; imports_append; section_rename; remove_debug; section_rename; overlay_append],431001f2705779df896a52e9bf4d387618586c95.exe
+0.9230373,3.6300000000000003,1,73,0,1,[overlay_append],bea6fd3ea76853214b73f39f7e663e46a2ca5912.exe
+0.9230373,3.9600000000000004,2,73,0,1,[overlay_append; section_add],bea6fd3ea76853214b73f39f7e663e46a2ca5912.exe
+0.9230373,4.29,3,73,0,1,[overlay_append; section_add; section_add],bea6fd3ea76853214b73f39f7e663e46a2ca5912.exe
+0.9230373,4.62,4,73,0,1,[overlay_append; section_add; section_add; overlay_append],bea6fd3ea76853214b73f39f7e663e46a2ca5912.exe
+0.9230373,4.95,5,73,0,1,[overlay_append; section_add; section_add; overlay_append; section_rename],bea6fd3ea76853214b73f39f7e663e46a2ca5912.exe
+0.9230373,5.28,6,73,0,1,[overlay_append; section_add; section_add; overlay_append; section_rename; section_rename],bea6fd3ea76853214b73f39f7e663e46a2ca5912.exe
+0.9230373,5.61,7,73,0,1,[overlay_append; section_add; section_add; overlay_append; section_rename; section_rename; section_rename],bea6fd3ea76853214b73f39f7e663e46a2ca5912.exe
+0.95456463,5.94,8,73,0,1,[overlay_append; section_add; section_add; overlay_append; section_rename; section_rename; section_rename; imports_append],bea6fd3ea76853214b73f39f7e663e46a2ca5912.exe
+0.95456463,6.2700000000000005,9,73,0,1,[overlay_append; section_add; section_add; overlay_append; section_rename; section_rename; section_rename; imports_append; overlay_append],bea6fd3ea76853214b73f39f7e663e46a2ca5912.exe
+0.95456463,6.6000000000000005,10,73,0,1,[overlay_append; section_add; section_add; overlay_append; section_rename; section_rename; section_rename; imports_append; overlay_append; overlay_append],bea6fd3ea76853214b73f39f7e663e46a2ca5912.exe
+0.82574093,6.930000000000001,1,74,1,1,[section_add],ef8a8b73ed60c549c749898cb96fc4f2532145d4.exe
+0.8330421,6.930000000000001,1,75,1,1,[overlay_append],fe176707755d9c1f0fbc2ca33cb405d27aa17b89.exe
+0.85597414,6.930000000000001,1,83,1,1,[overlay_append],fa479789474528269f6d7abe2c2fa22bbf503161.exe
+0.98980075,3.6300000000000003,1,84,0,1,[overlay_append],474b9e639685dff4460a4183efdb85369fc9f77f.exe
+0.99198806,3.9600000000000004,2,84,0,1,[overlay_append; overlay_append],474b9e639685dff4460a4183efdb85369fc9f77f.exe
+0.99198806,4.29,3,84,0,1,[overlay_append; overlay_append; overlay_append],474b9e639685dff4460a4183efdb85369fc9f77f.exe
+0.99198806,4.62,4,84,0,1,[overlay_append; overlay_append; overlay_append; overlay_append],474b9e639685dff4460a4183efdb85369fc9f77f.exe
+0.99198806,4.95,5,84,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum],474b9e639685dff4460a4183efdb85369fc9f77f.exe
+0.99198806,5.28,6,84,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; overlay_append],474b9e639685dff4460a4183efdb85369fc9f77f.exe
+0.99198806,5.61,7,84,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; overlay_append; imports_append],474b9e639685dff4460a4183efdb85369fc9f77f.exe
+0.9930808,5.94,8,84,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; overlay_append; imports_append; overlay_append],474b9e639685dff4460a4183efdb85369fc9f77f.exe
+0.9930808,6.2700000000000005,9,84,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; overlay_append; imports_append; overlay_append; break_optional_header_checksum],474b9e639685dff4460a4183efdb85369fc9f77f.exe
+0.9925287,6.6000000000000005,10,84,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; overlay_append; imports_append; overlay_append; break_optional_header_checksum; imports_append],474b9e639685dff4460a4183efdb85369fc9f77f.exe
+0.98933744,3.6300000000000003,1,88,0,1,[overlay_append],92997064cdda98b1b15d73f5d72995c19ca8770c.exe
+0.98933744,3.9600000000000004,2,88,0,1,[overlay_append; overlay_append],92997064cdda98b1b15d73f5d72995c19ca8770c.exe
+0.99190617,4.29,3,88,0,1,[overlay_append; overlay_append; imports_append],92997064cdda98b1b15d73f5d72995c19ca8770c.exe
+0.99190617,4.62,4,88,0,1,[overlay_append; overlay_append; imports_append; overlay_append],92997064cdda98b1b15d73f5d72995c19ca8770c.exe
+0.99190617,4.95,5,88,0,1,[overlay_append; overlay_append; imports_append; overlay_append; section_rename],92997064cdda98b1b15d73f5d72995c19ca8770c.exe
+0.99190617,5.28,6,88,0,1,[overlay_append; overlay_append; imports_append; overlay_append; section_rename; overlay_append],92997064cdda98b1b15d73f5d72995c19ca8770c.exe
+0.99190617,5.61,7,88,0,1,[overlay_append; overlay_append; imports_append; overlay_append; section_rename; overlay_append; break_optional_header_checksum],92997064cdda98b1b15d73f5d72995c19ca8770c.exe
+0.99190617,5.94,8,88,0,1,[overlay_append; overlay_append; imports_append; overlay_append; section_rename; overlay_append; break_optional_header_checksum; section_rename],92997064cdda98b1b15d73f5d72995c19ca8770c.exe
+0.99190617,6.2700000000000005,9,88,0,1,[overlay_append; overlay_append; imports_append; overlay_append; section_rename; overlay_append; break_optional_header_checksum; section_rename; section_rename],92997064cdda98b1b15d73f5d72995c19ca8770c.exe
+0.99190617,6.6000000000000005,10,88,0,1,[overlay_append; overlay_append; imports_append; overlay_append; section_rename; overlay_append; break_optional_header_checksum; section_rename; section_rename; overlay_append],92997064cdda98b1b15d73f5d72995c19ca8770c.exe
+0.60466665,6.930000000000001,1,89,1,1,[section_rename],641ad29c85d81fcde234a064be4c1999fa7ffe96.exe
+0.88302,6.930000000000001,1,90,1,1,[imports_append],33048013e223dc3b6c5a8cbe5879ede830276a16.exe
+0.83315146,6.930000000000001,1,91,1,1,[break_optional_header_checksum],eb34933c675133e8a368a2efd1048e92a4cd7f56.exe
+0.9979265,3.6300000000000003,1,92,0,1,[overlay_append],fb22692f5d24bbbb365b520e5afe1927165308c6.exe
+0.9979265,3.9600000000000004,2,92,0,1,[overlay_append; overlay_append],fb22692f5d24bbbb365b520e5afe1927165308c6.exe
+0.99780005,4.29,3,92,0,1,[overlay_append; overlay_append; section_add],fb22692f5d24bbbb365b520e5afe1927165308c6.exe
+0.9978174,4.62,4,92,0,1,[overlay_append; overlay_append; section_add; section_rename],fb22692f5d24bbbb365b520e5afe1927165308c6.exe
+0.9978174,4.95,5,92,0,1,[overlay_append; overlay_append; section_add; section_rename; overlay_append],fb22692f5d24bbbb365b520e5afe1927165308c6.exe
+0.9978174,5.28,6,92,0,1,[overlay_append; overlay_append; section_add; section_rename; overlay_append; break_optional_header_checksum],fb22692f5d24bbbb365b520e5afe1927165308c6.exe
+0.9974254,5.61,7,92,0,1,[overlay_append; overlay_append; section_add; section_rename; overlay_append; break_optional_header_checksum; imports_append],fb22692f5d24bbbb365b520e5afe1927165308c6.exe
+0.99679476,5.94,8,92,0,1,[overlay_append; overlay_append; section_add; section_rename; overlay_append; break_optional_header_checksum; imports_append; overlay_append],fb22692f5d24bbbb365b520e5afe1927165308c6.exe
+0.99679476,6.2700000000000005,9,92,0,1,[overlay_append; overlay_append; section_add; section_rename; overlay_append; break_optional_header_checksum; imports_append; overlay_append; overlay_append],fb22692f5d24bbbb365b520e5afe1927165308c6.exe
+0.99679476,6.6000000000000005,10,92,0,1,[overlay_append; overlay_append; section_add; section_rename; overlay_append; break_optional_header_checksum; imports_append; overlay_append; overlay_append; overlay_append],fb22692f5d24bbbb365b520e5afe1927165308c6.exe
+0.8228054,6.930000000000001,1,96,1,1,[overlay_append],9213f3ba612721421f90b6531b95fe0504e4f41b.exe
+0.85800177,6.930000000000001,1,107,1,1,[imports_append],ab116641cb65a5f8de9f3a7dd4c7ce3faf1874ec.exe
+0.9979754,3.6300000000000003,1,109,0,1,[overlay_append],b59f24a6c67ce1e18b66fb6fe21e2451b99a5f70.exe
+0.9979754,3.9600000000000004,2,109,0,1,[overlay_append; section_rename],b59f24a6c67ce1e18b66fb6fe21e2451b99a5f70.exe
+0.9979754,4.29,3,109,0,1,[overlay_append; section_rename; break_optional_header_checksum],b59f24a6c67ce1e18b66fb6fe21e2451b99a5f70.exe
+0.9979754,4.62,4,109,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename],b59f24a6c67ce1e18b66fb6fe21e2451b99a5f70.exe
+0.9979754,4.95,5,109,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append],b59f24a6c67ce1e18b66fb6fe21e2451b99a5f70.exe
+0.9979754,5.28,6,109,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append; break_optional_header_checksum],b59f24a6c67ce1e18b66fb6fe21e2451b99a5f70.exe
+0.9979754,5.61,7,109,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append; break_optional_header_checksum; overlay_append],b59f24a6c67ce1e18b66fb6fe21e2451b99a5f70.exe
+0.9979754,5.94,8,109,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append; break_optional_header_checksum; overlay_append; overlay_append],b59f24a6c67ce1e18b66fb6fe21e2451b99a5f70.exe
+0.9978689,6.2700000000000005,9,109,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append; break_optional_header_checksum; overlay_append; overlay_append; section_add],b59f24a6c67ce1e18b66fb6fe21e2451b99a5f70.exe
+0.9978689,6.6000000000000005,10,109,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; overlay_append; break_optional_header_checksum; overlay_append; overlay_append; section_add; section_rename],b59f24a6c67ce1e18b66fb6fe21e2451b99a5f70.exe
+0.8366784,6.930000000000001,1,110,1,1,[overlay_append],172ecd45bfe08ac2525e0226dcf31f992ce46389.exe
+0.94234246,3.6300000000000003,1,112,0,1,[overlay_append],a1ca8d7fb8c4209c295818f65f1ab2a7dbf7c584.exe
+0.94234246,3.9600000000000004,2,112,0,1,[overlay_append; section_rename],a1ca8d7fb8c4209c295818f65f1ab2a7dbf7c584.exe
+0.94234246,4.29,3,112,0,1,[overlay_append; section_rename; overlay_append],a1ca8d7fb8c4209c295818f65f1ab2a7dbf7c584.exe
+0.94234246,4.62,4,112,0,1,[overlay_append; section_rename; overlay_append; overlay_append],a1ca8d7fb8c4209c295818f65f1ab2a7dbf7c584.exe
+0.94234246,4.95,5,112,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add],a1ca8d7fb8c4209c295818f65f1ab2a7dbf7c584.exe
+0.94234246,5.28,6,112,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add; overlay_append],a1ca8d7fb8c4209c295818f65f1ab2a7dbf7c584.exe
+0.94234246,5.61,7,112,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add; overlay_append; section_rename],a1ca8d7fb8c4209c295818f65f1ab2a7dbf7c584.exe
+0.943689,5.94,8,112,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add; overlay_append; section_rename; imports_append],a1ca8d7fb8c4209c295818f65f1ab2a7dbf7c584.exe
+0.943689,6.2700000000000005,9,112,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add; overlay_append; section_rename; imports_append; section_rename],a1ca8d7fb8c4209c295818f65f1ab2a7dbf7c584.exe
+0.943689,6.6000000000000005,10,112,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_add; overlay_append; section_rename; imports_append; section_rename; overlay_append],a1ca8d7fb8c4209c295818f65f1ab2a7dbf7c584.exe
+0.98663086,3.6300000000000003,1,114,0,1,[overlay_append],83820835139523460bffd70964a5806726039c59.exe
+0.98663086,3.9600000000000004,2,114,0,1,[overlay_append; overlay_append],83820835139523460bffd70964a5806726039c59.exe
+0.98663086,4.29,3,114,0,1,[overlay_append; overlay_append; section_rename],83820835139523460bffd70964a5806726039c59.exe
+0.98663086,4.62,4,114,0,1,[overlay_append; overlay_append; section_rename; overlay_append],83820835139523460bffd70964a5806726039c59.exe
+0.98663086,4.95,5,114,0,1,[overlay_append; overlay_append; section_rename; overlay_append; overlay_append],83820835139523460bffd70964a5806726039c59.exe
+0.98663086,5.28,6,114,0,1,[overlay_append; overlay_append; section_rename; overlay_append; overlay_append; overlay_append],83820835139523460bffd70964a5806726039c59.exe
+0.98663086,5.61,7,114,0,1,[overlay_append; overlay_append; section_rename; overlay_append; overlay_append; overlay_append; section_add],83820835139523460bffd70964a5806726039c59.exe
+0.9890894,5.94,8,114,0,1,[overlay_append; overlay_append; section_rename; overlay_append; overlay_append; overlay_append; section_add; imports_append],83820835139523460bffd70964a5806726039c59.exe
+0.9890894,6.2700000000000005,9,114,0,1,[overlay_append; overlay_append; section_rename; overlay_append; overlay_append; overlay_append; section_add; imports_append; section_rename],83820835139523460bffd70964a5806726039c59.exe
+0.9890894,6.6000000000000005,10,114,0,1,[overlay_append; overlay_append; section_rename; overlay_append; overlay_append; overlay_append; section_add; imports_append; section_rename; overlay_append],83820835139523460bffd70964a5806726039c59.exe
+0.9880304,3.6300000000000003,1,115,0,1,[section_rename],487225f6e1871a47d7d3fc4101e87dc029c1384d.exe
+0.9880304,3.9600000000000004,2,115,0,1,[section_rename; section_add],487225f6e1871a47d7d3fc4101e87dc029c1384d.exe
+0.9880304,4.29,3,115,0,1,[section_rename; section_add; overlay_append],487225f6e1871a47d7d3fc4101e87dc029c1384d.exe
+0.9880304,4.62,4,115,0,1,[section_rename; section_add; overlay_append; overlay_append],487225f6e1871a47d7d3fc4101e87dc029c1384d.exe
+0.9880304,4.95,5,115,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename],487225f6e1871a47d7d3fc4101e87dc029c1384d.exe
+0.9880304,5.28,6,115,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename; overlay_append],487225f6e1871a47d7d3fc4101e87dc029c1384d.exe
+0.9878847,5.61,7,115,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename; overlay_append; overlay_append],487225f6e1871a47d7d3fc4101e87dc029c1384d.exe
+0.9878847,5.94,8,115,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename; overlay_append; overlay_append; section_rename],487225f6e1871a47d7d3fc4101e87dc029c1384d.exe
+0.9878847,6.2700000000000005,9,115,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename; overlay_append; overlay_append; section_rename; overlay_append],487225f6e1871a47d7d3fc4101e87dc029c1384d.exe
+0.9878847,6.6000000000000005,10,115,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename; overlay_append; overlay_append; section_rename; overlay_append; section_rename],487225f6e1871a47d7d3fc4101e87dc029c1384d.exe
+0.9997918,3.6300000000000003,1,116,0,1,[overlay_append],91eb701314224ad68555e2c02819dc08d95f0029.exe
+0.9997918,3.9600000000000004,2,116,0,1,[overlay_append; section_rename],91eb701314224ad68555e2c02819dc08d95f0029.exe
+0.9997918,4.29,3,116,0,1,[overlay_append; section_rename; overlay_append],91eb701314224ad68555e2c02819dc08d95f0029.exe
+0.9997918,4.62,4,116,0,1,[overlay_append; section_rename; overlay_append; overlay_append],91eb701314224ad68555e2c02819dc08d95f0029.exe
+0.9997918,4.95,5,116,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_rename],91eb701314224ad68555e2c02819dc08d95f0029.exe
+0.9997887,5.28,6,116,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_rename; section_add],91eb701314224ad68555e2c02819dc08d95f0029.exe
+0.9997887,5.61,7,116,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_rename; section_add; section_rename],91eb701314224ad68555e2c02819dc08d95f0029.exe
+0.9997714,5.94,8,116,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_rename; section_add; section_rename; section_rename],91eb701314224ad68555e2c02819dc08d95f0029.exe
+0.9997714,6.2700000000000005,9,116,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_rename; section_add; section_rename; section_rename; overlay_append],91eb701314224ad68555e2c02819dc08d95f0029.exe
+0.9997714,6.6000000000000005,10,116,0,1,[overlay_append; section_rename; overlay_append; overlay_append; section_rename; section_add; section_rename; section_rename; overlay_append; overlay_append],91eb701314224ad68555e2c02819dc08d95f0029.exe
+0.8621241,6.930000000000001,1,120,1,1,[remove_debug],8399d6dda2cfde64456e37930874040cfe15065e.exe
+0.9876694,3.6300000000000003,1,123,0,1,[remove_debug],d7f354d1ece58ad3b666f2b5d15c0d236f872220.exe
+0.9876694,3.9600000000000004,2,123,0,1,[remove_debug; overlay_append],d7f354d1ece58ad3b666f2b5d15c0d236f872220.exe
+0.9876694,4.29,3,123,0,1,[remove_debug; overlay_append; overlay_append],d7f354d1ece58ad3b666f2b5d15c0d236f872220.exe
+0.9876694,4.62,4,123,0,1,[remove_debug; overlay_append; overlay_append; break_optional_header_checksum],d7f354d1ece58ad3b666f2b5d15c0d236f872220.exe
+0.9876694,4.95,5,123,0,1,[remove_debug; overlay_append; overlay_append; break_optional_header_checksum; overlay_append],d7f354d1ece58ad3b666f2b5d15c0d236f872220.exe
+0.9876694,5.28,6,123,0,1,[remove_debug; overlay_append; overlay_append; break_optional_header_checksum; overlay_append; section_add],d7f354d1ece58ad3b666f2b5d15c0d236f872220.exe
+0.9880306,5.61,7,123,0,1,[remove_debug; overlay_append; overlay_append; break_optional_header_checksum; overlay_append; section_add; overlay_append],d7f354d1ece58ad3b666f2b5d15c0d236f872220.exe
+0.9880306,5.94,8,123,0,1,[remove_debug; overlay_append; overlay_append; break_optional_header_checksum; overlay_append; section_add; overlay_append; section_add],d7f354d1ece58ad3b666f2b5d15c0d236f872220.exe
+0.9880306,6.2700000000000005,9,123,0,1,[remove_debug; overlay_append; overlay_append; break_optional_header_checksum; overlay_append; section_add; overlay_append; section_add; section_rename],d7f354d1ece58ad3b666f2b5d15c0d236f872220.exe
+0.9880306,6.6000000000000005,10,123,0,1,[remove_debug; overlay_append; overlay_append; break_optional_header_checksum; overlay_append; section_add; overlay_append; section_add; section_rename; overlay_append],d7f354d1ece58ad3b666f2b5d15c0d236f872220.exe
+0.7629439,6.930000000000001,1,125,1,1,[imports_append],f519c64d2e8c072479e9d963e6680e8b863e2105.exe
+0.79006153,6.930000000000001,1,126,1,1,[imports_append],88bb18c26a5c0033be1e4ec1abd681e32c128f0a.exe
+0.94661313,3.6300000000000003,1,127,0,1,[imports_append],c8d3c788a17bb216f55ab4758bec60765c70119d.exe
+0.94661313,3.9600000000000004,2,127,0,1,[imports_append; overlay_append],c8d3c788a17bb216f55ab4758bec60765c70119d.exe
+0.94661313,4.29,3,127,0,1,[imports_append; overlay_append; section_rename],c8d3c788a17bb216f55ab4758bec60765c70119d.exe
+0.94661313,4.62,4,127,0,1,[imports_append; overlay_append; section_rename; section_rename],c8d3c788a17bb216f55ab4758bec60765c70119d.exe
+0.94661313,4.95,5,127,0,1,[imports_append; overlay_append; section_rename; section_rename; overlay_append],c8d3c788a17bb216f55ab4758bec60765c70119d.exe
+0.94661313,5.28,6,127,0,1,[imports_append; overlay_append; section_rename; section_rename; overlay_append; overlay_append],c8d3c788a17bb216f55ab4758bec60765c70119d.exe
+0.94661313,5.61,7,127,0,1,[imports_append; overlay_append; section_rename; section_rename; overlay_append; overlay_append; overlay_append],c8d3c788a17bb216f55ab4758bec60765c70119d.exe
+0.94661313,5.94,8,127,0,1,[imports_append; overlay_append; section_rename; section_rename; overlay_append; overlay_append; overlay_append; section_rename],c8d3c788a17bb216f55ab4758bec60765c70119d.exe
+0.94661313,6.2700000000000005,9,127,0,1,[imports_append; overlay_append; section_rename; section_rename; overlay_append; overlay_append; overlay_append; section_rename; section_rename],c8d3c788a17bb216f55ab4758bec60765c70119d.exe
+0.94661313,6.6000000000000005,10,127,0,1,[imports_append; overlay_append; section_rename; section_rename; overlay_append; overlay_append; overlay_append; section_rename; section_rename; overlay_append],c8d3c788a17bb216f55ab4758bec60765c70119d.exe
+0.9988092,3.6300000000000003,1,128,0,1,[remove_debug],87b542920308360c59abb970bb92400f39d3eab1.exe
+0.9986405,3.9600000000000004,2,128,0,1,[remove_debug; overlay_append],87b542920308360c59abb970bb92400f39d3eab1.exe
+0.9986405,4.29,3,128,0,1,[remove_debug; overlay_append; overlay_append],87b542920308360c59abb970bb92400f39d3eab1.exe
+0.9986405,4.62,4,128,0,1,[remove_debug; overlay_append; overlay_append; section_rename],87b542920308360c59abb970bb92400f39d3eab1.exe
+0.9986405,4.95,5,128,0,1,[remove_debug; overlay_append; overlay_append; section_rename; overlay_append],87b542920308360c59abb970bb92400f39d3eab1.exe
+0.9986405,5.28,6,128,0,1,[remove_debug; overlay_append; overlay_append; section_rename; overlay_append; overlay_append],87b542920308360c59abb970bb92400f39d3eab1.exe
+0.9986405,5.61,7,128,0,1,[remove_debug; overlay_append; overlay_append; section_rename; overlay_append; overlay_append; overlay_append],87b542920308360c59abb970bb92400f39d3eab1.exe
+0.9986405,5.94,8,128,0,1,[remove_debug; overlay_append; overlay_append; section_rename; overlay_append; overlay_append; overlay_append; section_rename],87b542920308360c59abb970bb92400f39d3eab1.exe
+0.9986318,6.2700000000000005,9,128,0,1,[remove_debug; overlay_append; overlay_append; section_rename; overlay_append; overlay_append; overlay_append; section_rename; break_optional_header_checksum],87b542920308360c59abb970bb92400f39d3eab1.exe
+0.9986318,6.6000000000000005,10,128,0,1,[remove_debug; overlay_append; overlay_append; section_rename; overlay_append; overlay_append; overlay_append; section_rename; break_optional_header_checksum; section_rename],87b542920308360c59abb970bb92400f39d3eab1.exe
+0.7693279,6.930000000000001,1,130,1,1,[section_rename],fa28ca09055c53f5dfaec94ded967e9df30a5634.exe
+0.8345948,6.930000000000001,1,131,1,1,[overlay_append],43ceebb3f645f6b9c4b6ff805b69b10735cfa3b2.exe
+0.94485193,3.6300000000000003,1,135,0,1,[section_rename],62fbb4501137fef923f723b198048f9c95f57fee.exe
+0.94485193,3.9600000000000004,2,135,0,1,[section_rename; break_optional_header_checksum],62fbb4501137fef923f723b198048f9c95f57fee.exe
+0.94485193,4.29,3,135,0,1,[section_rename; break_optional_header_checksum; section_rename],62fbb4501137fef923f723b198048f9c95f57fee.exe
+0.94485193,4.62,4,135,0,1,[section_rename; break_optional_header_checksum; section_rename; overlay_append],62fbb4501137fef923f723b198048f9c95f57fee.exe
+0.94485193,4.95,5,135,0,1,[section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append],62fbb4501137fef923f723b198048f9c95f57fee.exe
+0.94485193,5.28,6,135,0,1,[section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append; section_rename],62fbb4501137fef923f723b198048f9c95f57fee.exe
+0.94485193,5.61,7,135,0,1,[section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append; section_rename; section_rename],62fbb4501137fef923f723b198048f9c95f57fee.exe
+0.94986314,5.94,8,135,0,1,[section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append; section_rename; section_rename; overlay_append],62fbb4501137fef923f723b198048f9c95f57fee.exe
+0.94986314,6.2700000000000005,9,135,0,1,[section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append; section_rename; section_rename; overlay_append; overlay_append],62fbb4501137fef923f723b198048f9c95f57fee.exe
+0.94986314,6.6000000000000005,10,135,0,1,[section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append; section_rename; section_rename; overlay_append; overlay_append; section_rename],62fbb4501137fef923f723b198048f9c95f57fee.exe
+0.8132959,6.930000000000001,1,137,1,1,[overlay_append],46bdd7d9f4aacf7a1768e70c5b72e4b1d1560410.exe
+0.99883956,3.6300000000000003,1,140,0,1,[overlay_append],b7ae460a680d0fe196156a4efc2955b39ccf7d54.exe
+0.9988123,3.9600000000000004,2,140,0,1,[overlay_append; section_rename],b7ae460a680d0fe196156a4efc2955b39ccf7d54.exe
+0.99944514,4.29,3,140,0,1,[overlay_append; section_rename; section_add],b7ae460a680d0fe196156a4efc2955b39ccf7d54.exe
+0.99944514,4.62,4,140,0,1,[overlay_append; section_rename; section_add; overlay_append],b7ae460a680d0fe196156a4efc2955b39ccf7d54.exe
+0.9994469,4.95,5,140,0,1,[overlay_append; section_rename; section_add; overlay_append; section_rename],b7ae460a680d0fe196156a4efc2955b39ccf7d54.exe
+0.9994469,5.28,6,140,0,1,[overlay_append; section_rename; section_add; overlay_append; section_rename; overlay_append],b7ae460a680d0fe196156a4efc2955b39ccf7d54.exe
+0.9994469,5.61,7,140,0,1,[overlay_append; section_rename; section_add; overlay_append; section_rename; overlay_append; section_rename],b7ae460a680d0fe196156a4efc2955b39ccf7d54.exe
+0.99942774,5.94,8,140,0,1,[overlay_append; section_rename; section_add; overlay_append; section_rename; overlay_append; section_rename; imports_append],b7ae460a680d0fe196156a4efc2955b39ccf7d54.exe
+0.9994319,6.2700000000000005,9,140,0,1,[overlay_append; section_rename; section_add; overlay_append; section_rename; overlay_append; section_rename; imports_append; section_rename],b7ae460a680d0fe196156a4efc2955b39ccf7d54.exe
+0.99944764,6.6000000000000005,10,140,0,1,[overlay_append; section_rename; section_add; overlay_append; section_rename; overlay_append; section_rename; imports_append; section_rename; section_add],b7ae460a680d0fe196156a4efc2955b39ccf7d54.exe
+0.9609425,3.6300000000000003,1,143,0,1,[imports_append],b0aee1974b202ae85f4ce6dedf36f4ed94825996.exe
+0.9609425,3.9600000000000004,2,143,0,1,[imports_append; overlay_append],b0aee1974b202ae85f4ce6dedf36f4ed94825996.exe
+0.9621839,4.29,3,143,0,1,[imports_append; overlay_append; overlay_append],b0aee1974b202ae85f4ce6dedf36f4ed94825996.exe
+0.9621839,4.62,4,143,0,1,[imports_append; overlay_append; overlay_append; overlay_append],b0aee1974b202ae85f4ce6dedf36f4ed94825996.exe
+0.9621839,4.95,5,143,0,1,[imports_append; overlay_append; overlay_append; overlay_append; overlay_append],b0aee1974b202ae85f4ce6dedf36f4ed94825996.exe
+0.9621839,5.28,6,143,0,1,[imports_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],b0aee1974b202ae85f4ce6dedf36f4ed94825996.exe
+0.9621839,5.61,7,143,0,1,[imports_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],b0aee1974b202ae85f4ce6dedf36f4ed94825996.exe
+0.9621839,5.94,8,143,0,1,[imports_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum],b0aee1974b202ae85f4ce6dedf36f4ed94825996.exe
+0.9621839,6.2700000000000005,9,143,0,1,[imports_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; remove_debug],b0aee1974b202ae85f4ce6dedf36f4ed94825996.exe
+0.96164477,6.6000000000000005,10,143,0,1,[imports_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; remove_debug; overlay_append],b0aee1974b202ae85f4ce6dedf36f4ed94825996.exe
+0.8605005,6.930000000000001,1,145,1,1,[section_rename],3948ae3c0d86ff66f893a425ca105b39b89ad835.exe
+0.81008965,6.930000000000001,1,149,1,1,[section_rename],bdec01764385a5d254287106d8bf04bdc34212b3.exe
+0.99689263,3.6300000000000003,1,150,0,1,[break_optional_header_checksum],c54f4b7f1a0587ec71758b2ee243ec66a14a918b.exe
+0.9935987,3.9600000000000004,2,150,0,1,[break_optional_header_checksum; imports_append],c54f4b7f1a0587ec71758b2ee243ec66a14a918b.exe
+0.9887039,4.29,3,150,0,1,[break_optional_header_checksum; imports_append; imports_append],c54f4b7f1a0587ec71758b2ee243ec66a14a918b.exe
+0.9887039,4.62,4,150,0,1,[break_optional_header_checksum; imports_append; imports_append; overlay_append],c54f4b7f1a0587ec71758b2ee243ec66a14a918b.exe
+0.9887039,4.95,5,150,0,1,[break_optional_header_checksum; imports_append; imports_append; overlay_append; overlay_append],c54f4b7f1a0587ec71758b2ee243ec66a14a918b.exe
+0.9887039,5.28,6,150,0,1,[break_optional_header_checksum; imports_append; imports_append; overlay_append; overlay_append; overlay_append],c54f4b7f1a0587ec71758b2ee243ec66a14a918b.exe
+0.98182815,5.61,7,150,0,1,[break_optional_header_checksum; imports_append; imports_append; overlay_append; overlay_append; overlay_append; imports_append],c54f4b7f1a0587ec71758b2ee243ec66a14a918b.exe
+0.98182815,5.94,8,150,0,1,[break_optional_header_checksum; imports_append; imports_append; overlay_append; overlay_append; overlay_append; imports_append; overlay_append],c54f4b7f1a0587ec71758b2ee243ec66a14a918b.exe
+0.98182815,6.2700000000000005,9,150,0,1,[break_optional_header_checksum; imports_append; imports_append; overlay_append; overlay_append; overlay_append; imports_append; overlay_append; overlay_append],c54f4b7f1a0587ec71758b2ee243ec66a14a918b.exe
+0.98182815,6.6000000000000005,10,150,0,1,[break_optional_header_checksum; imports_append; imports_append; overlay_append; overlay_append; overlay_append; imports_append; overlay_append; overlay_append; break_optional_header_checksum],c54f4b7f1a0587ec71758b2ee243ec66a14a918b.exe
+0.605152,6.930000000000001,1,153,1,1,[section_rename],da7d3c10a1e0c3b45b4dc365a479b76cb24b1e5c.exe
+0.9846538,3.6300000000000003,1,154,0,1,[imports_append],66b0459e424bc7c22b0999032ef7447528c50bc5.exe
+0.9846538,3.9600000000000004,2,154,0,1,[imports_append; overlay_append],66b0459e424bc7c22b0999032ef7447528c50bc5.exe
+0.98036134,4.29,3,154,0,1,[imports_append; overlay_append; imports_append],66b0459e424bc7c22b0999032ef7447528c50bc5.exe
+0.98036134,4.62,4,154,0,1,[imports_append; overlay_append; imports_append; overlay_append],66b0459e424bc7c22b0999032ef7447528c50bc5.exe
+0.98036134,4.95,5,154,0,1,[imports_append; overlay_append; imports_append; overlay_append; overlay_append],66b0459e424bc7c22b0999032ef7447528c50bc5.exe
+0.98036134,5.28,6,154,0,1,[imports_append; overlay_append; imports_append; overlay_append; overlay_append; break_optional_header_checksum],66b0459e424bc7c22b0999032ef7447528c50bc5.exe
+0.9416051,5.61,7,154,0,1,[imports_append; overlay_append; imports_append; overlay_append; overlay_append; break_optional_header_checksum; imports_append],66b0459e424bc7c22b0999032ef7447528c50bc5.exe
+0.9416051,5.94,8,154,0,1,[imports_append; overlay_append; imports_append; overlay_append; overlay_append; break_optional_header_checksum; imports_append; section_rename],66b0459e424bc7c22b0999032ef7447528c50bc5.exe
+0.9705414,6.2700000000000005,9,154,0,1,[imports_append; overlay_append; imports_append; overlay_append; overlay_append; break_optional_header_checksum; imports_append; section_rename; imports_append],66b0459e424bc7c22b0999032ef7447528c50bc5.exe
+0.972244,6.6000000000000005,10,154,0,1,[imports_append; overlay_append; imports_append; overlay_append; overlay_append; break_optional_header_checksum; imports_append; section_rename; imports_append; imports_append],66b0459e424bc7c22b0999032ef7447528c50bc5.exe
+0.61318654,6.930000000000001,1,156,1,1,[section_rename],bbadefd09f32d33b51fdc544df01027f630649a1.exe
+0.9655396,3.6300000000000003,1,157,0,1,[overlay_append],fa125a99ea3a717dffefee19c5666f2399860bbf.exe
+0.9646574,3.9600000000000004,2,157,0,1,[overlay_append; imports_append],fa125a99ea3a717dffefee19c5666f2399860bbf.exe
+0.9646574,4.29,3,157,0,1,[overlay_append; imports_append; section_rename],fa125a99ea3a717dffefee19c5666f2399860bbf.exe
+0.9646574,4.62,4,157,0,1,[overlay_append; imports_append; section_rename; section_rename],fa125a99ea3a717dffefee19c5666f2399860bbf.exe
+0.9646574,4.95,5,157,0,1,[overlay_append; imports_append; section_rename; section_rename; break_optional_header_checksum],fa125a99ea3a717dffefee19c5666f2399860bbf.exe
+0.9646887,5.28,6,157,0,1,[overlay_append; imports_append; section_rename; section_rename; break_optional_header_checksum; section_add],fa125a99ea3a717dffefee19c5666f2399860bbf.exe
+0.9646887,5.61,7,157,0,1,[overlay_append; imports_append; section_rename; section_rename; break_optional_header_checksum; section_add; overlay_append],fa125a99ea3a717dffefee19c5666f2399860bbf.exe
+0.96204233,5.94,8,157,0,1,[overlay_append; imports_append; section_rename; section_rename; break_optional_header_checksum; section_add; overlay_append; imports_append],fa125a99ea3a717dffefee19c5666f2399860bbf.exe
+0.96204233,6.2700000000000005,9,157,0,1,[overlay_append; imports_append; section_rename; section_rename; break_optional_header_checksum; section_add; overlay_append; imports_append; overlay_append],fa125a99ea3a717dffefee19c5666f2399860bbf.exe
+0.9639114,6.6000000000000005,10,157,0,1,[overlay_append; imports_append; section_rename; section_rename; break_optional_header_checksum; section_add; overlay_append; imports_append; overlay_append; section_rename],fa125a99ea3a717dffefee19c5666f2399860bbf.exe
+0.8530641,6.930000000000001,1,163,1,1,[overlay_append],ce94fd7811f15f2d38245878ecfbc0507dc74f60.exe
+0.9945364,3.6300000000000003,1,165,0,1,[overlay_append],d4ae254c3587bdac21d569ff5d8f3a9431e18fa7.exe
+0.9991135,3.9600000000000004,2,165,0,1,[overlay_append; imports_append],d4ae254c3587bdac21d569ff5d8f3a9431e18fa7.exe
+0.9991135,4.29,3,165,0,1,[overlay_append; imports_append; overlay_append],d4ae254c3587bdac21d569ff5d8f3a9431e18fa7.exe
+0.9991135,4.62,4,165,0,1,[overlay_append; imports_append; overlay_append; section_add],d4ae254c3587bdac21d569ff5d8f3a9431e18fa7.exe
+0.9991135,4.95,5,165,0,1,[overlay_append; imports_append; overlay_append; section_add; overlay_append],d4ae254c3587bdac21d569ff5d8f3a9431e18fa7.exe
+0.9991135,5.28,6,165,0,1,[overlay_append; imports_append; overlay_append; section_add; overlay_append; section_rename],d4ae254c3587bdac21d569ff5d8f3a9431e18fa7.exe
+0.9991135,5.61,7,165,0,1,[overlay_append; imports_append; overlay_append; section_add; overlay_append; section_rename; overlay_append],d4ae254c3587bdac21d569ff5d8f3a9431e18fa7.exe
+0.9991135,5.94,8,165,0,1,[overlay_append; imports_append; overlay_append; section_add; overlay_append; section_rename; overlay_append; section_rename],d4ae254c3587bdac21d569ff5d8f3a9431e18fa7.exe
+0.9991135,6.2700000000000005,9,165,0,1,[overlay_append; imports_append; overlay_append; section_add; overlay_append; section_rename; overlay_append; section_rename; overlay_append],d4ae254c3587bdac21d569ff5d8f3a9431e18fa7.exe
+0.9991135,6.6000000000000005,10,165,0,1,[overlay_append; imports_append; overlay_append; section_add; overlay_append; section_rename; overlay_append; section_rename; overlay_append; overlay_append],d4ae254c3587bdac21d569ff5d8f3a9431e18fa7.exe
+0.99952126,3.6300000000000003,1,170,0,1,[overlay_append],475075d7213c8424b79eb829d470e38c50912ef7.exe
+0.99952126,3.9600000000000004,2,170,0,1,[overlay_append; section_rename],475075d7213c8424b79eb829d470e38c50912ef7.exe
+0.99952126,4.29,3,170,0,1,[overlay_append; section_rename; overlay_append],475075d7213c8424b79eb829d470e38c50912ef7.exe
+0.99952126,4.62,4,170,0,1,[overlay_append; section_rename; overlay_append; section_rename],475075d7213c8424b79eb829d470e38c50912ef7.exe
+0.99952126,4.95,5,170,0,1,[overlay_append; section_rename; overlay_append; section_rename; section_rename],475075d7213c8424b79eb829d470e38c50912ef7.exe
+0.9994673,5.28,6,170,0,1,[overlay_append; section_rename; overlay_append; section_rename; section_rename; section_add],475075d7213c8424b79eb829d470e38c50912ef7.exe
+0.9994673,5.61,7,170,0,1,[overlay_append; section_rename; overlay_append; section_rename; section_rename; section_add; overlay_append],475075d7213c8424b79eb829d470e38c50912ef7.exe
+0.9994636,5.94,8,170,0,1,[overlay_append; section_rename; overlay_append; section_rename; section_rename; section_add; overlay_append; imports_append],475075d7213c8424b79eb829d470e38c50912ef7.exe
+0.9994636,6.2700000000000005,9,170,0,1,[overlay_append; section_rename; overlay_append; section_rename; section_rename; section_add; overlay_append; imports_append; remove_debug],475075d7213c8424b79eb829d470e38c50912ef7.exe
+0.9994636,6.6000000000000005,10,170,0,1,[overlay_append; section_rename; overlay_append; section_rename; section_rename; section_add; overlay_append; imports_append; remove_debug; section_rename],475075d7213c8424b79eb829d470e38c50912ef7.exe
+0.9671404,3.6300000000000003,1,172,0,1,[section_rename],80e65ba2090ff8d7054c462a65126ec04045c533.exe
+0.9671404,3.9600000000000004,2,172,0,1,[section_rename; section_rename],80e65ba2090ff8d7054c462a65126ec04045c533.exe
+0.97191834,4.29,3,172,0,1,[section_rename; section_rename; overlay_append],80e65ba2090ff8d7054c462a65126ec04045c533.exe
+0.97191834,4.62,4,172,0,1,[section_rename; section_rename; overlay_append; overlay_append],80e65ba2090ff8d7054c462a65126ec04045c533.exe
+0.97191834,4.95,5,172,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append],80e65ba2090ff8d7054c462a65126ec04045c533.exe
+0.97191834,5.28,6,172,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append; overlay_append],80e65ba2090ff8d7054c462a65126ec04045c533.exe
+0.97191834,5.61,7,172,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append; overlay_append; section_rename],80e65ba2090ff8d7054c462a65126ec04045c533.exe
+0.97191834,5.94,8,172,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append],80e65ba2090ff8d7054c462a65126ec04045c533.exe
+0.97191834,6.2700000000000005,9,172,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append; section_rename],80e65ba2090ff8d7054c462a65126ec04045c533.exe
+0.981384,6.6000000000000005,10,172,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append; section_rename; overlay_append],80e65ba2090ff8d7054c462a65126ec04045c533.exe
+0.9439223,3.6300000000000003,1,173,0,1,[imports_append],79970ce7185c4e9dd61149c649e5f912b741b3ed.exe
+0.9439223,3.9600000000000004,2,173,0,1,[imports_append; overlay_append],79970ce7185c4e9dd61149c649e5f912b741b3ed.exe
+0.9439223,4.29,3,173,0,1,[imports_append; overlay_append; section_add],79970ce7185c4e9dd61149c649e5f912b741b3ed.exe
+0.31579852,7.92,4,173,1,1,[imports_append; overlay_append; section_add; imports_append],79970ce7185c4e9dd61149c649e5f912b741b3ed.exe
+0.9996556,3.6300000000000003,1,176,0,1,[overlay_append],66d803b47f1a6a1da8fa080e66312f42a04adcc7.exe
+0.9996556,3.9600000000000004,2,176,0,1,[overlay_append; overlay_append],66d803b47f1a6a1da8fa080e66312f42a04adcc7.exe
+0.9996556,4.29,3,176,0,1,[overlay_append; overlay_append; overlay_append],66d803b47f1a6a1da8fa080e66312f42a04adcc7.exe
+0.9996556,4.62,4,176,0,1,[overlay_append; overlay_append; overlay_append; overlay_append],66d803b47f1a6a1da8fa080e66312f42a04adcc7.exe
+0.9996556,4.95,5,176,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],66d803b47f1a6a1da8fa080e66312f42a04adcc7.exe
+0.9996556,5.28,6,176,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename],66d803b47f1a6a1da8fa080e66312f42a04adcc7.exe
+0.9996556,5.61,7,176,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append],66d803b47f1a6a1da8fa080e66312f42a04adcc7.exe
+0.9996753,5.94,8,176,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append; section_rename],66d803b47f1a6a1da8fa080e66312f42a04adcc7.exe
+0.9995814,6.2700000000000005,9,176,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append; section_rename; overlay_append],66d803b47f1a6a1da8fa080e66312f42a04adcc7.exe
+0.99981517,6.6000000000000005,10,176,0,1,[overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append; section_rename; overlay_append; imports_append],66d803b47f1a6a1da8fa080e66312f42a04adcc7.exe
+0.8182622,6.930000000000001,1,182,1,1,[imports_append],566cb31f33f5c6c7f3d34a01c8650d9df20acf2e.exe
+0.9968496,3.6300000000000003,1,186,0,1,[section_rename],c3b05f56d69e98c81e59ddbf25e148a96ee4722b.exe
+0.9966724,3.9600000000000004,2,186,0,1,[section_rename; section_rename],c3b05f56d69e98c81e59ddbf25e148a96ee4722b.exe
+0.9966724,4.29,3,186,0,1,[section_rename; section_rename; overlay_append],c3b05f56d69e98c81e59ddbf25e148a96ee4722b.exe
+0.99649316,4.62,4,186,0,1,[section_rename; section_rename; overlay_append; overlay_append],c3b05f56d69e98c81e59ddbf25e148a96ee4722b.exe
+0.99649316,4.95,5,186,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append],c3b05f56d69e98c81e59ddbf25e148a96ee4722b.exe
+0.99617213,5.28,6,186,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append; section_add],c3b05f56d69e98c81e59ddbf25e148a96ee4722b.exe
+0.99617213,5.61,7,186,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append; section_add; section_rename],c3b05f56d69e98c81e59ddbf25e148a96ee4722b.exe
+0.99617213,5.94,8,186,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append; section_add; section_rename; section_rename],c3b05f56d69e98c81e59ddbf25e148a96ee4722b.exe
+0.99617213,6.2700000000000005,9,186,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append; section_add; section_rename; section_rename; section_rename],c3b05f56d69e98c81e59ddbf25e148a96ee4722b.exe
+0.99617213,6.6000000000000005,10,186,0,1,[section_rename; section_rename; overlay_append; overlay_append; overlay_append; section_add; section_rename; section_rename; section_rename; overlay_append],c3b05f56d69e98c81e59ddbf25e148a96ee4722b.exe
+0.9582092,3.6300000000000003,1,187,0,1,[imports_append],0640e5d7a797a504cbd026d1591bf9ad31a7bad7.exe
+0.9582092,3.9600000000000004,2,187,0,1,[imports_append; break_optional_header_checksum],0640e5d7a797a504cbd026d1591bf9ad31a7bad7.exe
+0.9582092,4.29,3,187,0,1,[imports_append; break_optional_header_checksum; section_rename],0640e5d7a797a504cbd026d1591bf9ad31a7bad7.exe
+0.9582092,4.62,4,187,0,1,[imports_append; break_optional_header_checksum; section_rename; section_rename],0640e5d7a797a504cbd026d1591bf9ad31a7bad7.exe
+0.9582092,4.95,5,187,0,1,[imports_append; break_optional_header_checksum; section_rename; section_rename; overlay_append],0640e5d7a797a504cbd026d1591bf9ad31a7bad7.exe
+0.8676305,8.58,6,187,1,1,[imports_append; break_optional_header_checksum; section_rename; section_rename; overlay_append; imports_append],0640e5d7a797a504cbd026d1591bf9ad31a7bad7.exe
+0.9941275,3.6300000000000003,1,188,0,1,[overlay_append],423ab0ff77129a2ff06ac1c861823aa14e1b774f.exe
+0.9941275,3.9600000000000004,2,188,0,1,[overlay_append; overlay_append],423ab0ff77129a2ff06ac1c861823aa14e1b774f.exe
+0.9941275,4.29,3,188,0,1,[overlay_append; overlay_append; section_rename],423ab0ff77129a2ff06ac1c861823aa14e1b774f.exe
+0.9941275,4.62,4,188,0,1,[overlay_append; overlay_append; section_rename; overlay_append],423ab0ff77129a2ff06ac1c861823aa14e1b774f.exe
+0.98224247,4.95,5,188,0,1,[overlay_append; overlay_append; section_rename; overlay_append; imports_append],423ab0ff77129a2ff06ac1c861823aa14e1b774f.exe
+0.98224247,5.28,6,188,0,1,[overlay_append; overlay_append; section_rename; overlay_append; imports_append; break_optional_header_checksum],423ab0ff77129a2ff06ac1c861823aa14e1b774f.exe
+0.9881649,5.61,7,188,0,1,[overlay_append; overlay_append; section_rename; overlay_append; imports_append; break_optional_header_checksum; overlay_append],423ab0ff77129a2ff06ac1c861823aa14e1b774f.exe
+0.9881649,5.94,8,188,0,1,[overlay_append; overlay_append; section_rename; overlay_append; imports_append; break_optional_header_checksum; overlay_append; section_rename],423ab0ff77129a2ff06ac1c861823aa14e1b774f.exe
+0.9881649,6.2700000000000005,9,188,0,1,[overlay_append; overlay_append; section_rename; overlay_append; imports_append; break_optional_header_checksum; overlay_append; section_rename; section_rename],423ab0ff77129a2ff06ac1c861823aa14e1b774f.exe
+0.9881649,6.6000000000000005,10,188,0,1,[overlay_append; overlay_append; section_rename; overlay_append; imports_append; break_optional_header_checksum; overlay_append; section_rename; section_rename; section_rename],423ab0ff77129a2ff06ac1c861823aa14e1b774f.exe
+0.60756814,6.930000000000001,1,190,1,1,[section_rename],941308d93a9f83eb70ca7a5a3e2748314dc4e15a.exe
+0.99573284,3.6300000000000003,1,192,0,1,[break_optional_header_checksum],a0b5d4f1c196e1ba7a56b6711f5fb7db5d2e6d5b.exe
+0.99573284,3.9600000000000004,2,192,0,1,[break_optional_header_checksum; break_optional_header_checksum],a0b5d4f1c196e1ba7a56b6711f5fb7db5d2e6d5b.exe
+0.99573284,4.29,3,192,0,1,[break_optional_header_checksum; break_optional_header_checksum; section_rename],a0b5d4f1c196e1ba7a56b6711f5fb7db5d2e6d5b.exe
+0.9835359,4.62,4,192,0,1,[break_optional_header_checksum; break_optional_header_checksum; section_rename; imports_append],a0b5d4f1c196e1ba7a56b6711f5fb7db5d2e6d5b.exe
+0.985075,4.95,5,192,0,1,[break_optional_header_checksum; break_optional_header_checksum; section_rename; imports_append; section_add],a0b5d4f1c196e1ba7a56b6711f5fb7db5d2e6d5b.exe
+0.99547535,5.28,6,192,0,1,[break_optional_header_checksum; break_optional_header_checksum; section_rename; imports_append; section_add; imports_append],a0b5d4f1c196e1ba7a56b6711f5fb7db5d2e6d5b.exe
+0.99547535,5.61,7,192,0,1,[break_optional_header_checksum; break_optional_header_checksum; section_rename; imports_append; section_add; imports_append; overlay_append],a0b5d4f1c196e1ba7a56b6711f5fb7db5d2e6d5b.exe
+0.99547535,5.94,8,192,0,1,[break_optional_header_checksum; break_optional_header_checksum; section_rename; imports_append; section_add; imports_append; overlay_append; section_rename],a0b5d4f1c196e1ba7a56b6711f5fb7db5d2e6d5b.exe
+0.99547535,6.2700000000000005,9,192,0,1,[break_optional_header_checksum; break_optional_header_checksum; section_rename; imports_append; section_add; imports_append; overlay_append; section_rename; section_rename],a0b5d4f1c196e1ba7a56b6711f5fb7db5d2e6d5b.exe
+0.99547535,6.6000000000000005,10,192,0,1,[break_optional_header_checksum; break_optional_header_checksum; section_rename; imports_append; section_add; imports_append; overlay_append; section_rename; section_rename; overlay_append],a0b5d4f1c196e1ba7a56b6711f5fb7db5d2e6d5b.exe
+0.9949963,3.6300000000000003,1,194,0,1,[remove_debug],c816aeb8cd950a66ea980ed2e937b98799b2110b.exe
+0.9949963,3.9600000000000004,2,194,0,1,[remove_debug; overlay_append],c816aeb8cd950a66ea980ed2e937b98799b2110b.exe
+0.995188,4.29,3,194,0,1,[remove_debug; overlay_append; section_rename],c816aeb8cd950a66ea980ed2e937b98799b2110b.exe
+0.995188,4.62,4,194,0,1,[remove_debug; overlay_append; section_rename; section_rename],c816aeb8cd950a66ea980ed2e937b98799b2110b.exe
+0.995188,4.95,5,194,0,1,[remove_debug; overlay_append; section_rename; section_rename; overlay_append],c816aeb8cd950a66ea980ed2e937b98799b2110b.exe
+0.995188,5.28,6,194,0,1,[remove_debug; overlay_append; section_rename; section_rename; overlay_append; break_optional_header_checksum],c816aeb8cd950a66ea980ed2e937b98799b2110b.exe
+0.995188,5.61,7,194,0,1,[remove_debug; overlay_append; section_rename; section_rename; overlay_append; break_optional_header_checksum; section_rename],c816aeb8cd950a66ea980ed2e937b98799b2110b.exe
+0.99495393,5.94,8,194,0,1,[remove_debug; overlay_append; section_rename; section_rename; overlay_append; break_optional_header_checksum; section_rename; section_rename],c816aeb8cd950a66ea980ed2e937b98799b2110b.exe
+0.9952113,6.2700000000000005,9,194,0,1,[remove_debug; overlay_append; section_rename; section_rename; overlay_append; break_optional_header_checksum; section_rename; section_rename; imports_append],c816aeb8cd950a66ea980ed2e937b98799b2110b.exe
+0.9952113,6.6000000000000005,10,194,0,1,[remove_debug; overlay_append; section_rename; section_rename; overlay_append; break_optional_header_checksum; section_rename; section_rename; imports_append; overlay_append],c816aeb8cd950a66ea980ed2e937b98799b2110b.exe
+0.99184835,3.6300000000000003,1,195,0,1,[section_add],41a47097ba48fb4eab7d6521204b5058a2b5620b.exe
+0.9931177,3.9600000000000004,2,195,0,1,[section_add; section_add],41a47097ba48fb4eab7d6521204b5058a2b5620b.exe
+0.9931746,4.29,3,195,0,1,[section_add; section_add; break_optional_header_checksum],41a47097ba48fb4eab7d6521204b5058a2b5620b.exe
+0.9931425,4.62,4,195,0,1,[section_add; section_add; break_optional_header_checksum; imports_append],41a47097ba48fb4eab7d6521204b5058a2b5620b.exe
+0.9931425,4.95,5,195,0,1,[section_add; section_add; break_optional_header_checksum; imports_append; overlay_append],41a47097ba48fb4eab7d6521204b5058a2b5620b.exe
+0.99335784,5.28,6,195,0,1,[section_add; section_add; break_optional_header_checksum; imports_append; overlay_append; imports_append],41a47097ba48fb4eab7d6521204b5058a2b5620b.exe
+0.99335784,5.61,7,195,0,1,[section_add; section_add; break_optional_header_checksum; imports_append; overlay_append; imports_append; overlay_append],41a47097ba48fb4eab7d6521204b5058a2b5620b.exe
+0.99335784,5.94,8,195,0,1,[section_add; section_add; break_optional_header_checksum; imports_append; overlay_append; imports_append; overlay_append; overlay_append],41a47097ba48fb4eab7d6521204b5058a2b5620b.exe
+0.99335784,6.2700000000000005,9,195,0,1,[section_add; section_add; break_optional_header_checksum; imports_append; overlay_append; imports_append; overlay_append; overlay_append; overlay_append],41a47097ba48fb4eab7d6521204b5058a2b5620b.exe
+0.99335784,6.6000000000000005,10,195,0,1,[section_add; section_add; break_optional_header_checksum; imports_append; overlay_append; imports_append; overlay_append; overlay_append; overlay_append; section_rename],41a47097ba48fb4eab7d6521204b5058a2b5620b.exe
+0.9902401,3.6300000000000003,1,196,0,1,[overlay_append],e62d6ba962145114c6a8e234d660ce99a4946d83.exe
+0.9902401,3.9600000000000004,2,196,0,1,[overlay_append; overlay_append],e62d6ba962145114c6a8e234d660ce99a4946d83.exe
+0.9902401,4.29,3,196,0,1,[overlay_append; overlay_append; overlay_append],e62d6ba962145114c6a8e234d660ce99a4946d83.exe
+0.99316347,4.62,4,196,0,1,[overlay_append; overlay_append; overlay_append; imports_append],e62d6ba962145114c6a8e234d660ce99a4946d83.exe
+0.9935329,4.95,5,196,0,1,[overlay_append; overlay_append; overlay_append; imports_append; imports_append],e62d6ba962145114c6a8e234d660ce99a4946d83.exe
+0.9935329,5.28,6,196,0,1,[overlay_append; overlay_append; overlay_append; imports_append; imports_append; section_add],e62d6ba962145114c6a8e234d660ce99a4946d83.exe
+0.9935329,5.61,7,196,0,1,[overlay_append; overlay_append; overlay_append; imports_append; imports_append; section_add; overlay_append],e62d6ba962145114c6a8e234d660ce99a4946d83.exe
+0.9935329,5.94,8,196,0,1,[overlay_append; overlay_append; overlay_append; imports_append; imports_append; section_add; overlay_append; section_rename],e62d6ba962145114c6a8e234d660ce99a4946d83.exe
+0.9935329,6.2700000000000005,9,196,0,1,[overlay_append; overlay_append; overlay_append; imports_append; imports_append; section_add; overlay_append; section_rename; overlay_append],e62d6ba962145114c6a8e234d660ce99a4946d83.exe
+0.9813075,6.6000000000000005,10,196,0,1,[overlay_append; overlay_append; overlay_append; imports_append; imports_append; section_add; overlay_append; section_rename; overlay_append; imports_append],e62d6ba962145114c6a8e234d660ce99a4946d83.exe
+0.87375647,6.930000000000001,1,197,1,1,[imports_append],3820fb6eb2348815c1e8174193042c826e855a5c.exe
+0.7930211,6.930000000000001,1,203,1,1,[overlay_append],cfc2dbf4a45bcf871ce6a331d937a8912e14d959.exe
+0.9662719,3.6300000000000003,1,205,0,1,[overlay_append],62bf2c296c73978f764df38433db0978b75dd2c0.exe
+0.9662719,3.9600000000000004,2,205,0,1,[overlay_append; section_add],62bf2c296c73978f764df38433db0978b75dd2c0.exe
+0.9662719,4.29,3,205,0,1,[overlay_append; section_add; break_optional_header_checksum],62bf2c296c73978f764df38433db0978b75dd2c0.exe
+0.9662719,4.62,4,205,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append],62bf2c296c73978f764df38433db0978b75dd2c0.exe
+0.9662719,4.95,5,205,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_rename],62bf2c296c73978f764df38433db0978b75dd2c0.exe
+0.9662719,5.28,6,205,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_rename; break_optional_header_checksum],62bf2c296c73978f764df38433db0978b75dd2c0.exe
+0.9662719,5.61,7,205,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_rename; break_optional_header_checksum; section_rename],62bf2c296c73978f764df38433db0978b75dd2c0.exe
+0.98994946,5.94,8,205,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_rename; break_optional_header_checksum; section_rename; imports_append],62bf2c296c73978f764df38433db0978b75dd2c0.exe
+0.98994946,6.2700000000000005,9,205,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_rename; break_optional_header_checksum; section_rename; imports_append; overlay_append],62bf2c296c73978f764df38433db0978b75dd2c0.exe
+0.98994946,6.6000000000000005,10,205,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_rename; break_optional_header_checksum; section_rename; imports_append; overlay_append; overlay_append],62bf2c296c73978f764df38433db0978b75dd2c0.exe
+0.87675905,6.930000000000001,1,206,1,1,[overlay_append],49dd8b3cb68b0f30db3107644d6dd833facbad72.exe
+0.828371,6.930000000000001,1,208,1,1,[overlay_append],ec405efac79653a2278eeaaa4a5654c0c43cdf63.exe
+0.9943368,3.6300000000000003,1,210,0,1,[section_rename],b799297d8de8788e7581c7dee2d00be47e8e373b.exe
+0.9943368,3.9600000000000004,2,210,0,1,[section_rename; section_rename],b799297d8de8788e7581c7dee2d00be47e8e373b.exe
+0.9943368,4.29,3,210,0,1,[section_rename; section_rename; section_rename],b799297d8de8788e7581c7dee2d00be47e8e373b.exe
+0.9943368,4.62,4,210,0,1,[section_rename; section_rename; section_rename; overlay_append],b799297d8de8788e7581c7dee2d00be47e8e373b.exe
+0.9943368,4.95,5,210,0,1,[section_rename; section_rename; section_rename; overlay_append; overlay_append],b799297d8de8788e7581c7dee2d00be47e8e373b.exe
+0.9943368,5.28,6,210,0,1,[section_rename; section_rename; section_rename; overlay_append; overlay_append; overlay_append],b799297d8de8788e7581c7dee2d00be47e8e373b.exe
+0.9943368,5.61,7,210,0,1,[section_rename; section_rename; section_rename; overlay_append; overlay_append; overlay_append; overlay_append],b799297d8de8788e7581c7dee2d00be47e8e373b.exe
+0.9943368,5.94,8,210,0,1,[section_rename; section_rename; section_rename; overlay_append; overlay_append; overlay_append; overlay_append; section_rename],b799297d8de8788e7581c7dee2d00be47e8e373b.exe
+0.9943368,6.2700000000000005,9,210,0,1,[section_rename; section_rename; section_rename; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; section_rename],b799297d8de8788e7581c7dee2d00be47e8e373b.exe
+0.9943368,6.6000000000000005,10,210,0,1,[section_rename; section_rename; section_rename; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; section_rename; break_optional_header_checksum],b799297d8de8788e7581c7dee2d00be47e8e373b.exe
+0.8313899,6.930000000000001,1,211,1,1,[overlay_append],ed452740a74ed63e04f37e5da3093d30940258b2.exe
+0.87517625,6.930000000000001,1,212,1,1,[overlay_append],d804be6e6edc9b93669f663b3e52cf96936205b8.exe
+0.9849782,3.6300000000000003,1,215,0,1,[section_rename],32382731f5c6cd78da8b83a5045bcd42542fe867.exe
+0.9849782,3.9600000000000004,2,215,0,1,[section_rename; overlay_append],32382731f5c6cd78da8b83a5045bcd42542fe867.exe
+0.9889832,4.29,3,215,0,1,[section_rename; overlay_append; imports_append],32382731f5c6cd78da8b83a5045bcd42542fe867.exe
+0.9889832,4.62,4,215,0,1,[section_rename; overlay_append; imports_append; overlay_append],32382731f5c6cd78da8b83a5045bcd42542fe867.exe
+0.9889832,4.95,5,215,0,1,[section_rename; overlay_append; imports_append; overlay_append; break_optional_header_checksum],32382731f5c6cd78da8b83a5045bcd42542fe867.exe
+0.9889832,5.28,6,215,0,1,[section_rename; overlay_append; imports_append; overlay_append; break_optional_header_checksum; section_rename],32382731f5c6cd78da8b83a5045bcd42542fe867.exe
+0.9889832,5.61,7,215,0,1,[section_rename; overlay_append; imports_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append],32382731f5c6cd78da8b83a5045bcd42542fe867.exe
+0.9889832,5.94,8,215,0,1,[section_rename; overlay_append; imports_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append; section_add],32382731f5c6cd78da8b83a5045bcd42542fe867.exe
+0.9889832,6.2700000000000005,9,215,0,1,[section_rename; overlay_append; imports_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append; section_add; overlay_append],32382731f5c6cd78da8b83a5045bcd42542fe867.exe
+0.9889832,6.6000000000000005,10,215,0,1,[section_rename; overlay_append; imports_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append; section_add; overlay_append; section_add],32382731f5c6cd78da8b83a5045bcd42542fe867.exe
+0.9979152,3.6300000000000003,1,218,0,1,[section_rename],d29d861541fd751ce2676df64c009f18a2bbb7c3.exe
+0.9979152,3.9600000000000004,2,218,0,1,[section_rename; overlay_append],d29d861541fd751ce2676df64c009f18a2bbb7c3.exe
+0.9979152,4.29,3,218,0,1,[section_rename; overlay_append; overlay_append],d29d861541fd751ce2676df64c009f18a2bbb7c3.exe
+0.9979152,4.62,4,218,0,1,[section_rename; overlay_append; overlay_append; break_optional_header_checksum],d29d861541fd751ce2676df64c009f18a2bbb7c3.exe
+0.9979152,4.95,5,218,0,1,[section_rename; overlay_append; overlay_append; break_optional_header_checksum; section_rename],d29d861541fd751ce2676df64c009f18a2bbb7c3.exe
+0.9979152,5.28,6,218,0,1,[section_rename; overlay_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append],d29d861541fd751ce2676df64c009f18a2bbb7c3.exe
+0.99720013,5.61,7,218,0,1,[section_rename; overlay_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append; overlay_append],d29d861541fd751ce2676df64c009f18a2bbb7c3.exe
+0.99720013,5.94,8,218,0,1,[section_rename; overlay_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append; overlay_append; overlay_append],d29d861541fd751ce2676df64c009f18a2bbb7c3.exe
+0.9970732,6.2700000000000005,9,218,0,1,[section_rename; overlay_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append; overlay_append; overlay_append; section_add],d29d861541fd751ce2676df64c009f18a2bbb7c3.exe
+0.9970732,6.6000000000000005,10,218,0,1,[section_rename; overlay_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append; overlay_append; overlay_append; section_add; section_rename],d29d861541fd751ce2676df64c009f18a2bbb7c3.exe
+0.87105626,6.930000000000001,1,220,1,1,[imports_append],f51faf931a803f3a7bcb407ed02978f1cd2a2729.exe
+0.9161885,3.6300000000000003,1,224,0,1,[section_rename],ae5cd46fcb32619d941ca8268531c73307882c87.exe
+0.9161885,3.9600000000000004,2,224,0,1,[section_rename; section_rename],ae5cd46fcb32619d941ca8268531c73307882c87.exe
+0.9161885,4.29,3,224,0,1,[section_rename; section_rename; section_rename],ae5cd46fcb32619d941ca8268531c73307882c87.exe
+0.9161885,4.62,4,224,0,1,[section_rename; section_rename; section_rename; overlay_append],ae5cd46fcb32619d941ca8268531c73307882c87.exe
+0.9161885,4.95,5,224,0,1,[section_rename; section_rename; section_rename; overlay_append; section_rename],ae5cd46fcb32619d941ca8268531c73307882c87.exe
+0.9161885,5.28,6,224,0,1,[section_rename; section_rename; section_rename; overlay_append; section_rename; overlay_append],ae5cd46fcb32619d941ca8268531c73307882c87.exe
+0.9161885,5.61,7,224,0,1,[section_rename; section_rename; section_rename; overlay_append; section_rename; overlay_append; overlay_append],ae5cd46fcb32619d941ca8268531c73307882c87.exe
+0.9161885,5.94,8,224,0,1,[section_rename; section_rename; section_rename; overlay_append; section_rename; overlay_append; overlay_append; overlay_append],ae5cd46fcb32619d941ca8268531c73307882c87.exe
+0.9161885,6.2700000000000005,9,224,0,1,[section_rename; section_rename; section_rename; overlay_append; section_rename; overlay_append; overlay_append; overlay_append; break_optional_header_checksum],ae5cd46fcb32619d941ca8268531c73307882c87.exe
+0.9161885,6.6000000000000005,10,224,0,1,[section_rename; section_rename; section_rename; overlay_append; section_rename; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; overlay_append],ae5cd46fcb32619d941ca8268531c73307882c87.exe
+0.8894469,6.930000000000001,1,225,1,1,[section_rename],7088ebc8db9ac11105eab4a496305b1ae5d00988.exe
+0.97373104,3.6300000000000003,1,227,0,1,[overlay_append],cc1aa9996fc94ddcfa811363ba077cd2d07c4c2d.exe
+0.97373104,3.9600000000000004,2,227,0,1,[overlay_append; overlay_append],cc1aa9996fc94ddcfa811363ba077cd2d07c4c2d.exe
+0.97373104,4.29,3,227,0,1,[overlay_append; overlay_append; section_rename],cc1aa9996fc94ddcfa811363ba077cd2d07c4c2d.exe
+0.97373104,4.62,4,227,0,1,[overlay_append; overlay_append; section_rename; overlay_append],cc1aa9996fc94ddcfa811363ba077cd2d07c4c2d.exe
+0.9735169,4.95,5,227,0,1,[overlay_append; overlay_append; section_rename; overlay_append; section_rename],cc1aa9996fc94ddcfa811363ba077cd2d07c4c2d.exe
+0.9696585,5.28,6,227,0,1,[overlay_append; overlay_append; section_rename; overlay_append; section_rename; overlay_append],cc1aa9996fc94ddcfa811363ba077cd2d07c4c2d.exe
+0.96961313,5.61,7,227,0,1,[overlay_append; overlay_append; section_rename; overlay_append; section_rename; overlay_append; section_rename],cc1aa9996fc94ddcfa811363ba077cd2d07c4c2d.exe
+0.9693431,5.94,8,227,0,1,[overlay_append; overlay_append; section_rename; overlay_append; section_rename; overlay_append; section_rename; section_rename],cc1aa9996fc94ddcfa811363ba077cd2d07c4c2d.exe
+0.9693431,6.2700000000000005,9,227,0,1,[overlay_append; overlay_append; section_rename; overlay_append; section_rename; overlay_append; section_rename; section_rename; overlay_append],cc1aa9996fc94ddcfa811363ba077cd2d07c4c2d.exe
+0.9693431,6.6000000000000005,10,227,0,1,[overlay_append; overlay_append; section_rename; overlay_append; section_rename; overlay_append; section_rename; section_rename; overlay_append; overlay_append],cc1aa9996fc94ddcfa811363ba077cd2d07c4c2d.exe
+0.9994005,3.6300000000000003,1,229,0,1,[imports_append],7829535300a3a388f921350a3a5726e108585f82.exe
+0.99972457,3.9600000000000004,2,229,0,1,[imports_append; imports_append],7829535300a3a388f921350a3a5726e108585f82.exe
+0.99977046,4.29,3,229,0,1,[imports_append; imports_append; imports_append],7829535300a3a388f921350a3a5726e108585f82.exe
+0.99976987,4.62,4,229,0,1,[imports_append; imports_append; imports_append; section_add],7829535300a3a388f921350a3a5726e108585f82.exe
+0.99976987,4.95,5,229,0,1,[imports_append; imports_append; imports_append; section_add; overlay_append],7829535300a3a388f921350a3a5726e108585f82.exe
+0.99976987,5.28,6,229,0,1,[imports_append; imports_append; imports_append; section_add; overlay_append; overlay_append],7829535300a3a388f921350a3a5726e108585f82.exe
+0.99976987,5.61,7,229,0,1,[imports_append; imports_append; imports_append; section_add; overlay_append; overlay_append; overlay_append],7829535300a3a388f921350a3a5726e108585f82.exe
+0.99976987,5.94,8,229,0,1,[imports_append; imports_append; imports_append; section_add; overlay_append; overlay_append; overlay_append; overlay_append],7829535300a3a388f921350a3a5726e108585f82.exe
+0.9997701,6.2700000000000005,9,229,0,1,[imports_append; imports_append; imports_append; section_add; overlay_append; overlay_append; overlay_append; overlay_append; section_rename],7829535300a3a388f921350a3a5726e108585f82.exe
+0.9997701,6.6000000000000005,10,229,0,1,[imports_append; imports_append; imports_append; section_add; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append],7829535300a3a388f921350a3a5726e108585f82.exe
+0.9980623,3.6300000000000003,1,231,0,1,[overlay_append],e135c7ce4c1bd1854b6942c548d26fa3fc391c54.exe
+0.9980623,3.9600000000000004,2,231,0,1,[overlay_append; overlay_append],e135c7ce4c1bd1854b6942c548d26fa3fc391c54.exe
+0.9980623,4.29,3,231,0,1,[overlay_append; overlay_append; section_rename],e135c7ce4c1bd1854b6942c548d26fa3fc391c54.exe
+0.9980716,4.62,4,231,0,1,[overlay_append; overlay_append; section_rename; break_optional_header_checksum],e135c7ce4c1bd1854b6942c548d26fa3fc391c54.exe
+0.9980716,4.95,5,231,0,1,[overlay_append; overlay_append; section_rename; break_optional_header_checksum; section_rename],e135c7ce4c1bd1854b6942c548d26fa3fc391c54.exe
+0.9980716,5.28,6,231,0,1,[overlay_append; overlay_append; section_rename; break_optional_header_checksum; section_rename; break_optional_header_checksum],e135c7ce4c1bd1854b6942c548d26fa3fc391c54.exe
+0.9980716,5.61,7,231,0,1,[overlay_append; overlay_append; section_rename; break_optional_header_checksum; section_rename; break_optional_header_checksum; overlay_append],e135c7ce4c1bd1854b6942c548d26fa3fc391c54.exe
+0.9980003,5.94,8,231,0,1,[overlay_append; overlay_append; section_rename; break_optional_header_checksum; section_rename; break_optional_header_checksum; overlay_append; section_rename],e135c7ce4c1bd1854b6942c548d26fa3fc391c54.exe
+0.9982431,6.2700000000000005,9,231,0,1,[overlay_append; overlay_append; section_rename; break_optional_header_checksum; section_rename; break_optional_header_checksum; overlay_append; section_rename; imports_append],e135c7ce4c1bd1854b6942c548d26fa3fc391c54.exe
+0.99809486,6.6000000000000005,10,231,0,1,[overlay_append; overlay_append; section_rename; break_optional_header_checksum; section_rename; break_optional_header_checksum; overlay_append; section_rename; imports_append; section_rename],e135c7ce4c1bd1854b6942c548d26fa3fc391c54.exe
+0.81752825,6.930000000000001,1,233,1,1,[overlay_append],4569c1625eaf3e0edbb0dd0a371742f07a27db96.exe
+0.6352925,6.930000000000001,1,234,1,1,[overlay_append],ffa716f264be3c8dcd015e11fbda2ce93e1ecfed.exe
+0.95257694,3.6300000000000003,1,237,0,1,[section_rename],b6509672d862de7888495eef929a2a373464a7c6.exe
+0.95180815,3.9600000000000004,2,237,0,1,[section_rename; section_rename],b6509672d862de7888495eef929a2a373464a7c6.exe
+0.95257694,4.29,3,237,0,1,[section_rename; section_rename; section_rename],b6509672d862de7888495eef929a2a373464a7c6.exe
+0.95257694,4.62,4,237,0,1,[section_rename; section_rename; section_rename; section_rename],b6509672d862de7888495eef929a2a373464a7c6.exe
+0.9524463,4.95,5,237,0,1,[section_rename; section_rename; section_rename; section_rename; section_rename],b6509672d862de7888495eef929a2a373464a7c6.exe
+0.9524463,5.28,6,237,0,1,[section_rename; section_rename; section_rename; section_rename; section_rename; overlay_append],b6509672d862de7888495eef929a2a373464a7c6.exe
+0.9524463,5.61,7,237,0,1,[section_rename; section_rename; section_rename; section_rename; section_rename; overlay_append; overlay_append],b6509672d862de7888495eef929a2a373464a7c6.exe
+0.9524463,5.94,8,237,0,1,[section_rename; section_rename; section_rename; section_rename; section_rename; overlay_append; overlay_append; overlay_append],b6509672d862de7888495eef929a2a373464a7c6.exe
+0.95257694,6.2700000000000005,9,237,0,1,[section_rename; section_rename; section_rename; section_rename; section_rename; overlay_append; overlay_append; overlay_append; break_optional_header_checksum],b6509672d862de7888495eef929a2a373464a7c6.exe
+0.95257694,6.6000000000000005,10,237,0,1,[section_rename; section_rename; section_rename; section_rename; section_rename; overlay_append; overlay_append; overlay_append; break_optional_header_checksum; overlay_append],b6509672d862de7888495eef929a2a373464a7c6.exe
+0.81442976,6.930000000000001,1,239,1,1,[overlay_append],e9c8e0c8b4b9f9d702b49f46513a346a6b773247.exe
+0.8137683,6.930000000000001,1,241,1,1,[section_rename],76d624ae96177c7ab874a49c172206fb3db84904.exe
+0.977108,3.6300000000000003,1,243,0,1,[section_rename],662deada9c86d942b364b6cb7c5f9ecf2bfb9aa8.exe
+0.9681979,3.9600000000000004,2,243,0,1,[section_rename; imports_append],662deada9c86d942b364b6cb7c5f9ecf2bfb9aa8.exe
+0.9681979,4.29,3,243,0,1,[section_rename; imports_append; overlay_append],662deada9c86d942b364b6cb7c5f9ecf2bfb9aa8.exe
+0.9688774,4.62,4,243,0,1,[section_rename; imports_append; overlay_append; break_optional_header_checksum],662deada9c86d942b364b6cb7c5f9ecf2bfb9aa8.exe
+0.9688774,4.95,5,243,0,1,[section_rename; imports_append; overlay_append; break_optional_header_checksum; overlay_append],662deada9c86d942b364b6cb7c5f9ecf2bfb9aa8.exe
+0.9694381,5.28,6,243,0,1,[section_rename; imports_append; overlay_append; break_optional_header_checksum; overlay_append; section_add],662deada9c86d942b364b6cb7c5f9ecf2bfb9aa8.exe
+0.9694381,5.61,7,243,0,1,[section_rename; imports_append; overlay_append; break_optional_header_checksum; overlay_append; section_add; section_rename],662deada9c86d942b364b6cb7c5f9ecf2bfb9aa8.exe
+0.9694381,5.94,8,243,0,1,[section_rename; imports_append; overlay_append; break_optional_header_checksum; overlay_append; section_add; section_rename; section_rename],662deada9c86d942b364b6cb7c5f9ecf2bfb9aa8.exe
+0.9694381,6.2700000000000005,9,243,0,1,[section_rename; imports_append; overlay_append; break_optional_header_checksum; overlay_append; section_add; section_rename; section_rename; overlay_append],662deada9c86d942b364b6cb7c5f9ecf2bfb9aa8.exe
+0.9694381,6.6000000000000005,10,243,0,1,[section_rename; imports_append; overlay_append; break_optional_header_checksum; overlay_append; section_add; section_rename; section_rename; overlay_append; section_rename],662deada9c86d942b364b6cb7c5f9ecf2bfb9aa8.exe
+0.895946,6.930000000000001,1,246,1,1,[overlay_append],a15b61c6deb61be2624912c43495a95de34e3d44.exe
+0.8661777,6.930000000000001,1,247,1,1,[overlay_append],68333e667b59f3ab5e44a6d81faf00ea0d40e791.exe
+0.99974424,3.6300000000000003,1,253,0,1,[section_add],086484719a696d070699b500de9027d2e1197674.exe
+0.9997873,3.9600000000000004,2,253,0,1,[section_add; overlay_append],086484719a696d070699b500de9027d2e1197674.exe
+0.9997873,4.29,3,253,0,1,[section_add; overlay_append; overlay_append],086484719a696d070699b500de9027d2e1197674.exe
+0.9997873,4.62,4,253,0,1,[section_add; overlay_append; overlay_append; overlay_append],086484719a696d070699b500de9027d2e1197674.exe
+0.999801,4.95,5,253,0,1,[section_add; overlay_append; overlay_append; overlay_append; overlay_append],086484719a696d070699b500de9027d2e1197674.exe
+0.999801,5.28,6,253,0,1,[section_add; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],086484719a696d070699b500de9027d2e1197674.exe
+0.999801,5.61,7,253,0,1,[section_add; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],086484719a696d070699b500de9027d2e1197674.exe
+0.999801,5.94,8,253,0,1,[section_add; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],086484719a696d070699b500de9027d2e1197674.exe
+0.9998053,6.2700000000000005,9,253,0,1,[section_add; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename],086484719a696d070699b500de9027d2e1197674.exe
+0.99980587,6.6000000000000005,10,253,0,1,[section_add; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; section_rename],086484719a696d070699b500de9027d2e1197674.exe
+0.81643623,6.930000000000001,1,255,1,1,[overlay_append],957663747d21164eb64629a51d08ee6236bd328f.exe
+0.8898256,6.930000000000001,1,258,1,1,[overlay_append],42fa5dc47938aadb58407a4978160a290ac8edf7.exe
+0.7001372,6.930000000000001,1,262,1,1,[imports_append],390db41c7107032d912053d3ececaf0e7b434990.exe
+0.8466527,6.930000000000001,1,263,1,1,[section_rename],83d57fd18854ba27eeaf8d6948931870da1b7b7a.exe
+0.83956873,6.930000000000001,1,265,1,1,[overlay_append],fc43273973bc12da70d623221b8ccd4c50302402.exe
+0.82614535,6.930000000000001,1,276,1,1,[section_rename],d57f922ab027bf2468b0ce89426e086a0de3eab6.exe
+0.9988236,3.6300000000000003,1,278,0,1,[overlay_append],52723066750b46843e06235040254c04791070ab.exe
+0.9988262,3.9600000000000004,2,278,0,1,[overlay_append; section_add],52723066750b46843e06235040254c04791070ab.exe
+0.9988576,4.29,3,278,0,1,[overlay_append; section_add; break_optional_header_checksum],52723066750b46843e06235040254c04791070ab.exe
+0.9988576,4.62,4,278,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append],52723066750b46843e06235040254c04791070ab.exe
+0.9988134,4.95,5,278,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_add],52723066750b46843e06235040254c04791070ab.exe
+0.9988134,5.28,6,278,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_add; overlay_append],52723066750b46843e06235040254c04791070ab.exe
+0.9988134,5.61,7,278,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_add; overlay_append; section_rename],52723066750b46843e06235040254c04791070ab.exe
+0.9988134,5.94,8,278,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_add; overlay_append; section_rename; overlay_append],52723066750b46843e06235040254c04791070ab.exe
+0.9988134,6.2700000000000005,9,278,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_add; overlay_append; section_rename; overlay_append; break_optional_header_checksum],52723066750b46843e06235040254c04791070ab.exe
+0.9988134,6.6000000000000005,10,278,0,1,[overlay_append; section_add; break_optional_header_checksum; overlay_append; section_add; overlay_append; section_rename; overlay_append; break_optional_header_checksum; overlay_append],52723066750b46843e06235040254c04791070ab.exe
+0.62319666,6.930000000000001,1,279,1,1,[overlay_append],9047ceb3db0d0c5c471dba6102e1fc31d8400cc6.exe
+0.8367882,6.930000000000001,1,281,1,1,[section_add],7288ca2798b5be3439b518aa3d60d5602fc7f832.exe
+0.9554702,3.6300000000000003,1,283,0,1,[section_rename],2121c8b2441dfc70a35a3fda71a3a480616628fc.exe
+0.9554702,3.9600000000000004,2,283,0,1,[section_rename; overlay_append],2121c8b2441dfc70a35a3fda71a3a480616628fc.exe
+0.9554702,4.29,3,283,0,1,[section_rename; overlay_append; imports_append],2121c8b2441dfc70a35a3fda71a3a480616628fc.exe
+0.9554702,4.62,4,283,0,1,[section_rename; overlay_append; imports_append; section_rename],2121c8b2441dfc70a35a3fda71a3a480616628fc.exe
+0.9554702,4.95,5,283,0,1,[section_rename; overlay_append; imports_append; section_rename; overlay_append],2121c8b2441dfc70a35a3fda71a3a480616628fc.exe
+0.9554702,5.28,6,283,0,1,[section_rename; overlay_append; imports_append; section_rename; overlay_append; overlay_append],2121c8b2441dfc70a35a3fda71a3a480616628fc.exe
+0.9554702,5.61,7,283,0,1,[section_rename; overlay_append; imports_append; section_rename; overlay_append; overlay_append; overlay_append],2121c8b2441dfc70a35a3fda71a3a480616628fc.exe
+0.9554702,5.94,8,283,0,1,[section_rename; overlay_append; imports_append; section_rename; overlay_append; overlay_append; overlay_append; section_rename],2121c8b2441dfc70a35a3fda71a3a480616628fc.exe
+0.9554702,6.2700000000000005,9,283,0,1,[section_rename; overlay_append; imports_append; section_rename; overlay_append; overlay_append; overlay_append; section_rename; overlay_append],2121c8b2441dfc70a35a3fda71a3a480616628fc.exe
+0.9554702,6.6000000000000005,10,283,0,1,[section_rename; overlay_append; imports_append; section_rename; overlay_append; overlay_append; overlay_append; section_rename; overlay_append; overlay_append],2121c8b2441dfc70a35a3fda71a3a480616628fc.exe
+0.9954081,3.6300000000000003,1,285,0,1,[remove_debug],44bad63af68ed0f2b0812aef67d9b737b750d355.exe
+0.9954081,3.9600000000000004,2,285,0,1,[remove_debug; break_optional_header_checksum],44bad63af68ed0f2b0812aef67d9b737b750d355.exe
+0.994591,4.29,3,285,0,1,[remove_debug; break_optional_header_checksum; imports_append],44bad63af68ed0f2b0812aef67d9b737b750d355.exe
+0.9948279,4.62,4,285,0,1,[remove_debug; break_optional_header_checksum; imports_append; imports_append],44bad63af68ed0f2b0812aef67d9b737b750d355.exe
+0.9948279,4.95,5,285,0,1,[remove_debug; break_optional_header_checksum; imports_append; imports_append; section_rename],44bad63af68ed0f2b0812aef67d9b737b750d355.exe
+0.9948279,5.28,6,285,0,1,[remove_debug; break_optional_header_checksum; imports_append; imports_append; section_rename; overlay_append],44bad63af68ed0f2b0812aef67d9b737b750d355.exe
+0.9948279,5.61,7,285,0,1,[remove_debug; break_optional_header_checksum; imports_append; imports_append; section_rename; overlay_append; section_rename],44bad63af68ed0f2b0812aef67d9b737b750d355.exe
+0.9969188,5.94,8,285,0,1,[remove_debug; break_optional_header_checksum; imports_append; imports_append; section_rename; overlay_append; section_rename; overlay_append],44bad63af68ed0f2b0812aef67d9b737b750d355.exe
+0.9969188,6.2700000000000005,9,285,0,1,[remove_debug; break_optional_header_checksum; imports_append; imports_append; section_rename; overlay_append; section_rename; overlay_append; overlay_append],44bad63af68ed0f2b0812aef67d9b737b750d355.exe
+0.9969188,6.6000000000000005,10,285,0,1,[remove_debug; break_optional_header_checksum; imports_append; imports_append; section_rename; overlay_append; section_rename; overlay_append; overlay_append; section_rename],44bad63af68ed0f2b0812aef67d9b737b750d355.exe
+0.9973654,3.6300000000000003,1,287,0,1,[overlay_append],e4d3ccb907660e5ba72afb19a394566fcd35ca71.exe
+0.9973654,3.9600000000000004,2,287,0,1,[overlay_append; section_rename],e4d3ccb907660e5ba72afb19a394566fcd35ca71.exe
+0.99551153,4.29,3,287,0,1,[overlay_append; section_rename; imports_append],e4d3ccb907660e5ba72afb19a394566fcd35ca71.exe
+0.9954684,4.62,4,287,0,1,[overlay_append; section_rename; imports_append; break_optional_header_checksum],e4d3ccb907660e5ba72afb19a394566fcd35ca71.exe
+0.97368115,4.95,5,287,0,1,[overlay_append; section_rename; imports_append; break_optional_header_checksum; imports_append],e4d3ccb907660e5ba72afb19a394566fcd35ca71.exe
+0.97368115,5.28,6,287,0,1,[overlay_append; section_rename; imports_append; break_optional_header_checksum; imports_append; section_rename],e4d3ccb907660e5ba72afb19a394566fcd35ca71.exe
+0.97368115,5.61,7,287,0,1,[overlay_append; section_rename; imports_append; break_optional_header_checksum; imports_append; section_rename; break_optional_header_checksum],e4d3ccb907660e5ba72afb19a394566fcd35ca71.exe
+0.97368115,5.94,8,287,0,1,[overlay_append; section_rename; imports_append; break_optional_header_checksum; imports_append; section_rename; break_optional_header_checksum; section_rename],e4d3ccb907660e5ba72afb19a394566fcd35ca71.exe
+0.97368115,6.2700000000000005,9,287,0,1,[overlay_append; section_rename; imports_append; break_optional_header_checksum; imports_append; section_rename; break_optional_header_checksum; section_rename; overlay_append],e4d3ccb907660e5ba72afb19a394566fcd35ca71.exe
+0.97368115,6.6000000000000005,10,287,0,1,[overlay_append; section_rename; imports_append; break_optional_header_checksum; imports_append; section_rename; break_optional_header_checksum; section_rename; overlay_append; overlay_append],e4d3ccb907660e5ba72afb19a394566fcd35ca71.exe
+0.9891629,3.6300000000000003,1,288,0,1,[overlay_append],c06aedc3f26a385e6fa5b9ff8e7cf57de6d43beb.exe
+0.9891629,3.9600000000000004,2,288,0,1,[overlay_append; overlay_append],c06aedc3f26a385e6fa5b9ff8e7cf57de6d43beb.exe
+0.9891629,4.29,3,288,0,1,[overlay_append; overlay_append; break_optional_header_checksum],c06aedc3f26a385e6fa5b9ff8e7cf57de6d43beb.exe
+0.9891629,4.62,4,288,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append],c06aedc3f26a385e6fa5b9ff8e7cf57de6d43beb.exe
+0.9891629,4.95,5,288,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; break_optional_header_checksum],c06aedc3f26a385e6fa5b9ff8e7cf57de6d43beb.exe
+0.9891629,5.28,6,288,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; break_optional_header_checksum; overlay_append],c06aedc3f26a385e6fa5b9ff8e7cf57de6d43beb.exe
+0.98117685,5.61,7,288,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; break_optional_header_checksum; overlay_append; imports_append],c06aedc3f26a385e6fa5b9ff8e7cf57de6d43beb.exe
+0.98117685,5.94,8,288,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; break_optional_header_checksum; overlay_append; imports_append; section_rename],c06aedc3f26a385e6fa5b9ff8e7cf57de6d43beb.exe
+0.98117685,6.2700000000000005,9,288,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; break_optional_header_checksum; overlay_append; imports_append; section_rename; section_rename],c06aedc3f26a385e6fa5b9ff8e7cf57de6d43beb.exe
+0.98117685,6.6000000000000005,10,288,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; break_optional_header_checksum; overlay_append; imports_append; section_rename; section_rename; section_rename],c06aedc3f26a385e6fa5b9ff8e7cf57de6d43beb.exe
+0.8935025,6.930000000000001,1,290,1,1,[imports_append],22964bc67b184673797c1045d128996aeb5ae518.exe
+0.9906632,3.6300000000000003,1,291,0,1,[overlay_append],eadb37c702bf8eae2c10e08989b5ca77167197d2.exe
+0.9906632,3.9600000000000004,2,291,0,1,[overlay_append; section_rename],eadb37c702bf8eae2c10e08989b5ca77167197d2.exe
+0.9906632,4.29,3,291,0,1,[overlay_append; section_rename; break_optional_header_checksum],eadb37c702bf8eae2c10e08989b5ca77167197d2.exe
+0.9906632,4.62,4,291,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename],eadb37c702bf8eae2c10e08989b5ca77167197d2.exe
+0.9906632,4.95,5,291,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; section_rename],eadb37c702bf8eae2c10e08989b5ca77167197d2.exe
+0.9906632,5.28,6,291,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; section_rename; overlay_append],eadb37c702bf8eae2c10e08989b5ca77167197d2.exe
+0.9906632,5.61,7,291,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; section_rename; overlay_append; overlay_append],eadb37c702bf8eae2c10e08989b5ca77167197d2.exe
+0.9906632,5.94,8,291,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; section_rename; overlay_append; overlay_append; section_rename],eadb37c702bf8eae2c10e08989b5ca77167197d2.exe
+0.9906632,6.2700000000000005,9,291,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; section_rename; overlay_append; overlay_append; section_rename; overlay_append],eadb37c702bf8eae2c10e08989b5ca77167197d2.exe
+0.9906632,6.6000000000000005,10,291,0,1,[overlay_append; section_rename; break_optional_header_checksum; section_rename; section_rename; overlay_append; overlay_append; section_rename; overlay_append; break_optional_header_checksum],eadb37c702bf8eae2c10e08989b5ca77167197d2.exe
+0.8270934,6.930000000000001,1,292,1,1,[section_rename],95fe6d9cbf4ec4c2588185292dc5f6b4039b1e20.exe
+0.9736476,3.6300000000000003,1,293,0,1,[break_optional_header_checksum],d7c51263bd3beec0fcefa2d94589530450b5e1bd.exe
+0.9736476,3.9600000000000004,2,293,0,1,[break_optional_header_checksum; section_add],d7c51263bd3beec0fcefa2d94589530450b5e1bd.exe
+0.9736476,4.29,3,293,0,1,[break_optional_header_checksum; section_add; section_rename],d7c51263bd3beec0fcefa2d94589530450b5e1bd.exe
+0.9736476,4.62,4,293,0,1,[break_optional_header_checksum; section_add; section_rename; overlay_append],d7c51263bd3beec0fcefa2d94589530450b5e1bd.exe
+0.9736476,4.95,5,293,0,1,[break_optional_header_checksum; section_add; section_rename; overlay_append; overlay_append],d7c51263bd3beec0fcefa2d94589530450b5e1bd.exe
+0.9736476,5.28,6,293,0,1,[break_optional_header_checksum; section_add; section_rename; overlay_append; overlay_append; break_optional_header_checksum],d7c51263bd3beec0fcefa2d94589530450b5e1bd.exe
+0.9736476,5.61,7,293,0,1,[break_optional_header_checksum; section_add; section_rename; overlay_append; overlay_append; break_optional_header_checksum; section_rename],d7c51263bd3beec0fcefa2d94589530450b5e1bd.exe
+0.95836884,5.94,8,293,0,1,[break_optional_header_checksum; section_add; section_rename; overlay_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append],d7c51263bd3beec0fcefa2d94589530450b5e1bd.exe
+0.95836884,6.2700000000000005,9,293,0,1,[break_optional_header_checksum; section_add; section_rename; overlay_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append; overlay_append],d7c51263bd3beec0fcefa2d94589530450b5e1bd.exe
+0.95836884,6.6000000000000005,10,293,0,1,[break_optional_header_checksum; section_add; section_rename; overlay_append; overlay_append; break_optional_header_checksum; section_rename; overlay_append; overlay_append; overlay_append],d7c51263bd3beec0fcefa2d94589530450b5e1bd.exe
+0.80776584,6.930000000000001,1,295,1,1,[overlay_append],f23b338eb11712bf3c8d352bb94b798f97ed4580.exe
+0.9983535,3.6300000000000003,1,303,0,1,[section_rename],72fd001f50cfb2e67d08b87c59938e9a5771ab39.exe
+0.99835217,3.9600000000000004,2,303,0,1,[section_rename; section_add],72fd001f50cfb2e67d08b87c59938e9a5771ab39.exe
+0.9982886,4.29,3,303,0,1,[section_rename; section_add; overlay_append],72fd001f50cfb2e67d08b87c59938e9a5771ab39.exe
+0.9982886,4.62,4,303,0,1,[section_rename; section_add; overlay_append; overlay_append],72fd001f50cfb2e67d08b87c59938e9a5771ab39.exe
+0.9983026,4.95,5,303,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename],72fd001f50cfb2e67d08b87c59938e9a5771ab39.exe
+0.99827325,5.28,6,303,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename; break_optional_header_checksum],72fd001f50cfb2e67d08b87c59938e9a5771ab39.exe
+0.99809545,5.61,7,303,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename; break_optional_header_checksum; imports_append],72fd001f50cfb2e67d08b87c59938e9a5771ab39.exe
+0.99809545,5.94,8,303,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename; break_optional_header_checksum; imports_append; remove_debug],72fd001f50cfb2e67d08b87c59938e9a5771ab39.exe
+0.9981109,6.2700000000000005,9,303,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename; break_optional_header_checksum; imports_append; remove_debug; section_rename],72fd001f50cfb2e67d08b87c59938e9a5771ab39.exe
+0.9981109,6.6000000000000005,10,303,0,1,[section_rename; section_add; overlay_append; overlay_append; section_rename; break_optional_header_checksum; imports_append; remove_debug; section_rename; overlay_append],72fd001f50cfb2e67d08b87c59938e9a5771ab39.exe
+0.81599045,6.930000000000001,1,304,1,1,[overlay_append],a828862ed6b72f8d1b88ecf309ac79fdf59778c7.exe
+0.9797579,3.6300000000000003,1,307,0,1,[overlay_append],8287ae1c840fb6675dcf9cbb976c2ffd4f0091e6.exe
+0.97982234,3.9600000000000004,2,307,0,1,[overlay_append; section_rename],8287ae1c840fb6675dcf9cbb976c2ffd4f0091e6.exe
+0.97982234,4.29,3,307,0,1,[overlay_append; section_rename; overlay_append],8287ae1c840fb6675dcf9cbb976c2ffd4f0091e6.exe
+0.97982234,4.62,4,307,0,1,[overlay_append; section_rename; overlay_append; overlay_append],8287ae1c840fb6675dcf9cbb976c2ffd4f0091e6.exe
+0.97982234,4.95,5,307,0,1,[overlay_append; section_rename; overlay_append; overlay_append; overlay_append],8287ae1c840fb6675dcf9cbb976c2ffd4f0091e6.exe
+0.97535545,5.28,6,307,0,1,[overlay_append; section_rename; overlay_append; overlay_append; overlay_append; overlay_append],8287ae1c840fb6675dcf9cbb976c2ffd4f0091e6.exe
+0.97535545,5.61,7,307,0,1,[overlay_append; section_rename; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append],8287ae1c840fb6675dcf9cbb976c2ffd4f0091e6.exe
+0.975391,5.94,8,307,0,1,[overlay_append; section_rename; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename],8287ae1c840fb6675dcf9cbb976c2ffd4f0091e6.exe
+0.975391,6.2700000000000005,9,307,0,1,[overlay_append; section_rename; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append],8287ae1c840fb6675dcf9cbb976c2ffd4f0091e6.exe
+0.9754685,6.6000000000000005,10,307,0,1,[overlay_append; section_rename; overlay_append; overlay_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append; section_rename],8287ae1c840fb6675dcf9cbb976c2ffd4f0091e6.exe
+0.8187958,6.930000000000001,1,308,1,1,[overlay_append],91aa083f32a95926e6f66d2e2313fbef98c6bdbd.exe
+0.8716116,6.930000000000001,1,309,1,1,[section_rename],ffb1afd8ef8c8531d24661f7e51d2ff8b2bf0bae.exe
+0.9916745,3.6300000000000003,1,310,0,1,[break_optional_header_checksum],804eefec794945b4ab16316be60e02f82a1a403a.exe
+0.9916745,3.9600000000000004,2,310,0,1,[break_optional_header_checksum; section_rename],804eefec794945b4ab16316be60e02f82a1a403a.exe
+0.9916745,4.29,3,310,0,1,[break_optional_header_checksum; section_rename; overlay_append],804eefec794945b4ab16316be60e02f82a1a403a.exe
+0.95590025,4.62,4,310,0,1,[break_optional_header_checksum; section_rename; overlay_append; imports_append],804eefec794945b4ab16316be60e02f82a1a403a.exe
+0.9372391,4.95,5,310,0,1,[break_optional_header_checksum; section_rename; overlay_append; imports_append; imports_append],804eefec794945b4ab16316be60e02f82a1a403a.exe
+0.9372391,5.28,6,310,0,1,[break_optional_header_checksum; section_rename; overlay_append; imports_append; imports_append; section_rename],804eefec794945b4ab16316be60e02f82a1a403a.exe
+0.9372391,5.61,7,310,0,1,[break_optional_header_checksum; section_rename; overlay_append; imports_append; imports_append; section_rename; section_rename],804eefec794945b4ab16316be60e02f82a1a403a.exe
+0.9372391,5.94,8,310,0,1,[break_optional_header_checksum; section_rename; overlay_append; imports_append; imports_append; section_rename; section_rename; section_rename],804eefec794945b4ab16316be60e02f82a1a403a.exe
+0.9372391,6.2700000000000005,9,310,0,1,[break_optional_header_checksum; section_rename; overlay_append; imports_append; imports_append; section_rename; section_rename; section_rename; overlay_append],804eefec794945b4ab16316be60e02f82a1a403a.exe
+0.9372391,6.6000000000000005,10,310,0,1,[break_optional_header_checksum; section_rename; overlay_append; imports_append; imports_append; section_rename; section_rename; section_rename; overlay_append; overlay_append],804eefec794945b4ab16316be60e02f82a1a403a.exe
+0.9966137,3.6300000000000003,1,313,0,1,[overlay_append],940a3bce4ef37a4ac63fae45aeeb93b7a0eb6545.exe
+0.9966137,3.9600000000000004,2,313,0,1,[overlay_append; overlay_append],940a3bce4ef37a4ac63fae45aeeb93b7a0eb6545.exe
+0.996619,4.29,3,313,0,1,[overlay_append; overlay_append; break_optional_header_checksum],940a3bce4ef37a4ac63fae45aeeb93b7a0eb6545.exe
+0.9966215,4.62,4,313,0,1,[overlay_append; overlay_append; break_optional_header_checksum; section_rename],940a3bce4ef37a4ac63fae45aeeb93b7a0eb6545.exe
+0.99653035,4.95,5,313,0,1,[overlay_append; overlay_append; break_optional_header_checksum; section_rename; imports_append],940a3bce4ef37a4ac63fae45aeeb93b7a0eb6545.exe
+0.99653035,5.28,6,313,0,1,[overlay_append; overlay_append; break_optional_header_checksum; section_rename; imports_append; overlay_append],940a3bce4ef37a4ac63fae45aeeb93b7a0eb6545.exe
+0.9966247,5.61,7,313,0,1,[overlay_append; overlay_append; break_optional_header_checksum; section_rename; imports_append; overlay_append; overlay_append],940a3bce4ef37a4ac63fae45aeeb93b7a0eb6545.exe
+0.995983,5.94,8,313,0,1,[overlay_append; overlay_append; break_optional_header_checksum; section_rename; imports_append; overlay_append; overlay_append; section_add],940a3bce4ef37a4ac63fae45aeeb93b7a0eb6545.exe
+0.995983,6.2700000000000005,9,313,0,1,[overlay_append; overlay_append; break_optional_header_checksum; section_rename; imports_append; overlay_append; overlay_append; section_add; overlay_append],940a3bce4ef37a4ac63fae45aeeb93b7a0eb6545.exe
+0.995983,6.6000000000000005,10,313,0,1,[overlay_append; overlay_append; break_optional_header_checksum; section_rename; imports_append; overlay_append; overlay_append; section_add; overlay_append; section_rename],940a3bce4ef37a4ac63fae45aeeb93b7a0eb6545.exe
+0.8313631,6.930000000000001,1,315,1,1,[section_rename],cc03a6690cd8f5ff779f00726b6fd58ecf7852bc.exe
+0.62346065,6.930000000000001,1,316,1,1,[overlay_append],552de364f3a70306aa63d120f9cd0939b690e625.exe
+0.85443145,6.930000000000001,1,322,1,1,[overlay_append],d675a4fab08b14bc27fd1d6daf0c29434f228315.exe
+0.9924624,3.6300000000000003,1,325,0,1,[imports_append],40a6c470ffceff02060fb2b648ded3306dd4feef.exe
+0.99239,3.9600000000000004,2,325,0,1,[imports_append; overlay_append],40a6c470ffceff02060fb2b648ded3306dd4feef.exe
+0.99239,4.29,3,325,0,1,[imports_append; overlay_append; section_rename],40a6c470ffceff02060fb2b648ded3306dd4feef.exe
+0.99238354,4.62,4,325,0,1,[imports_append; overlay_append; section_rename; break_optional_header_checksum],40a6c470ffceff02060fb2b648ded3306dd4feef.exe
+0.99238354,4.95,5,325,0,1,[imports_append; overlay_append; section_rename; break_optional_header_checksum; overlay_append],40a6c470ffceff02060fb2b648ded3306dd4feef.exe
+0.99238354,5.28,6,325,0,1,[imports_append; overlay_append; section_rename; break_optional_header_checksum; overlay_append; overlay_append],40a6c470ffceff02060fb2b648ded3306dd4feef.exe
+0.99238354,5.61,7,325,0,1,[imports_append; overlay_append; section_rename; break_optional_header_checksum; overlay_append; overlay_append; overlay_append],40a6c470ffceff02060fb2b648ded3306dd4feef.exe
+0.8402485,9.24,8,325,1,1,[imports_append; overlay_append; section_rename; break_optional_header_checksum; overlay_append; overlay_append; overlay_append; imports_append],40a6c470ffceff02060fb2b648ded3306dd4feef.exe
+0.9783397,3.6300000000000003,1,326,0,1,[overlay_append],f589176f342b9426ff872e56dfa1b9682de61530.exe
+0.9783397,3.9600000000000004,2,326,0,1,[overlay_append; overlay_append],f589176f342b9426ff872e56dfa1b9682de61530.exe
+0.97879785,4.29,3,326,0,1,[overlay_append; overlay_append; section_rename],f589176f342b9426ff872e56dfa1b9682de61530.exe
+0.9786621,4.62,4,326,0,1,[overlay_append; overlay_append; section_rename; imports_append],f589176f342b9426ff872e56dfa1b9682de61530.exe
+0.9786621,4.95,5,326,0,1,[overlay_append; overlay_append; section_rename; imports_append; overlay_append],f589176f342b9426ff872e56dfa1b9682de61530.exe
+0.9786621,5.28,6,326,0,1,[overlay_append; overlay_append; section_rename; imports_append; overlay_append; overlay_append],f589176f342b9426ff872e56dfa1b9682de61530.exe
+0.97971386,5.61,7,326,0,1,[overlay_append; overlay_append; section_rename; imports_append; overlay_append; overlay_append; overlay_append],f589176f342b9426ff872e56dfa1b9682de61530.exe
+0.97957796,5.94,8,326,0,1,[overlay_append; overlay_append; section_rename; imports_append; overlay_append; overlay_append; overlay_append; section_rename],f589176f342b9426ff872e56dfa1b9682de61530.exe
+0.97957796,6.2700000000000005,9,326,0,1,[overlay_append; overlay_append; section_rename; imports_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append],f589176f342b9426ff872e56dfa1b9682de61530.exe
+0.98024356,6.6000000000000005,10,326,0,1,[overlay_append; overlay_append; section_rename; imports_append; overlay_append; overlay_append; overlay_append; section_rename; overlay_append; section_add],f589176f342b9426ff872e56dfa1b9682de61530.exe
+0.8165936,6.930000000000001,1,327,1,1,[overlay_append],483175c328a5e5a91fdba245d09083e750ec5935.exe
+0.77029884,6.930000000000001,1,328,1,1,[overlay_append],03187e8c9b6ebc2288c48960426205682dc19f2c.exe
+0.82507014,6.930000000000001,1,331,1,1,[overlay_append],f85f90f9ee4d0bba956ccc1e121ed2c71c0a7f0e.exe
+0.99159205,3.6300000000000003,1,334,0,1,[section_rename],132f0805f98b6b7b5d95385abd0536a13bae7a38.exe
+0.993266,3.9600000000000004,2,334,0,1,[section_rename; imports_append],132f0805f98b6b7b5d95385abd0536a13bae7a38.exe
+0.9924672,4.29,3,334,0,1,[section_rename; imports_append; section_add],132f0805f98b6b7b5d95385abd0536a13bae7a38.exe
+0.9928048,4.62,4,334,0,1,[section_rename; imports_append; section_add; break_optional_header_checksum],132f0805f98b6b7b5d95385abd0536a13bae7a38.exe
+0.9928048,4.95,5,334,0,1,[section_rename; imports_append; section_add; break_optional_header_checksum; break_optional_header_checksum],132f0805f98b6b7b5d95385abd0536a13bae7a38.exe
+0.9928048,5.28,6,334,0,1,[section_rename; imports_append; section_add; break_optional_header_checksum; break_optional_header_checksum; break_optional_header_checksum],132f0805f98b6b7b5d95385abd0536a13bae7a38.exe
+0.9928048,5.61,7,334,0,1,[section_rename; imports_append; section_add; break_optional_header_checksum; break_optional_header_checksum; break_optional_header_checksum; overlay_append],132f0805f98b6b7b5d95385abd0536a13bae7a38.exe
+0.9928048,5.94,8,334,0,1,[section_rename; imports_append; section_add; break_optional_header_checksum; break_optional_header_checksum; break_optional_header_checksum; overlay_append; overlay_append],132f0805f98b6b7b5d95385abd0536a13bae7a38.exe
+0.9928048,6.2700000000000005,9,334,0,1,[section_rename; imports_append; section_add; break_optional_header_checksum; break_optional_header_checksum; break_optional_header_checksum; overlay_append; overlay_append; break_optional_header_checksum],132f0805f98b6b7b5d95385abd0536a13bae7a38.exe
+0.9926334,6.6000000000000005,10,334,0,1,[section_rename; imports_append; section_add; break_optional_header_checksum; break_optional_header_checksum; break_optional_header_checksum; overlay_append; overlay_append; break_optional_header_checksum; section_rename],132f0805f98b6b7b5d95385abd0536a13bae7a38.exe
+0.8566036,6.930000000000001,1,338,1,1,[overlay_append],4053a7ac92469ee290f43962f73014d3f398e390.exe
+0.8998754,6.930000000000001,1,340,1,1,[section_rename],cfec7663cbf056f0af16996a661eb59905347c65.exe
+0.9981329,3.6300000000000003,1,341,0,1,[overlay_append],c29341a368fe825392935c0cce4a089d38e802f8.exe
+0.9981329,3.9600000000000004,2,341,0,1,[overlay_append; break_optional_header_checksum],c29341a368fe825392935c0cce4a089d38e802f8.exe
+0.9981329,4.29,3,341,0,1,[overlay_append; break_optional_header_checksum; overlay_append],c29341a368fe825392935c0cce4a089d38e802f8.exe
+0.9981329,4.62,4,341,0,1,[overlay_append; break_optional_header_checksum; overlay_append; overlay_append],c29341a368fe825392935c0cce4a089d38e802f8.exe
+0.9981329,4.95,5,341,0,1,[overlay_append; break_optional_header_checksum; overlay_append; overlay_append; section_rename],c29341a368fe825392935c0cce4a089d38e802f8.exe
+0.9981329,5.28,6,341,0,1,[overlay_append; break_optional_header_checksum; overlay_append; overlay_append; section_rename; section_rename],c29341a368fe825392935c0cce4a089d38e802f8.exe
+0.9981329,5.61,7,341,0,1,[overlay_append; break_optional_header_checksum; overlay_append; overlay_append; section_rename; section_rename; section_rename],c29341a368fe825392935c0cce4a089d38e802f8.exe
+0.9981329,5.94,8,341,0,1,[overlay_append; break_optional_header_checksum; overlay_append; overlay_append; section_rename; section_rename; section_rename; section_rename],c29341a368fe825392935c0cce4a089d38e802f8.exe
+0.9981329,6.2700000000000005,9,341,0,1,[overlay_append; break_optional_header_checksum; overlay_append; overlay_append; section_rename; section_rename; section_rename; section_rename; overlay_append],c29341a368fe825392935c0cce4a089d38e802f8.exe
+0.9981329,6.6000000000000005,10,341,0,1,[overlay_append; break_optional_header_checksum; overlay_append; overlay_append; section_rename; section_rename; section_rename; section_rename; overlay_append; overlay_append],c29341a368fe825392935c0cce4a089d38e802f8.exe
+0.88181055,6.930000000000001,1,343,1,1,[overlay_append],91e9344f5d8a2369c7d175976f9565e9cad7454a.exe
+0.99642915,3.6300000000000003,1,352,0,1,[overlay_append],e64d5a3f35b6aeda803b9ca3712f9402f663307f.exe
+0.99642915,3.9600000000000004,2,352,0,1,[overlay_append; overlay_append],e64d5a3f35b6aeda803b9ca3712f9402f663307f.exe
+0.9963018,4.29,3,352,0,1,[overlay_append; overlay_append; break_optional_header_checksum],e64d5a3f35b6aeda803b9ca3712f9402f663307f.exe
+0.9963018,4.62,4,352,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append],e64d5a3f35b6aeda803b9ca3712f9402f663307f.exe
+0.9963018,4.95,5,352,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; overlay_append],e64d5a3f35b6aeda803b9ca3712f9402f663307f.exe
+0.99550015,5.28,6,352,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; overlay_append; overlay_append],e64d5a3f35b6aeda803b9ca3712f9402f663307f.exe
+0.99496424,5.61,7,352,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; overlay_append; overlay_append; imports_append],e64d5a3f35b6aeda803b9ca3712f9402f663307f.exe
+0.99496424,5.94,8,352,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; overlay_append; overlay_append; imports_append; section_rename],e64d5a3f35b6aeda803b9ca3712f9402f663307f.exe
+0.99496424,6.2700000000000005,9,352,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; overlay_append; overlay_append; imports_append; section_rename; break_optional_header_checksum],e64d5a3f35b6aeda803b9ca3712f9402f663307f.exe
+0.99496424,6.6000000000000005,10,352,0,1,[overlay_append; overlay_append; break_optional_header_checksum; overlay_append; overlay_append; overlay_append; imports_append; section_rename; break_optional_header_checksum; overlay_append],e64d5a3f35b6aeda803b9ca3712f9402f663307f.exe
+0.78888786,6.930000000000001,1,354,1,1,[section_rename],cf8f413983431139785723bc2260fa9fc071bc77.exe
+0.9989287,3.6300000000000003,1,355,0,1,[imports_append],42a916297158a509d28e428e304e8527081f3a9a.exe
+0.9989287,3.9600000000000004,2,355,0,1,[imports_append; overlay_append],42a916297158a509d28e428e304e8527081f3a9a.exe
+0.9989287,4.29,3,355,0,1,[imports_append; overlay_append; overlay_append],42a916297158a509d28e428e304e8527081f3a9a.exe
+0.9989287,4.62,4,355,0,1,[imports_append; overlay_append; overlay_append; section_rename],42a916297158a509d28e428e304e8527081f3a9a.exe
+0.9989287,4.95,5,355,0,1,[imports_append; overlay_append; overlay_append; section_rename; overlay_append],42a916297158a509d28e428e304e8527081f3a9a.exe
+0.9989287,5.28,6,355,0,1,[imports_append; overlay_append; overlay_append; section_rename; overlay_append; overlay_append],42a916297158a509d28e428e304e8527081f3a9a.exe
+0.9989287,5.61,7,355,0,1,[imports_append; overlay_append; overlay_append; section_rename; overlay_append; overlay_append; section_rename],42a916297158a509d28e428e304e8527081f3a9a.exe
+0.9989287,5.94,8,355,0,1,[imports_append; overlay_append; overlay_append; section_rename; overlay_append; overlay_append; section_rename; section_rename],42a916297158a509d28e428e304e8527081f3a9a.exe
+0.9988668,6.2700000000000005,9,355,0,1,[imports_append; overlay_append; overlay_append; section_rename; overlay_append; overlay_append; section_rename; section_rename; overlay_append],42a916297158a509d28e428e304e8527081f3a9a.exe
+0.9988668,6.6000000000000005,10,355,0,1,[imports_append; overlay_append; overlay_append; section_rename; overlay_append; overlay_append; section_rename; section_rename; overlay_append; overlay_append],42a916297158a509d28e428e304e8527081f3a9a.exe

@@ -1,0 +1,11 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9262996952509592,3.6300000000000003,1,1,0,1,[section_append],921ab3baa12cab51139375d3ebe417a6b2930543c75386cb72a42d26f24ddf50
+0.9262996952509592,3.9600000000000004,2,1,0,1,[section_append; section_append],921ab3baa12cab51139375d3ebe417a6b2930543c75386cb72a42d26f24ddf50
+0.9262996952509592,4.29,3,1,0,1,[section_append; section_append; remove_signature],921ab3baa12cab51139375d3ebe417a6b2930543c75386cb72a42d26f24ddf50
+0.9262996952509592,4.62,4,1,0,1,[section_append; section_append; remove_signature; section_append],921ab3baa12cab51139375d3ebe417a6b2930543c75386cb72a42d26f24ddf50
+0.9262996952509592,4.95,5,1,0,1,[section_append; section_append; remove_signature; section_append; remove_signature],921ab3baa12cab51139375d3ebe417a6b2930543c75386cb72a42d26f24ddf50
+0.9262996952509592,5.28,6,1,0,1,[section_append; section_append; remove_signature; section_append; remove_signature; section_append],921ab3baa12cab51139375d3ebe417a6b2930543c75386cb72a42d26f24ddf50
+0.9262996952509592,5.61,7,1,0,1,[section_append; section_append; remove_signature; section_append; remove_signature; section_append; section_append],921ab3baa12cab51139375d3ebe417a6b2930543c75386cb72a42d26f24ddf50
+0.9262996952509592,5.94,8,1,0,1,[section_append; section_append; remove_signature; section_append; remove_signature; section_append; section_append; section_append],921ab3baa12cab51139375d3ebe417a6b2930543c75386cb72a42d26f24ddf50
+0.9262996952509592,6.2700000000000005,9,1,0,1,[section_append; section_append; remove_signature; section_append; remove_signature; section_append; section_append; section_append; section_append],921ab3baa12cab51139375d3ebe417a6b2930543c75386cb72a42d26f24ddf50
+0.9205870237853185,6.6000000000000005,10,1,0,1,[section_append; section_append; remove_signature; section_append; remove_signature; section_append; section_append; section_append; section_append; imports_append],921ab3baa12cab51139375d3ebe417a6b2930543c75386cb72a42d26f24ddf50

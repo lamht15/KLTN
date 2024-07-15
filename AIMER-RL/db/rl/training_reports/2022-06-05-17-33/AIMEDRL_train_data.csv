@@ -1,0 +1,3 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.8682469764216363,7.260000000000001,1,1,1,0,[overlay_append],4272acb426b4781d09d08668c9df9b32f648499c961c2ed7187335537df3d771
+0.9935531228860152,0.66,1,2,0,0,[section_add],4ac12f91fc92241c6a0d7abd22fd1fa547e06d79cec7f3e5e2e06f325e70d99b

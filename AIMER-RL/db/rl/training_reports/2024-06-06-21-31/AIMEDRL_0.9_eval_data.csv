@@ -1,0 +1,121 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.87292916,6.930000000000001,1,8,1,1,[remove_debug],ff07bfc27b246f96f0dd3da08e756f58a586285a.exe
+0.9330892,3.6300000000000003,1,20,0,1,[section_rename],257b1b2979ae4c3ac63a0678d33ce2f05055d74e.exe
+0.9330892,3.9600000000000004,2,20,0,1,[section_rename; remove_debug],257b1b2979ae4c3ac63a0678d33ce2f05055d74e.exe
+0.9330892,4.29,3,20,0,1,[section_rename; remove_debug; remove_debug],257b1b2979ae4c3ac63a0678d33ce2f05055d74e.exe
+0.9330892,4.62,4,20,0,1,[section_rename; remove_debug; remove_debug; remove_debug],257b1b2979ae4c3ac63a0678d33ce2f05055d74e.exe
+0.9330892,4.95,5,20,0,1,[section_rename; remove_debug; remove_debug; remove_debug; remove_debug],257b1b2979ae4c3ac63a0678d33ce2f05055d74e.exe
+0.9330892,5.28,6,20,0,1,[section_rename; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug],257b1b2979ae4c3ac63a0678d33ce2f05055d74e.exe
+0.9330892,5.61,7,20,0,1,[section_rename; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug],257b1b2979ae4c3ac63a0678d33ce2f05055d74e.exe
+0.9330892,5.94,8,20,0,1,[section_rename; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug],257b1b2979ae4c3ac63a0678d33ce2f05055d74e.exe
+0.9291706,6.2700000000000005,9,20,0,1,[section_rename; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug; section_add],257b1b2979ae4c3ac63a0678d33ce2f05055d74e.exe
+0.92862916,6.6000000000000005,10,20,0,1,[section_rename; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug; remove_debug; section_add; section_add],257b1b2979ae4c3ac63a0678d33ce2f05055d74e.exe
+0.8363825,6.930000000000001,1,31,1,1,[remove_debug],28248f4b3575f990703a6fc40955a725f483af09.exe
+0.8291552,6.930000000000001,1,38,1,1,[section_rename],cc54f9c98be9920520b43caf30d5a89c4d31c397.exe
+0.895946,6.930000000000001,1,39,1,1,[remove_debug],a15b61c6deb61be2624912c43495a95de34e3d44.exe
+0.7916044,6.930000000000001,1,42,1,1,[section_add],b13b7025f4c50ee7250388fab1be4d56fc816591.exe
+0.82437813,6.930000000000001,1,48,1,1,[section_rename],f51faf931a803f3a7bcb407ed02978f1cd2a2729.exe
+0.8531634,6.930000000000001,1,49,1,1,[remove_debug],d504bfb71344cfb0efb9c0729155915f0d295e65.exe
+0.77029884,6.930000000000001,1,52,1,1,[remove_debug],03187e8c9b6ebc2288c48960426205682dc19f2c.exe
+0.85542893,6.930000000000001,1,55,1,1,[remove_debug],f49d06a0f9a22d08691fcf2998dea9b7dfab6626.exe
+0.99878675,3.6300000000000003,1,74,0,1,[section_rename],a8127bfa33a42b795621ce1d7d13f1d4d27a0979.exe
+0.99883705,3.9600000000000004,2,74,0,1,[section_rename; section_add],a8127bfa33a42b795621ce1d7d13f1d4d27a0979.exe
+0.99883705,4.29,3,74,0,1,[section_rename; section_add; remove_debug],a8127bfa33a42b795621ce1d7d13f1d4d27a0979.exe
+0.99883705,4.62,4,74,0,1,[section_rename; section_add; remove_debug; remove_debug],a8127bfa33a42b795621ce1d7d13f1d4d27a0979.exe
+0.99879885,4.95,5,74,0,1,[section_rename; section_add; remove_debug; remove_debug; section_add],a8127bfa33a42b795621ce1d7d13f1d4d27a0979.exe
+0.99879885,5.28,6,74,0,1,[section_rename; section_add; remove_debug; remove_debug; section_add; remove_debug],a8127bfa33a42b795621ce1d7d13f1d4d27a0979.exe
+0.99879885,5.61,7,74,0,1,[section_rename; section_add; remove_debug; remove_debug; section_add; remove_debug; section_rename],a8127bfa33a42b795621ce1d7d13f1d4d27a0979.exe
+0.99879885,5.94,8,74,0,1,[section_rename; section_add; remove_debug; remove_debug; section_add; remove_debug; section_rename; remove_debug],a8127bfa33a42b795621ce1d7d13f1d4d27a0979.exe
+0.99879885,6.2700000000000005,9,74,0,1,[section_rename; section_add; remove_debug; remove_debug; section_add; remove_debug; section_rename; remove_debug; remove_debug],a8127bfa33a42b795621ce1d7d13f1d4d27a0979.exe
+0.99879885,6.6000000000000005,10,74,0,1,[section_rename; section_add; remove_debug; remove_debug; section_add; remove_debug; section_rename; remove_debug; remove_debug; remove_debug],a8127bfa33a42b795621ce1d7d13f1d4d27a0979.exe
+0.5991968,6.930000000000001,1,75,1,1,[section_add],a629d3b3a2be9dff9148dfe3f196ca009450d213.exe
+0.8661777,6.930000000000001,1,83,1,1,[remove_debug],68333e667b59f3ab5e44a6d81faf00ea0d40e791.exe
+0.7615556,6.930000000000001,1,90,1,1,[remove_debug],13137a187dcd849d461f7090040e6f44bfb2ce11.exe
+0.82180303,6.930000000000001,1,95,1,1,[section_add],ae7e22714babe3babcaada0aa7fbc79b5249b2e9.exe
+0.7930211,6.930000000000001,1,101,1,1,[remove_debug],cfc2dbf4a45bcf871ce6a331d937a8912e14d959.exe
+0.8130863,6.930000000000001,1,103,1,1,[remove_debug],c58efd72c67fa506a82b0a374d4aea5fdfd5a315.exe
+0.62346065,6.930000000000001,1,115,1,1,[remove_debug],552de364f3a70306aa63d120f9cd0939b690e625.exe
+0.8076524,6.930000000000001,1,123,1,1,[remove_debug],8369a608acbc1e022b27dd410effc88ec0465ec4.exe
+0.8307678,6.930000000000001,1,140,1,1,[remove_debug],750df16bb301ee10007ecfa73137ce12fe0a7408.exe
+0.85277534,6.930000000000001,1,143,1,1,[section_add],59e9df678f07f820a4b2109f534f4b51b8342585.exe
+0.8609367,6.930000000000001,1,145,1,1,[section_rename],79676347b13fb890589e26010448fabe6d41cc11.exe
+0.8313631,6.930000000000001,1,154,1,1,[remove_debug],cc03a6690cd8f5ff779f00726b6fd58ecf7852bc.exe
+0.99968505,3.6300000000000003,1,162,0,1,[remove_debug],ea2850e76bebb6ea66f1e851a2840ac1ef8832a4.exe
+0.99968505,3.9600000000000004,2,162,0,1,[remove_debug; remove_debug],ea2850e76bebb6ea66f1e851a2840ac1ef8832a4.exe
+0.99968505,4.29,3,162,0,1,[remove_debug; remove_debug; remove_debug],ea2850e76bebb6ea66f1e851a2840ac1ef8832a4.exe
+0.99968505,4.62,4,162,0,1,[remove_debug; remove_debug; remove_debug; section_rename],ea2850e76bebb6ea66f1e851a2840ac1ef8832a4.exe
+0.99968505,4.95,5,162,0,1,[remove_debug; remove_debug; remove_debug; section_rename; remove_debug],ea2850e76bebb6ea66f1e851a2840ac1ef8832a4.exe
+0.99968505,5.28,6,162,0,1,[remove_debug; remove_debug; remove_debug; section_rename; remove_debug; remove_debug],ea2850e76bebb6ea66f1e851a2840ac1ef8832a4.exe
+0.99967265,5.61,7,162,0,1,[remove_debug; remove_debug; remove_debug; section_rename; remove_debug; remove_debug; section_rename],ea2850e76bebb6ea66f1e851a2840ac1ef8832a4.exe
+0.9996754,5.94,8,162,0,1,[remove_debug; remove_debug; remove_debug; section_rename; remove_debug; remove_debug; section_rename; section_add],ea2850e76bebb6ea66f1e851a2840ac1ef8832a4.exe
+0.9996754,6.2700000000000005,9,162,0,1,[remove_debug; remove_debug; remove_debug; section_rename; remove_debug; remove_debug; section_rename; section_add; remove_debug],ea2850e76bebb6ea66f1e851a2840ac1ef8832a4.exe
+0.9996754,6.6000000000000005,10,162,0,1,[remove_debug; remove_debug; remove_debug; section_rename; remove_debug; remove_debug; section_rename; section_add; remove_debug; remove_debug],ea2850e76bebb6ea66f1e851a2840ac1ef8832a4.exe
+0.83306533,6.930000000000001,1,166,1,1,[remove_debug],59aae5b27cf5984852f55d1d24a039cd38fe6ec3.exe
+0.8105802,6.930000000000001,1,168,1,1,[section_add],e93f265061d8ec0d4e479cbd2f22d3ef58911fb5.exe
+0.87517625,6.930000000000001,1,174,1,1,[remove_debug],d804be6e6edc9b93669f663b3e52cf96936205b8.exe
+0.8706453,6.930000000000001,1,189,1,1,[remove_debug],e2a37c8469764885338ee12659cd93845e88a455.exe
+0.828371,6.930000000000001,1,194,1,1,[section_rename],ec405efac79653a2278eeaaa4a5654c0c43cdf63.exe
+0.8270853,6.930000000000001,1,199,1,1,[overlay_append],d54da39d49f9d1c2438647352c95d4829a5bb805.exe
+0.8314488,6.930000000000001,1,202,1,1,[remove_debug],e6073ce883632dd886dabade9460382fc039e060.exe
+0.6716735,6.930000000000001,1,207,1,1,[break_optional_header_checksum],96ec97b7c6feae42421df9b52263e9568f077816.exe
+0.06566831,6.930000000000001,1,210,1,1,[section_add],199259142908fd5a6028afffcd5eb19eb07ce059.exe
+0.8191662,6.930000000000001,1,211,1,1,[remove_debug],7247838f1745f00fba2ca2a8b4dfd4f3e8c1d143.exe
+0.85075694,6.930000000000001,1,212,1,1,[remove_debug],f65f49c9fb7d7261929315063f338956f1353438.exe
+0.66710705,6.930000000000001,1,221,1,1,[remove_debug],2058d87026a18a66ffe7271d090b7b364694e719.exe
+0.8621241,6.930000000000001,1,225,1,1,[overlay_append],8399d6dda2cfde64456e37930874040cfe15065e.exe
+0.7546224,6.930000000000001,1,231,1,1,[remove_debug],88bb18c26a5c0033be1e4ec1abd681e32c128f0a.exe
+0.9552269,3.6300000000000003,1,235,0,1,[remove_debug],3745e312c6e1236308be6f4d6bda96dc04d44adb.exe
+0.86629784,7.260000000000001,2,235,1,1,[remove_debug; imports_append],3745e312c6e1236308be6f4d6bda96dc04d44adb.exe
+0.99641585,3.6300000000000003,1,243,0,1,[remove_debug],fb0c0a200546615c21843e21ae50ec9984447f9a.exe
+0.99641585,3.9600000000000004,2,243,0,1,[remove_debug; overlay_append],fb0c0a200546615c21843e21ae50ec9984447f9a.exe
+0.99641585,4.29,3,243,0,1,[remove_debug; overlay_append; remove_debug],fb0c0a200546615c21843e21ae50ec9984447f9a.exe
+0.99641585,4.62,4,243,0,1,[remove_debug; overlay_append; remove_debug; break_optional_header_checksum],fb0c0a200546615c21843e21ae50ec9984447f9a.exe
+0.99641585,4.95,5,243,0,1,[remove_debug; overlay_append; remove_debug; break_optional_header_checksum; remove_debug],fb0c0a200546615c21843e21ae50ec9984447f9a.exe
+0.99501306,5.28,6,243,0,1,[remove_debug; overlay_append; remove_debug; break_optional_header_checksum; remove_debug; imports_append],fb0c0a200546615c21843e21ae50ec9984447f9a.exe
+0.99501306,5.61,7,243,0,1,[remove_debug; overlay_append; remove_debug; break_optional_header_checksum; remove_debug; imports_append; section_rename],fb0c0a200546615c21843e21ae50ec9984447f9a.exe
+0.99501306,5.94,8,243,0,1,[remove_debug; overlay_append; remove_debug; break_optional_header_checksum; remove_debug; imports_append; section_rename; remove_debug],fb0c0a200546615c21843e21ae50ec9984447f9a.exe
+0.99501306,6.2700000000000005,9,243,0,1,[remove_debug; overlay_append; remove_debug; break_optional_header_checksum; remove_debug; imports_append; section_rename; remove_debug; break_optional_header_checksum],fb0c0a200546615c21843e21ae50ec9984447f9a.exe
+0.99501306,6.6000000000000005,10,243,0,1,[remove_debug; overlay_append; remove_debug; break_optional_header_checksum; remove_debug; imports_append; section_rename; remove_debug; break_optional_header_checksum; section_add],fb0c0a200546615c21843e21ae50ec9984447f9a.exe
+0.8428273,6.930000000000001,1,259,1,1,[section_rename],790cd3dab2a5f32569f7a10f11f5d48bab8e5d36.exe
+0.605152,6.930000000000001,1,274,1,1,[section_add],da7d3c10a1e0c3b45b4dc365a479b76cb24b1e5c.exe
+0.79800427,6.930000000000001,1,283,1,1,[remove_debug],c2b082915ece797f9cd5268d54c99a276d0d8528.exe
+0.85377437,6.930000000000001,1,289,1,1,[section_rename],ed5770d0e67fcb94252068cf11f75d9c32ecdb46.exe
+0.61234146,6.930000000000001,1,291,1,1,[remove_debug],641ad29c85d81fcde234a064be4c1999fa7ffe96.exe
+0.839386,6.930000000000001,1,293,1,1,[overlay_append],f0a1f8c87739de42470e600813a041c76cc91877.exe
+0.8841343,6.930000000000001,1,295,1,1,[section_add],c8d3c788a17bb216f55ab4758bec60765c70119d.exe
+0.97799736,3.6300000000000003,1,299,0,1,[break_optional_header_checksum],1877a84f1ef1ddb8864614e823e3812f78c1981e.exe
+0.97799736,3.9600000000000004,2,299,0,1,[break_optional_header_checksum; remove_debug],1877a84f1ef1ddb8864614e823e3812f78c1981e.exe
+0.97799736,4.29,3,299,0,1,[break_optional_header_checksum; remove_debug; remove_debug],1877a84f1ef1ddb8864614e823e3812f78c1981e.exe
+0.97799736,4.62,4,299,0,1,[break_optional_header_checksum; remove_debug; remove_debug; remove_debug],1877a84f1ef1ddb8864614e823e3812f78c1981e.exe
+0.98922193,4.95,5,299,0,1,[break_optional_header_checksum; remove_debug; remove_debug; remove_debug; section_add],1877a84f1ef1ddb8864614e823e3812f78c1981e.exe
+0.98972344,5.28,6,299,0,1,[break_optional_header_checksum; remove_debug; remove_debug; remove_debug; section_add; section_add],1877a84f1ef1ddb8864614e823e3812f78c1981e.exe
+0.98972344,5.61,7,299,0,1,[break_optional_header_checksum; remove_debug; remove_debug; remove_debug; section_add; section_add; section_rename],1877a84f1ef1ddb8864614e823e3812f78c1981e.exe
+0.9898644,5.94,8,299,0,1,[break_optional_header_checksum; remove_debug; remove_debug; remove_debug; section_add; section_add; section_rename; section_add],1877a84f1ef1ddb8864614e823e3812f78c1981e.exe
+0.9898644,6.2700000000000005,9,299,0,1,[break_optional_header_checksum; remove_debug; remove_debug; remove_debug; section_add; section_add; section_rename; section_add; section_rename],1877a84f1ef1ddb8864614e823e3812f78c1981e.exe
+0.9898644,6.6000000000000005,10,299,0,1,[break_optional_header_checksum; remove_debug; remove_debug; remove_debug; section_add; section_add; section_rename; section_add; section_rename; remove_debug],1877a84f1ef1ddb8864614e823e3812f78c1981e.exe
+0.57068676,6.930000000000001,1,301,1,1,[remove_debug],552bb4054c45cbfb039914ae43094212cb9a71b9.exe
+0.70194304,6.930000000000001,1,304,1,1,[remove_debug],8985fc2a1f0e735e30d2ee92f152571d74759bb4.exe
+0.61484605,6.930000000000001,1,319,1,1,[remove_debug],df543cbb9c9729cb4c3370183b4151f7119d829d.exe
+0.8164151,6.930000000000001,1,332,1,1,[remove_debug],639c9bf1461dd9aacecd8bc084c72e2dbfce1e6b.exe
+0.81752825,6.930000000000001,1,343,1,1,[remove_debug],4569c1625eaf3e0edbb0dd0a371742f07a27db96.exe
+0.797481,6.930000000000001,1,364,1,1,[remove_debug],8343b3507d2b0ebb57e614c7b0c0bda7b352f80d.exe
+0.82943887,6.930000000000001,1,368,1,1,[remove_debug],891bac046a764f62203fca6cfcb8e74564162bdd.exe
+0.82509905,6.930000000000001,1,379,1,1,[section_add],ed452740a74ed63e04f37e5da3093d30940258b2.exe
+0.82660645,6.930000000000001,1,385,1,1,[remove_debug],b0aee1974b202ae85f4ce6dedf36f4ed94825996.exe
+0.8328577,6.930000000000001,1,388,1,1,[remove_debug],b6a72edc4746b47246b4d4f04fe12193e212719f.exe
+0.65724117,6.930000000000001,1,394,1,1,[remove_debug],d543ba052c6db2671618c999ca240e0c8aa2e180.exe
+0.5906601,6.930000000000001,1,412,1,1,[section_add],bf7314d9e323e98d851f7e7c3b37873d74c116fb.exe
+0.79722023,6.930000000000001,1,413,1,1,[remove_debug],cf8f413983431139785723bc2260fa9fc071bc77.exe
+0.8825154,6.930000000000001,1,429,1,1,[section_add],8764d96cb3b6bf871f3f2922aab86446754e50a4.exe
+0.8117048,6.930000000000001,1,431,1,1,[remove_debug],33048013e223dc3b6c5a8cbe5879ede830276a16.exe
+0.8526959,6.930000000000001,1,432,1,1,[remove_debug],e2ae254caaf5345d285cfbb67647530010120a39.exe
+0.8345948,6.930000000000001,1,433,1,1,[remove_debug],43ceebb3f645f6b9c4b6ff805b69b10735cfa3b2.exe
+0.81503224,6.930000000000001,1,446,1,1,[break_optional_header_checksum],e9c8e0c8b4b9f9d702b49f46513a346a6b773247.exe
+0.83887297,6.930000000000001,1,449,1,1,[section_add],c169109e2940b285edf30d11224ed5e9894a299f.exe
+0.8894469,6.930000000000001,1,455,1,1,[remove_debug],7088ebc8db9ac11105eab4a496305b1ae5d00988.exe
+0.6089381,6.930000000000001,1,458,1,1,[section_add],a42c3537d245ebbde855bb4fca48c98b0ca28012.exe
+0.88181055,6.930000000000001,1,465,1,1,[remove_debug],91e9344f5d8a2369c7d175976f9565e9cad7454a.exe
+0.88602984,6.930000000000001,1,469,1,1,[remove_debug],aae6de8870ea199f9d9789cbb003ba39b02a8550.exe
+0.869637,6.930000000000001,1,471,1,1,[remove_debug],c30ec3c76d90b11cb1461ea10bd009210b6d592f.exe
+0.75889444,6.930000000000001,1,474,1,1,[imports_append],edf685ecc8eec39ceeeb169bd28beea5398d14cb.exe
+0.56305873,6.930000000000001,1,494,1,1,[section_add],e48d38d84872856fe2b6782530f95661911af009.exe

@@ -1,0 +1,9 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9985333987306575,3.6300000000000003,1,1,0,1,[section_rename],aa71dd053f93164b8078681ccdee2cb954503706bf624b125878f5fa65c8e496
+0.998491564287522,3.9600000000000004,2,1,0,1,[section_rename; imports_append],aa71dd053f93164b8078681ccdee2cb954503706bf624b125878f5fa65c8e496
+0.998491564287522,4.29,3,1,0,1,[section_rename; imports_append; remove_debug],aa71dd053f93164b8078681ccdee2cb954503706bf624b125878f5fa65c8e496
+0.998491564287522,4.62,4,1,0,1,[section_rename; imports_append; remove_debug; overlay_append],aa71dd053f93164b8078681ccdee2cb954503706bf624b125878f5fa65c8e496
+0.998491564287522,4.95,5,1,0,1,[section_rename; imports_append; remove_debug; overlay_append; upx_pack],aa71dd053f93164b8078681ccdee2cb954503706bf624b125878f5fa65c8e496
+0.998491564287522,5.28,6,1,0,1,[section_rename; imports_append; remove_debug; overlay_append; upx_pack; remove_debug],aa71dd053f93164b8078681ccdee2cb954503706bf624b125878f5fa65c8e496
+0.998491564287522,5.61,7,1,0,1,[section_rename; imports_append; remove_debug; overlay_append; upx_pack; remove_debug; remove_debug],aa71dd053f93164b8078681ccdee2cb954503706bf624b125878f5fa65c8e496
+0.9978592978201668,2.64,8,1,0,0,[section_rename; imports_append; remove_debug; overlay_append; upx_pack; remove_debug; remove_debug; section_add],aa71dd053f93164b8078681ccdee2cb954503706bf624b125878f5fa65c8e496

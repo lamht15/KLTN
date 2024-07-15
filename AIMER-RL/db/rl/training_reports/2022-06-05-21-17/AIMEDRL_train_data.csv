@@ -1,0 +1,9 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9963714639735693,3.6300000000000003,1,1,0,1,[section_rename],b6b7a560071b1f1993e75b67882594b3bfbc0733b866e681dae5d5ba7609fabe
+0.9973312725113899,3.9600000000000004,2,1,0,1,[section_rename; section_rename],b6b7a560071b1f1993e75b67882594b3bfbc0733b866e681dae5d5ba7609fabe
+0.9973312725113899,4.29,3,1,0,1,[section_rename; section_rename; break_optional_header_checksum],b6b7a560071b1f1993e75b67882594b3bfbc0733b866e681dae5d5ba7609fabe
+0.9973312725113899,4.62,4,1,0,1,[section_rename; section_rename; break_optional_header_checksum; overlay_append],b6b7a560071b1f1993e75b67882594b3bfbc0733b866e681dae5d5ba7609fabe
+0.9973312725113899,4.95,5,1,0,1,[section_rename; section_rename; break_optional_header_checksum; overlay_append; break_optional_header_checksum],b6b7a560071b1f1993e75b67882594b3bfbc0733b866e681dae5d5ba7609fabe
+0.9977387568714017,5.28,6,1,0,1,[section_rename; section_rename; break_optional_header_checksum; overlay_append; break_optional_header_checksum; remove_signature],b6b7a560071b1f1993e75b67882594b3bfbc0733b866e681dae5d5ba7609fabe
+0.9980031405684328,5.61,7,1,0,1,[section_rename; section_rename; break_optional_header_checksum; overlay_append; break_optional_header_checksum; remove_signature; section_rename],b6b7a560071b1f1993e75b67882594b3bfbc0733b866e681dae5d5ba7609fabe
+0.9961451225620774,2.64,8,1,0,0,[section_rename; section_rename; break_optional_header_checksum; overlay_append; break_optional_header_checksum; remove_signature; section_rename; section_add],b6b7a560071b1f1993e75b67882594b3bfbc0733b866e681dae5d5ba7609fabe

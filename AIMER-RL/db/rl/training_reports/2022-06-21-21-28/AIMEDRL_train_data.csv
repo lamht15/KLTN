@@ -1,0 +1,14 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.72320753,3.6300000000000003,1,1,0,1,[section_append],2da29285051eeee4fd82d244d2af15658eb47bbf3253de1164072300015b1e0d
+0.72320753,3.9600000000000004,2,1,0,1,[section_append; upx_unpack],2da29285051eeee4fd82d244d2af15658eb47bbf3253de1164072300015b1e0d
+0.6068971,7.59,3,1,1,1,[section_append; upx_unpack; upx_pack],2da29285051eeee4fd82d244d2af15658eb47bbf3253de1164072300015b1e0d
+0.84746325,3.6300000000000003,1,2,0,1,[section_append],f541d1641fa5a2e88168856dc4d587c49fc388abb138e936d2830050ad97e523
+0.84746325,3.9600000000000004,2,2,0,1,[section_append; upx_pack],f541d1641fa5a2e88168856dc4d587c49fc388abb138e936d2830050ad97e523
+0.84746325,4.29,3,2,0,1,[section_append; upx_pack; section_rename],f541d1641fa5a2e88168856dc4d587c49fc388abb138e936d2830050ad97e523
+0.84746325,4.62,4,2,0,1,[section_append; upx_pack; section_rename; upx_unpack],f541d1641fa5a2e88168856dc4d587c49fc388abb138e936d2830050ad97e523
+0.84746325,4.95,5,2,0,1,[section_append; upx_pack; section_rename; upx_unpack; remove_debug],f541d1641fa5a2e88168856dc4d587c49fc388abb138e936d2830050ad97e523
+0.84746647,5.28,6,2,0,1,[section_append; upx_pack; section_rename; upx_unpack; remove_debug; imports_append],f541d1641fa5a2e88168856dc4d587c49fc388abb138e936d2830050ad97e523
+0.84746647,5.61,7,2,0,1,[section_append; upx_pack; section_rename; upx_unpack; remove_debug; imports_append; remove_debug],f541d1641fa5a2e88168856dc4d587c49fc388abb138e936d2830050ad97e523
+0.84746647,5.94,8,2,0,1,[section_append; upx_pack; section_rename; upx_unpack; remove_debug; imports_append; remove_debug; break_optional_header_checksum],f541d1641fa5a2e88168856dc4d587c49fc388abb138e936d2830050ad97e523
+0.84746647,6.2700000000000005,9,2,0,1,[section_append; upx_pack; section_rename; upx_unpack; remove_debug; imports_append; remove_debug; break_optional_header_checksum; remove_signature],f541d1641fa5a2e88168856dc4d587c49fc388abb138e936d2830050ad97e523
+0.84746647,6.6000000000000005,10,2,0,1,[section_append; upx_pack; section_rename; upx_unpack; remove_debug; imports_append; remove_debug; break_optional_header_checksum; remove_signature; break_optional_header_checksum],f541d1641fa5a2e88168856dc4d587c49fc388abb138e936d2830050ad97e523

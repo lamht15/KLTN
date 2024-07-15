@@ -1,0 +1,5 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9810488172804818,0.33,1,1,0,0,[section_add],75c15c2fe3d1ce84cf3423a5aa859d70eee0682cb02d4e8a3353c0012a041a86
+0.9956019686221513,3.6300000000000003,1,2,0,0,[break_optional_header_checksum],b44f475badbaf8cce613aff855b6bfc3d85d88440f5c576e359d09fcd34e065f
+0.9925438614827068,3.9600000000000004,2,2,0,0,[break_optional_header_checksum; section_add],b44f475badbaf8cce613aff855b6bfc3d85d88440f5c576e359d09fcd34e065f
+0.9925438614827068,0.792,3,2,0,0,[break_optional_header_checksum; section_add; section_add],b44f475badbaf8cce613aff855b6bfc3d85d88440f5c576e359d09fcd34e065f

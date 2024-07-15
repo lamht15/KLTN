@@ -1,0 +1,11 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.8610036,3.6300000000000003,1,1,0,1,[remove_signature],e5a1f7c5aab551a03e494d387e95922dfc13f4c6a448b694eee8ef6c8e90e0c4
+0.8610036,3.9600000000000004,2,1,0,1,[remove_signature; break_optional_header_checksum],e5a1f7c5aab551a03e494d387e95922dfc13f4c6a448b694eee8ef6c8e90e0c4
+0.8608631,4.29,3,1,0,1,[remove_signature; break_optional_header_checksum; imports_append],e5a1f7c5aab551a03e494d387e95922dfc13f4c6a448b694eee8ef6c8e90e0c4
+0.86087114,4.62,4,1,0,1,[remove_signature; break_optional_header_checksum; imports_append; imports_append],e5a1f7c5aab551a03e494d387e95922dfc13f4c6a448b694eee8ef6c8e90e0c4
+0.86087114,4.95,5,1,0,1,[remove_signature; break_optional_header_checksum; imports_append; imports_append; overlay_append],e5a1f7c5aab551a03e494d387e95922dfc13f4c6a448b694eee8ef6c8e90e0c4
+0.86087114,5.28,6,1,0,1,[remove_signature; break_optional_header_checksum; imports_append; imports_append; overlay_append; section_append],e5a1f7c5aab551a03e494d387e95922dfc13f4c6a448b694eee8ef6c8e90e0c4
+0.86087114,5.61,7,1,0,1,[remove_signature; break_optional_header_checksum; imports_append; imports_append; overlay_append; section_append; break_optional_header_checksum],e5a1f7c5aab551a03e494d387e95922dfc13f4c6a448b694eee8ef6c8e90e0c4
+0.86087114,5.94,8,1,0,1,[remove_signature; break_optional_header_checksum; imports_append; imports_append; overlay_append; section_append; break_optional_header_checksum; section_rename],e5a1f7c5aab551a03e494d387e95922dfc13f4c6a448b694eee8ef6c8e90e0c4
+0.86087114,6.2700000000000005,9,1,0,1,[remove_signature; break_optional_header_checksum; imports_append; imports_append; overlay_append; section_append; break_optional_header_checksum; section_rename; overlay_append],e5a1f7c5aab551a03e494d387e95922dfc13f4c6a448b694eee8ef6c8e90e0c4
+0.86087114,6.6000000000000005,10,1,0,1,[remove_signature; break_optional_header_checksum; imports_append; imports_append; overlay_append; section_append; break_optional_header_checksum; section_rename; overlay_append; break_optional_header_checksum],e5a1f7c5aab551a03e494d387e95922dfc13f4c6a448b694eee8ef6c8e90e0c4

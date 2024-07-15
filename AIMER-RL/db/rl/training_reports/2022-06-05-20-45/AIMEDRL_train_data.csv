@@ -1,0 +1,11 @@
+detection_value,reward,turn,episode,adversarial,functional,actions_taken,malware
+0.9202829131246478,3.6300000000000003,1,1,0,1,[remove_debug],94a1689f64bbbac8690596569c08fb6462c81d0aad798107b4676c14f9dccc8f
+0.9202829131246478,3.9600000000000004,2,1,0,1,[remove_debug; remove_signature],94a1689f64bbbac8690596569c08fb6462c81d0aad798107b4676c14f9dccc8f
+0.9202829131246478,4.29,3,1,0,1,[remove_debug; remove_signature; remove_debug],94a1689f64bbbac8690596569c08fb6462c81d0aad798107b4676c14f9dccc8f
+0.9202829131246478,4.62,4,1,0,1,[remove_debug; remove_signature; remove_debug; remove_debug],94a1689f64bbbac8690596569c08fb6462c81d0aad798107b4676c14f9dccc8f
+0.9202829131246478,4.95,5,1,0,1,[remove_debug; remove_signature; remove_debug; remove_debug; remove_signature],94a1689f64bbbac8690596569c08fb6462c81d0aad798107b4676c14f9dccc8f
+0.9202829131246478,5.28,6,1,0,1,[remove_debug; remove_signature; remove_debug; remove_debug; remove_signature; remove_signature],94a1689f64bbbac8690596569c08fb6462c81d0aad798107b4676c14f9dccc8f
+0.9202829131246478,5.61,7,1,0,1,[remove_debug; remove_signature; remove_debug; remove_debug; remove_signature; remove_signature; remove_signature],94a1689f64bbbac8690596569c08fb6462c81d0aad798107b4676c14f9dccc8f
+0.9202829131246478,5.94,8,1,0,1,[remove_debug; remove_signature; remove_debug; remove_debug; remove_signature; remove_signature; remove_signature; break_optional_header_checksum],94a1689f64bbbac8690596569c08fb6462c81d0aad798107b4676c14f9dccc8f
+0.9202829131246478,6.2700000000000005,9,1,0,1,[remove_debug; remove_signature; remove_debug; remove_debug; remove_signature; remove_signature; remove_signature; break_optional_header_checksum; remove_signature],94a1689f64bbbac8690596569c08fb6462c81d0aad798107b4676c14f9dccc8f
+0.9202829131246478,6.6000000000000005,10,1,0,1,[remove_debug; remove_signature; remove_debug; remove_debug; remove_signature; remove_signature; remove_signature; break_optional_header_checksum; remove_signature; remove_signature],94a1689f64bbbac8690596569c08fb6462c81d0aad798107b4676c14f9dccc8f
